@@ -1,0 +1,417 @@
+{
+    "links": [
+        {
+            "source": "그린 북",
+            "target": "가버나움",
+            "value": 4.819129368485592,
+            "total": 8155,
+            "same": 393
+        },
+        {
+            "source": "가버나움",
+            "target": "어느 가족",
+            "value": 3.2520325203252036,
+            "total": 5781,
+            "same": 188
+        },
+        {
+            "source": "가버나움",
+            "target": "말아톤",
+            "value": 2.1030042918454934,
+            "total": 6990,
+            "same": 147
+        },
+        {
+            "source": "가버나움",
+            "target": "그랜 토리노",
+            "value": 2.0239043824701195,
+            "total": 6275,
+            "same": 127
+        },
+        {
+            "source": "가버나움",
+            "target": "엽문",
+            "value": 2.0187659937446685,
+            "total": 7034,
+            "same": 142
+        },
+        {
+            "source": "가버나움",
+            "target": "맨발의 꿈",
+            "value": 2.0136578532656277,
+            "total": 5711,
+            "same": 115
+        },
+        {
+            "source": "가버나움",
+            "target": "피아니스트의 전설",
+            "value": 1.99921599372795,
+            "total": 5102,
+            "same": 102
+        },
+        {
+            "source": "가버나움",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.9909110582125082,
+            "total": 4621,
+            "same": 92
+        },
+        {
+            "source": "가버나움",
+            "target": "아이 엠 샘",
+            "value": 1.9863895530623505,
+            "total": 5437,
+            "same": 108
+        },
+        {
+            "source": "가버나움",
+            "target": "코러스",
+            "value": 1.972872996300863,
+            "total": 5677,
+            "same": 112
+        },
+        {
+            "source": "가버나움",
+            "target": "내 이름은 칸",
+            "value": 1.9692227438706311,
+            "total": 7668,
+            "same": 151
+        },
+        {
+            "source": "가버나움",
+            "target": "쉰들러 리스트",
+            "value": 1.9687712152070607,
+            "total": 5892,
+            "same": 116
+        },
+        {
+            "source": "가버나움",
+            "target": "리멤버 타이탄",
+            "value": 1.9486474094452084,
+            "total": 4362,
+            "same": 85
+        },
+        {
+            "source": "가버나움",
+            "target": "에이트 빌로우",
+            "value": 1.9400352733686066,
+            "total": 6237,
+            "same": 121
+        },
+        {
+            "source": "가버나움",
+            "target": "빌리 엘리어트",
+            "value": 1.9305019305019304,
+            "total": 5698,
+            "same": 110
+        },
+        {
+            "source": "가버나움",
+            "target": "뷰티풀 마인드",
+            "value": 1.9220688450113579,
+            "total": 5723,
+            "same": 110
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "가버나움",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=174830",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "나딘 라바키"
+            ],
+            "actor": [
+                "자인 알 라피아",
+                "요르다노스 시프로우"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

@@ -1,0 +1,433 @@
+{
+    "links": [
+        {
+            "source": "테이큰",
+            "target": "킹콩을 들다",
+            "value": 13.571217494089835,
+            "total": 13536,
+            "same": 1837
+        },
+        {
+            "source": "도가니",
+            "target": "킹콩을 들다",
+            "value": 13.43754934470235,
+            "total": 12666,
+            "same": 1702
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "똥파리",
+            "value": 13.175675675675674,
+            "total": 10952,
+            "same": 1443
+        },
+        {
+            "source": "과속스캔들",
+            "target": "킹콩을 들다",
+            "value": 13.11518670009236,
+            "total": 22737,
+            "same": 2982
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "라디오 스타",
+            "value": 13.014324900944835,
+            "total": 13124,
+            "same": 1708
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "아저씨",
+            "value": 12.650629196496066,
+            "total": 22489,
+            "same": 2845
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "킹콩을 들다",
+            "value": 12.5633990188742,
+            "total": 12027,
+            "same": 1511
+        },
+        {
+            "source": "엽문",
+            "target": "킹콩을 들다",
+            "value": 12.49871729091842,
+            "total": 9745,
+            "same": 1218
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "킹콩을 들다",
+            "value": 12.460289445817155,
+            "total": 11332,
+            "same": 1412
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "킹콩을 들다",
+            "value": 12.242534535528165,
+            "total": 12089,
+            "same": 1480
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "킹콩을 들다",
+            "value": 12.19208211143695,
+            "total": 13640,
+            "same": 1663
+        },
+        {
+            "source": "라따뚜이",
+            "target": "킹콩을 들다",
+            "value": 11.98465107977869,
+            "total": 11206,
+            "same": 1343
+        },
+        {
+            "source": "해바라기",
+            "target": "킹콩을 들다",
+            "value": 11.930164888457808,
+            "total": 16496,
+            "same": 1968
+        },
+        {
+            "source": "바람",
+            "target": "킹콩을 들다",
+            "value": 11.871419478039465,
+            "total": 12568,
+            "same": 1492
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "월-E",
+            "value": 11.793276163011306,
+            "total": 13177,
+            "same": 1554
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "인생은 아름다워",
+            "value": 11.702127659574469,
+            "total": 14382,
+            "same": 1683
+        }
+    ],
+    "nodes": [
+        {
+            "id": "월-E",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=69105",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "가족",
+                "코미디",
+                "멜로/로맨스",
+                "모험"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "벤 버트",
+                "엘리사 나이트",
+                "제프 갈린"
+            ]
+        },
+        {
+            "id": "인생은 아름다워",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "바람",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "공공의 적",
+            "target": "오아시스",
+            "value": 9.91763898421414,
+            "total": 2914,
+            "same": 289
+        },
+        {
+            "source": "브레이브하트",
+            "target": "오아시스",
+            "value": 6.9593495934959355,
+            "total": 3075,
+            "same": 214
+        },
+        {
+            "source": "칼리토",
+            "target": "오아시스",
+            "value": 6.765232974910394,
+            "total": 2232,
+            "same": 151
+        },
+        {
+            "source": "공동경비구역 JSA",
+            "target": "오아시스",
+            "value": 6.729311912700818,
+            "total": 3299,
+            "same": 222
+        },
+        {
+            "source": "페이스 오프",
+            "target": "오아시스",
+            "value": 6.7032967032967035,
+            "total": 2730,
+            "same": 183
+        },
+        {
+            "source": "8월의 크리스마스",
+            "target": "오아시스",
+            "value": 6.584234930448223,
+            "total": 3235,
+            "same": 213
+        },
+        {
+            "source": "가위손",
+            "target": "오아시스",
+            "value": 6.4393939393939394,
+            "total": 4224,
+            "same": 272
+        },
+        {
+            "source": "말아톤",
+            "target": "오아시스",
+            "value": 6.297856049004594,
+            "total": 5224,
+            "same": 329
+        },
+        {
+            "source": "동방불패",
+            "target": "오아시스",
+            "value": 6.216696269982238,
+            "total": 2252,
+            "same": 140
+        },
+        {
+            "source": "더 록",
+            "target": "오아시스",
+            "value": 6.201083684527394,
+            "total": 3322,
+            "same": 206
+        },
+        {
+            "source": "여인의 향기",
+            "target": "오아시스",
+            "value": 6.196943972835315,
+            "total": 3534,
+            "same": 219
+        },
+        {
+            "source": "리멤버 타이탄",
+            "target": "오아시스",
+            "value": 6.1943620178041545,
+            "total": 2696,
+            "same": 167
+        },
+        {
+            "source": "살인의 추억",
+            "target": "오아시스",
+            "value": 6.10223642172524,
+            "total": 6260,
+            "same": 382
+        },
+        {
+            "source": "천녀유혼",
+            "target": "오아시스",
+            "value": 6.101083032490974,
+            "total": 2770,
+            "same": 169
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "오아시스",
+            "value": 6.022483940042826,
+            "total": 3736,
+            "same": 225
+        },
+        {
+            "source": "터미네이터",
+            "target": "오아시스",
+            "value": 6.021594684385382,
+            "total": 2408,
+            "same": 145
+        }
+    ],
+    "nodes": [
+        {
+            "id": "살인의 추억",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "8월의 크리스마스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18817",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "허진호"
+            ],
+            "actor": [
+                "한석규",
+                "심은하"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "범죄",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "판타지",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

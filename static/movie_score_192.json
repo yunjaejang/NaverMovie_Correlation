@@ -1,0 +1,423 @@
+{
+    "links": [
+        {
+            "source": "명탐정 코난: 천공의 난파선",
+            "target": "크루즈 패밀리",
+            "value": 4.351610095735422,
+            "total": 4596,
+            "same": 200
+        },
+        {
+            "source": "갓파 쿠와 여름방학을",
+            "target": "크루즈 패밀리",
+            "value": 4.31533269045323,
+            "total": 4148,
+            "same": 179
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "크루즈 패밀리",
+            "value": 4.292371842040716,
+            "total": 4077,
+            "same": 175
+        },
+        {
+            "source": "인크레더블",
+            "target": "크루즈 패밀리",
+            "value": 4.2689214270983715,
+            "total": 4849,
+            "same": 207
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "크루즈 패밀리",
+            "value": 4.243191893603546,
+            "total": 4737,
+            "same": 201
+        },
+        {
+            "source": "코러스",
+            "target": "크루즈 패밀리",
+            "value": 4.238551650692226,
+            "total": 4695,
+            "same": 199
+        },
+        {
+            "source": "엽문",
+            "target": "크루즈 패밀리",
+            "value": 4.23166279455692,
+            "total": 6026,
+            "same": 255
+        },
+        {
+            "source": "타인의 삶",
+            "target": "크루즈 패밀리",
+            "value": 4.227212681638045,
+            "total": 4542,
+            "same": 192
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "크루즈 패밀리",
+            "value": 4.13596029478117,
+            "total": 6649,
+            "same": 275
+        },
+        {
+            "source": "라따뚜이",
+            "target": "크루즈 패밀리",
+            "value": 4.129715420251489,
+            "total": 7555,
+            "same": 312
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "크루즈 패밀리",
+            "value": 4.1200179131213615,
+            "total": 4466,
+            "same": 184
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "크루즈 패밀리",
+            "value": 4.111474281782213,
+            "total": 5813,
+            "same": 239
+        },
+        {
+            "source": "스쿨 오브 락",
+            "target": "크루즈 패밀리",
+            "value": 4.089627076151676,
+            "total": 6382,
+            "same": 261
+        },
+        {
+            "source": "친정엄마",
+            "target": "크루즈 패밀리",
+            "value": 4.087193460490464,
+            "total": 4037,
+            "same": 165
+        },
+        {
+            "source": "업",
+            "target": "크루즈 패밀리",
+            "value": 4.036858271171567,
+            "total": 6837,
+            "same": 276
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "크루즈 패밀리",
+            "value": 4.029535864978903,
+            "total": 4740,
+            "same": 191
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "크루즈 패밀리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=79435",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "커크 드 미코",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "라이언 레이놀즈",
+                "엠마 스톤"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

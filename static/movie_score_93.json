@@ -1,0 +1,420 @@
+{
+    "links": [
+        {
+            "source": "자백",
+            "target": "타인의 삶",
+            "value": 2.6117440841367223,
+            "total": 5705,
+            "same": 149
+        },
+        {
+            "source": "매트릭스",
+            "target": "자백",
+            "value": 2.4949813593346715,
+            "total": 6974,
+            "same": 174
+        },
+        {
+            "source": "자백",
+            "target": "엽문",
+            "value": 2.4785378011631125,
+            "total": 7222,
+            "same": 179
+        },
+        {
+            "source": "자백",
+            "target": "똥파리",
+            "value": 2.4115942028985504,
+            "total": 8625,
+            "same": 208
+        },
+        {
+            "source": "자백",
+            "target": "말아톤",
+            "value": 2.4064543051884826,
+            "total": 7189,
+            "same": 173
+        },
+        {
+            "source": "자백",
+            "target": "신데렐라 맨",
+            "value": 2.4036822366177977,
+            "total": 5866,
+            "same": 141
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "자백",
+            "value": 2.3986293546544832,
+            "total": 7004,
+            "same": 168
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "자백",
+            "value": 2.386262265834077,
+            "total": 8968,
+            "same": 214
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "자백",
+            "value": 2.3670145075082716,
+            "total": 7858,
+            "same": 186
+        },
+        {
+            "source": "자백",
+            "target": "본 얼티메이텀",
+            "value": 2.359942540529448,
+            "total": 9746,
+            "same": 230
+        },
+        {
+            "source": "자백",
+            "target": "가위손",
+            "value": 2.353896103896104,
+            "total": 6160,
+            "same": 145
+        },
+        {
+            "source": "자백",
+            "target": "킹콩을 들다",
+            "value": 2.345325267961371,
+            "total": 9423,
+            "same": 221
+        },
+        {
+            "source": "자백",
+            "target": "그랜 토리노",
+            "value": 2.3158869847151458,
+            "total": 6477,
+            "same": 150
+        },
+        {
+            "source": "자백",
+            "target": "도가니",
+            "value": 2.3101685286877482,
+            "total": 10562,
+            "same": 244
+        },
+        {
+            "source": "자백",
+            "target": "죽은 시인의 사회",
+            "value": 2.3015605703379363,
+            "total": 8907,
+            "same": 205
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "자백",
+            "value": 2.2992392223161455,
+            "total": 5915,
+            "same": 136
+        }
+    ],
+    "nodes": [
+        {
+            "id": "매트릭스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "죽은 시인의 사회",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10048",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "자백",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=146534",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "최승호"
+            ],
+            "actor": [
+                "최승호",
+                "김기춘",
+                "원세훈"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

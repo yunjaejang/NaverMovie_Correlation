@@ -1,0 +1,442 @@
+{
+    "links": [
+        {
+            "source": "클래식",
+            "target": "라디오 스타",
+            "value": 10.406342913776017,
+            "total": 14126,
+            "same": 1470
+        },
+        {
+            "source": "나비 효과",
+            "target": "클래식",
+            "value": 10.233527939949958,
+            "total": 11990,
+            "same": 1227
+        },
+        {
+            "source": "클래식",
+            "target": "지금, 만나러 갑니다",
+            "value": 10.174335524435554,
+            "total": 17495,
+            "same": 1780
+        },
+        {
+            "source": "태극기 휘날리며",
+            "target": "클래식",
+            "value": 10.130052724077329,
+            "total": 14225,
+            "same": 1441
+        },
+        {
+            "source": "클래식",
+            "target": "말아톤",
+            "value": 10.129086968811835,
+            "total": 10613,
+            "same": 1075
+        },
+        {
+            "source": "살인의 추억",
+            "target": "클래식",
+            "value": 9.607960881873552,
+            "total": 11657,
+            "same": 1120
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "클래식",
+            "value": 9.581122812574234,
+            "total": 12629,
+            "same": 1210
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "클래식",
+            "value": 9.545237608236176,
+            "total": 14667,
+            "same": 1400
+        },
+        {
+            "source": "테이큰",
+            "target": "클래식",
+            "value": 9.529627367135003,
+            "total": 14733,
+            "same": 1404
+        },
+        {
+            "source": "클래식",
+            "target": "인생은 아름다워",
+            "value": 9.49964213676882,
+            "total": 15369,
+            "same": 1460
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "클래식",
+            "value": 9.459666309505586,
+            "total": 13066,
+            "same": 1236
+        },
+        {
+            "source": "클래식",
+            "target": "스쿨 오브 락",
+            "value": 9.452240832956088,
+            "total": 11045,
+            "same": 1044
+        },
+        {
+            "source": "해바라기",
+            "target": "클래식",
+            "value": 9.39918070095585,
+            "total": 17576,
+            "same": 1652
+        },
+        {
+            "source": "클래식",
+            "target": "도가니",
+            "value": 9.279988445150574,
+            "total": 13847,
+            "same": 1285
+        },
+        {
+            "source": "라따뚜이",
+            "target": "클래식",
+            "value": 9.257283545342634,
+            "total": 12185,
+            "same": 1128
+        },
+        {
+            "source": "엽기적인 그녀",
+            "target": "클래식",
+            "value": 9.146341463414634,
+            "total": 10004,
+            "same": 915
+        }
+    ],
+    "nodes": [
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "클래식",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=35939",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "손예진",
+                "조승우",
+                "조인성"
+            ]
+        },
+        {
+            "id": "지금, 만나러 갑니다",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "genre": [
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "도이 노부히로"
+            ],
+            "actor": [
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "범죄",
+            "group": 2
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "전쟁",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

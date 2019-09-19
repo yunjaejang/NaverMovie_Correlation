@@ -1,0 +1,440 @@
+{
+    "links": [
+        {
+            "source": "그린 북",
+            "target": "헌터 킬러",
+            "value": 2.673980116558108,
+            "total": 8751,
+            "same": 234
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "그랜 토리노",
+            "value": 2.5798710064496775,
+            "total": 6667,
+            "same": 172
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "라이언 일병 구하기",
+            "value": 2.4945612762871647,
+            "total": 6895,
+            "same": 172
+        },
+        {
+            "source": "핵소 고지",
+            "target": "헌터 킬러",
+            "value": 2.480127186009539,
+            "total": 6290,
+            "same": 156
+        },
+        {
+            "source": "살인의 추억",
+            "target": "헌터 킬러",
+            "value": 2.4237408370773235,
+            "total": 8458,
+            "same": 205
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "헌터 킬러",
+            "value": 2.4125452352231602,
+            "total": 9948,
+            "same": 240
+        },
+        {
+            "source": "매트릭스",
+            "target": "헌터 킬러",
+            "value": 2.392877017250974,
+            "total": 7188,
+            "same": 172
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "엽문",
+            "value": 2.3803119956966112,
+            "total": 7436,
+            "same": 177
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "똥파리",
+            "value": 2.3537399569989814,
+            "total": 8837,
+            "same": 208
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "헌터 킬러",
+            "value": 2.342878393454816,
+            "total": 8067,
+            "same": 189
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "킹콩을 들다",
+            "value": 2.293720809548521,
+            "total": 9635,
+            "same": 221
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "에이리언 2",
+            "value": 2.2841575859178542,
+            "total": 4772,
+            "same": 109
+        },
+        {
+            "source": "테이큰",
+            "target": "헌터 킬러",
+            "value": 2.2624819256613082,
+            "total": 11757,
+            "same": 266
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "헌터 킬러",
+            "value": 2.2513378852186747,
+            "total": 5419,
+            "same": 122
+        },
+        {
+            "source": "나비 효과",
+            "target": "헌터 킬러",
+            "value": 2.246433786364147,
+            "total": 8903,
+            "same": 200
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "스쿨 오브 락",
+            "value": 2.2435897435897436,
+            "total": 7800,
+            "same": 175
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "헌터 킬러",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ]
+        },
+        {
+            "id": "에이리언 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "전쟁",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

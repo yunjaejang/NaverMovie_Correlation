@@ -1,0 +1,431 @@
+{
+    "links": [
+        {
+            "source": "교회오빠",
+            "target": "리멤버 타이탄",
+            "value": 1.6910569105691058,
+            "total": 3075,
+            "same": 52
+        },
+        {
+            "source": "교회오빠",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.678154030566377,
+            "total": 3337,
+            "same": 56
+        },
+        {
+            "source": "교회오빠",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 1.6140109890109893,
+            "total": 2912,
+            "same": 47
+        },
+        {
+            "source": "교회오빠",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 1.5881280916428016,
+            "total": 3841,
+            "same": 61
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "교회오빠",
+            "value": 1.586919932676124,
+            "total": 4159,
+            "same": 66
+        },
+        {
+            "source": "코러스",
+            "target": "교회오빠",
+            "value": 1.522035438437074,
+            "total": 4402,
+            "same": 67
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "교회오빠",
+            "value": 1.4872652909462725,
+            "total": 5379,
+            "same": 80
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "교회오빠",
+            "value": 1.4845605700712587,
+            "total": 3368,
+            "same": 50
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "교회오빠",
+            "value": 1.4676034348165496,
+            "total": 6405,
+            "same": 94
+        },
+        {
+            "source": "바울",
+            "target": "교회오빠",
+            "value": 1.465311004784689,
+            "total": 3344,
+            "same": 49
+        },
+        {
+            "source": "칼리토",
+            "target": "교회오빠",
+            "value": 1.4564967420467612,
+            "total": 2609,
+            "same": 38
+        },
+        {
+            "source": "인크레더블",
+            "target": "교회오빠",
+            "value": 1.4457831325301205,
+            "total": 4565,
+            "same": 66
+        },
+        {
+            "source": "교회오빠",
+            "target": "브레이브하트",
+            "value": 1.4273479874393378,
+            "total": 3503,
+            "same": 50
+        },
+        {
+            "source": "천녀유혼",
+            "target": "교회오빠",
+            "value": 1.4249525015832807,
+            "total": 3158,
+            "same": 45
+        },
+        {
+            "source": "교회오빠",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 1.4153132250580047,
+            "total": 4310,
+            "same": 61
+        },
+        {
+            "source": "교회오빠",
+            "target": "에이트 빌로우",
+            "value": 1.4090177133655395,
+            "total": 4968,
+            "same": 70
+        }
+    ],
+    "nodes": [
+        {
+            "id": "울지마 톤즈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "교회오빠",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=183132",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이호경"
+            ],
+            "actor": [
+                "이관희",
+                "오은주",
+                "이소연"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "트루맛쇼",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "바울",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=173692",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "앤드류 하얏트"
+            ],
+            "actor": [
+                "제임스 폴크너",
+                "제임스 카비젤"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "다큐멘터리",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

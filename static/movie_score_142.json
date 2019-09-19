@@ -1,0 +1,422 @@
+{
+    "links": [
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "우리들",
+            "value": 2.789886660854403,
+            "total": 3441,
+            "same": 96
+        },
+        {
+            "source": "히든 피겨스",
+            "target": "우리들",
+            "value": 1.7581983405768469,
+            "total": 5062,
+            "same": 89
+        },
+        {
+            "source": "어느 가족",
+            "target": "우리들",
+            "value": 1.6842105263157894,
+            "total": 4750,
+            "same": 80
+        },
+        {
+            "source": "빽 투 더 퓨쳐",
+            "target": "우리들",
+            "value": 1.6457142857142857,
+            "total": 4375,
+            "same": 72
+        },
+        {
+            "source": "원더",
+            "target": "우리들",
+            "value": 1.569713758079409,
+            "total": 4332,
+            "same": 68
+        },
+        {
+            "source": "우리들",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.5629440181869851,
+            "total": 3519,
+            "same": 55
+        },
+        {
+            "source": "우리들",
+            "target": "타인의 삶",
+            "value": 1.5607328658674509,
+            "total": 4421,
+            "same": 69
+        },
+        {
+            "source": "아마데우스",
+            "target": "우리들",
+            "value": 1.5592273679311148,
+            "total": 4297,
+            "same": 67
+        },
+        {
+            "source": "우리들",
+            "target": "뷰티풀 마인드",
+            "value": 1.5577672003461707,
+            "total": 4622,
+            "same": 72
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "우리들",
+            "value": 1.5381282495667246,
+            "total": 4616,
+            "same": 71
+        },
+        {
+            "source": "우리들",
+            "target": "파수꾼",
+            "value": 1.5356637704586786,
+            "total": 4949,
+            "same": 76
+        },
+        {
+            "source": "시네마 천국",
+            "target": "우리들",
+            "value": 1.5270326042096576,
+            "total": 4846,
+            "same": 74
+        },
+        {
+            "source": "우리들",
+            "target": "영웅본색",
+            "value": 1.5180265654648957,
+            "total": 3689,
+            "same": 56
+        },
+        {
+            "source": "우리들",
+            "target": "헤드윅",
+            "value": 1.5147342329936657,
+            "total": 3631,
+            "same": 55
+        },
+        {
+            "source": "인크레더블",
+            "target": "우리들",
+            "value": 1.4761703922395615,
+            "total": 4742,
+            "same": 70
+        },
+        {
+            "source": "헬프",
+            "target": "우리들",
+            "value": 1.4699706005879882,
+            "total": 4762,
+            "same": 70
+        }
+    ],
+    "nodes": [
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드",
+                "리 톰슨"
+            ]
+        },
+        {
+            "id": "헬프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "우리들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=146504",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤가은"
+            ],
+            "actor": [
+                "최수인",
+                "설혜인",
+                "이서연"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        },
+        {
+            "id": "파수꾼",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75378",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤성현"
+            ],
+            "actor": [
+                "이제훈",
+                "서준영",
+                "박정민"
+            ]
+        },
+        {
+            "id": "헤드윅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31827",
+            "genre": [
+                "드라마",
+                "코미디",
+                "뮤지컬"
+            ],
+            "director": [
+                "존 카메론 미첼"
+            ],
+            "actor": [
+                "존 카메론 미첼"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

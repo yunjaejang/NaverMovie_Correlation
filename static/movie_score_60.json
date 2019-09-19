@@ -1,0 +1,421 @@
+{
+    "links": [
+        {
+            "source": "투게더",
+            "target": "폴란드로 간 아이들",
+            "value": 1.2376237623762376,
+            "total": 808,
+            "same": 10
+        },
+        {
+            "source": "바울",
+            "target": "폴란드로 간 아이들",
+            "value": 1.2128816394813886,
+            "total": 2391,
+            "same": 29
+        },
+        {
+            "source": "폴란드로 간 아이들",
+            "target": "바람과 함께 사라지다",
+            "value": 1.187648456057007,
+            "total": 1684,
+            "same": 20
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "폴란드로 간 아이들",
+            "value": 1.1417058428475486,
+            "total": 1489,
+            "same": 17
+        },
+        {
+            "source": "칼리토",
+            "target": "폴란드로 간 아이들",
+            "value": 1.0259505129752564,
+            "total": 1657,
+            "same": 17
+        },
+        {
+            "source": "폴란드로 간 아이들",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 0.9595327492699207,
+            "total": 2397,
+            "same": 23
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9592326139088728,
+            "total": 834,
+            "same": 8
+        },
+        {
+            "source": "주전장",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9565857247976454,
+            "total": 1359,
+            "same": 13
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9505703422053232,
+            "total": 1578,
+            "same": 15
+        },
+        {
+            "source": "시네마 천국",
+            "target": "폴란드로 간 아이들",
+            "value": 0.9380863039399625,
+            "total": 3731,
+            "same": 35
+        },
+        {
+            "source": "폴란드로 간 아이들",
+            "target": "피아니스트의 전설",
+            "value": 0.9361997226074895,
+            "total": 2884,
+            "same": 27
+        },
+        {
+            "source": "코러스",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8946608946608947,
+            "total": 3465,
+            "same": 31
+        },
+        {
+            "source": "폴란드로 간 아이들",
+            "target": "아름다운 비행",
+            "value": 0.8849557522123894,
+            "total": 1017,
+            "same": 9
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8837044892188053,
+            "total": 2829,
+            "same": 25
+        },
+        {
+            "source": "폴란드로 간 아이들",
+            "target": "아이언 자이언트",
+            "value": 0.864304235090752,
+            "total": 2314,
+            "same": 20
+        },
+        {
+            "source": "친정엄마",
+            "target": "폴란드로 간 아이들",
+            "value": 0.8633093525179856,
+            "total": 2780,
+            "same": 24
+        }
+    ],
+    "nodes": [
+        {
+            "id": "주전장",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=179518",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "미키 데자키"
+            ],
+            "actor": [
+                "전체 관람가"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "다시 태어나도 우리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ]
+        },
+        {
+            "id": "폴란드로 간 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=178434",
+            "genre": [
+                "다큐멘터리",
+                "드라마"
+            ],
+            "director": [
+                "추상미"
+            ],
+            "actor": [
+                "이송",
+                "추상미"
+            ]
+        },
+        {
+            "id": "아이언 자이언트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=25915",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "제니퍼 애니스톤",
+                "엘리 마리엔탈",
+                "해리 코닉 주니어"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "퀸 락 몬트리올",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=54900",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "솔 스위머"
+            ],
+            "actor": [
+                "존 디콘",
+                "브라이언 메이",
+                "프레디 머큐리"
+            ]
+        },
+        {
+            "id": "천국의 아이들",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "투게더",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "바울",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=173692",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "앤드류 하얏트"
+            ],
+            "actor": [
+                "제임스 폴크너",
+                "제임스 카비젤"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "다큐멘터리",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "애니메이션",
+            "group": 3
+        },
+        {
+            "title": "가족",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

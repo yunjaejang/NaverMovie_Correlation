@@ -1,0 +1,443 @@
+{
+    "links": [
+        {
+            "source": "천국의 아이들",
+            "target": "굿바이 마이 프랜드",
+            "value": 7.016991818753933,
+            "total": 3178,
+            "same": 223
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "천국의 아이들",
+            "value": 6.928152492668621,
+            "total": 2728,
+            "same": 189
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "천국의 아이들",
+            "value": 6.713483146067416,
+            "total": 3560,
+            "same": 239
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "니모를 찾아서 3D",
+            "value": 6.680761099365751,
+            "total": 2365,
+            "same": 158
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "리멤버 타이탄",
+            "value": 6.632451638373469,
+            "total": 2533,
+            "same": 168
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "가위손",
+            "value": 6.486486486486487,
+            "total": 4070,
+            "same": 264
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "코러스",
+            "value": 6.478799051883066,
+            "total": 3797,
+            "same": 246
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "터미네이터",
+            "value": 6.455921638468388,
+            "total": 2246,
+            "same": 145
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "빌리 엘리어트",
+            "value": 6.3629222309505105,
+            "total": 3819,
+            "same": 243
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 6.354515050167224,
+            "total": 2392,
+            "same": 152
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "페이스 오프",
+            "value": 6.339389253962119,
+            "total": 2587,
+            "same": 164
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "쿨 러닝",
+            "value": 6.2971175166297115,
+            "total": 2255,
+            "same": 142
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "공공의 적",
+            "value": 6.291506466270534,
+            "total": 2861,
+            "same": 180
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "캐치 미 이프 유 캔",
+            "value": 6.262684836184401,
+            "total": 3449,
+            "same": 216
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "말아톤",
+            "value": 6.184754776442781,
+            "total": 5077,
+            "same": 314
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "여인의 향기",
+            "value": 6.179775280898876,
+            "total": 3382,
+            "same": 209
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "천국의 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "판타지",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "액션",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

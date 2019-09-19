@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <title>비교 그래프</title>
+  <style>
+    div.jumbotron{
+        border: medium solid red;
+        background-color:black;
+        color:white;
+        text-align: center;
+        width:900px;
+        height:80px;
+        margin: 5px auto 30px auto;
+
+      }
+  	.link {
+  	  stroke: #999;
+      stroke-opacity: 0.6;
+      pointer-events: all;
+  	}
+
+    .node circle {
+  	  pointer-events: all;
+  	  stroke: #777;
+  	  stroke-width: 1px;
+  	}
+    
+    
+  	div.tooltip {
+      position: absolute;
+      background-color: white;
+      max-width; 200px;
+      height: auto;
+      padding: 1px;
+      border-style: solid;
+      border-radius: 4px;
+      border-width: 1px;
+      box-shadow: 3px 3px 10px rgba(0, 0, 0, .5);
+      pointer-events: none;
+    }
+    .back_color{
+        width:900px;
+        font-weight:bold;
+        margin: 5px auto 30px auto;
+        text-align:center;
+        
+      }
+  </style>
+  
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script>
+
+
+    
+
+
+    var color = d3.scaleOrdinal(d3.schemeSet3);
+
+    var genre_name = [];
+    var movie_name = [];
+    
+
+    var tooltip = d3.select("body")
+    .append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+    
+    
+    d3.json('{{url_for("static", filename = temp1)}}', function(error, graph) {
+      if (error) throw error;
+      const svg = d3.select('svg'),
+      width = +svg.attr('width'),
+      height = +svg.attr('height');
+
+
+      for(let i=0;i<graph.data[0]['genre_n'];i++){
+        color(i+1);
+        genre_name.push(graph.genre_data[i]['title'])
+      }
+      for(let i=0;i<Object.keys(graph.nodes).length;i++){
+        movie_name.push(graph.nodes[i]['id']);
+      }
+
+
+
+//  const width = 960;
+//   const height = 700;
+
+const simulation = d3.forceSimulation()
+.nodes(graph.nodes)
+.force('link', d3.forceLink().id(d => d.id).distance(250))
+.force('charge', d3.forceManyBody().strength(-3550))
+.force('center', d3.forceCenter(750, 390))
+.on('tick', ticked);
+
+simulation.force('link')
+.links(graph.links);
+
+const R = 20;
+
+
+
+
+var link = svg.append("g")
+.attr("class", "links")
+.selectAll("line")
+.data(graph.links)
+.enter().append("line")
+.attr("stroke-width", function(d) { return d.value; });;
+
+link  
+.attr('class', 'link')
+
+.on('dblclick',getinfomovies);
+;
+;
+
+let node = svg.selectAll('.node')
+.data(graph.nodes)
+.enter().append('g')
+.attr('class', 'node')
+.call(d3.drag()
+ .on("start", dragstarted)
+ .on("drag", dragged)
+ .on("end", dragended));;
+
+node.append('circle')
+.attr('r', R)
+.attr("fill", function(d) { return color(d.group);})  
+
+
+.on('dblclick',releasenode);
+
+
+node.append('text')
+.attr('x', 16)
+.attr('y', 15)
+.text(d => d.id);
+
+
+function ticked() {
+  link
+  .attr('x1', d => d.source.x)
+  .attr('y1', d => d.source.y)
+  .attr('x2', d => d.target.x)
+  .attr('y2', d => d.target.y);
+
+  node
+  .attr('transform', d => `translate(${d.x},${d.y})`);
+
+  
+
+
+}
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  //d.fx = null;
+  //d.fy = null;
+}
+function releasenode(d) {
+  d.fx = null;
+  d.fy = null;
+  location.href = "/info?id="+d.id;
+}
+function getinfomovies(d){
+  location.href = "/infos?id1="+d.source.id + "&id2=" + d.target.id + "&total=" + d.total + "&same="+d.same;
+}
+
+const linkedByIndex = {};
+graph.links.forEach(d => {
+  linkedByIndex[`${d.source.index},${d.target.index}`] = 1;
+});
+
+function isConnected(a, b) {
+  return linkedByIndex[`${a.index},${b.index}`] || linkedByIndex[`${b.index},${a.index}`] || a.index === b.index;
+}
+
+function fade(opacity) {
+  return d => {
+    node.style('stroke-opacity', function (o) {
+      const thisOpacity = isConnected(d, o) ? 1 : opacity;
+      this.setAttribute('fill-opacity', thisOpacity);
+      return thisOpacity;
+    });
+
+    link.style('stroke-opacity', o => (o.source === d || o.target === d ? 1 : opacity));
+
+  };
+}
+var sequentialScale = d3.scaleOrdinal(d3.schemeSet3)
+.domain(genre_name);
+
+
+svg.append("g")
+.attr("class", "legendSequential")
+.attr("transform", "translate("+(0)+","+(15)+")");
+
+var legendSequential = d3.legendColor()
+.shapeWidth(30)
+.cells(12)
+.orient("vertical")
+.title("Genre by color:")
+.titleWidth(100)
+.scale(sequentialScale) 
+
+svg.select(".legendSequential")
+.call(legendSequential); 
+
+var sequntialScale1 = d3.scaleOrdinal(d3.schemeSet3).domain(movie_name);
+
+
+})
+
+
+</script>
+</head>
+<body>
+  <div class="jumbotron">
+  <p class="lead back_color">해당 페이지는 클릭하신 영화와 가장 연관이 있는 영화 15개를 출력한 결과입니다. 두 영화에 평점을 남긴 유저들이 많으면 링크의 굵기가 굵어집니다. 노드를 더블클릭하시면 해당 영화 정보로 이동합니다. 그리고 링크를 더블클릭하시면 두 영화의 정보와 연관 결과를 보실수 있습니다.</p></div>
+
+
+  <svg width="1500" height="1000"></svg>
+  
+</body>

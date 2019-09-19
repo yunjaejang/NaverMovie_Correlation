@@ -1,0 +1,451 @@
+{
+    "links": [
+        {
+            "source": "천장지구",
+            "target": "백발마녀전",
+            "value": 4.694835680751173,
+            "total": 639,
+            "same": 30
+        },
+        {
+            "source": "다이 하드",
+            "target": "천장지구",
+            "value": 3.5776614310645725,
+            "total": 1146,
+            "same": 41
+        },
+        {
+            "source": "천장지구",
+            "target": "영웅본색",
+            "value": 3.5319148936170213,
+            "total": 2350,
+            "same": 83
+        },
+        {
+            "source": "천녀유혼",
+            "target": "천장지구",
+            "value": 3.4965034965034967,
+            "total": 2002,
+            "same": 70
+        },
+        {
+            "source": "동방불패",
+            "target": "천장지구",
+            "value": 3.4599728629579376,
+            "total": 1474,
+            "same": 51
+        },
+        {
+            "source": "보디가드",
+            "target": "천장지구",
+            "value": 3.2394366197183095,
+            "total": 710,
+            "same": 23
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "천장지구",
+            "value": 3.229974160206718,
+            "total": 774,
+            "same": 25
+        },
+        {
+            "source": "천장지구",
+            "target": "도망자",
+            "value": 3.217821782178218,
+            "total": 808,
+            "same": 26
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "천장지구",
+            "value": 3.1945788964181996,
+            "total": 1033,
+            "same": 33
+        },
+        {
+            "source": "천장지구",
+            "target": "칼리토",
+            "value": 3.1292517006802725,
+            "total": 1470,
+            "same": 46
+        },
+        {
+            "source": "천장지구",
+            "target": "서유기 - 월광보합",
+            "value": 3.101169293340112,
+            "total": 1967,
+            "same": 61
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "천장지구",
+            "value": 3.0211480362537766,
+            "total": 662,
+            "same": 20
+        },
+        {
+            "source": "혹성탈출",
+            "target": "천장지구",
+            "value": 2.9258098223615465,
+            "total": 957,
+            "same": 28
+        },
+        {
+            "source": "천장지구",
+            "target": "리멤버 타이탄",
+            "value": 2.88659793814433,
+            "total": 1940,
+            "same": 56
+        },
+        {
+            "source": "천장지구",
+            "target": "사랑과 영혼",
+            "value": 2.867383512544803,
+            "total": 1116,
+            "same": 32
+        },
+        {
+            "source": "천장지구",
+            "target": "페이스 오프",
+            "value": 2.865761689291101,
+            "total": 1989,
+            "same": 57
+        }
+    ],
+    "nodes": [
+        {
+            "id": "다이 하드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "폴리스 스토리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "보디가드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17111",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "원규"
+            ],
+            "actor": [
+                "이연걸",
+                "종려시"
+            ]
+        },
+        {
+            "id": "집으로 가는 길",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29953",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "장이머우"
+            ],
+            "actor": [
+                "장쯔이",
+                "순홍레이",
+                "이빈"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "혹성탈출",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "천장지구",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=11003",
+            "genre": [
+                "액션",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "진목승"
+            ],
+            "actor": [
+                "유덕화",
+                "오천련"
+            ]
+        },
+        {
+            "id": "백발마녀전",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12993",
+            "genre": [
+                "액션",
+                "공포",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "우인태"
+            ],
+            "actor": [
+                "장국영",
+                "임청하"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "도망자",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "액션",
+            "group": 1
+        },
+        {
+            "title": "판타지",
+            "group": 2
+        },
+        {
+            "title": "서부",
+            "group": 3
+        },
+        {
+            "title": "드라마",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "SF",
+            "group": 6
+        },
+        {
+            "title": "코미디",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 9
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 9
+        }
+    ]
+}

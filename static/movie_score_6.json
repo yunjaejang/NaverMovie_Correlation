@@ -1,0 +1,420 @@
+{
+    "links": [
+        {
+            "source": "원더",
+            "target": "히든 피겨스",
+            "value": 2.3959021810971577,
+            "total": 6052,
+            "same": 145
+        },
+        {
+            "source": "그린 북",
+            "target": "원더",
+            "value": 2.3483839728846387,
+            "total": 8261,
+            "same": 194
+        },
+        {
+            "source": "원더",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.2991071428571432,
+            "total": 4480,
+            "same": 103
+        },
+        {
+            "source": "원더",
+            "target": "코코",
+            "value": 2.1831484540948782,
+            "total": 16948,
+            "same": 370
+        },
+        {
+            "source": "원더",
+            "target": "위대한 쇼맨",
+            "value": 2.1808851828094933,
+            "total": 15590,
+            "same": 340
+        },
+        {
+            "source": "원더",
+            "target": "캐치 미 이프 유 캔",
+            "value": 2.1513638109873225,
+            "total": 5206,
+            "same": 112
+        },
+        {
+            "source": "원더",
+            "target": "헬프",
+            "value": 2.048611111111111,
+            "total": 5760,
+            "same": 118
+        },
+        {
+            "source": "원더",
+            "target": "인크레더블",
+            "value": 2.037972478662254,
+            "total": 5741,
+            "same": 117
+        },
+        {
+            "source": "원더",
+            "target": "빌리 엘리어트",
+            "value": 2.035350830208891,
+            "total": 5601,
+            "same": 114
+        },
+        {
+            "source": "원더",
+            "target": "온리 더 브레이브",
+            "value": 2.0312928904748833,
+            "total": 3643,
+            "same": 74
+        },
+        {
+            "source": "원더",
+            "target": "러빙 빈센트",
+            "value": 2.008626001232286,
+            "total": 8115,
+            "same": 163
+        },
+        {
+            "source": "원더",
+            "target": "어메이징 메리",
+            "value": 1.9630484988452657,
+            "total": 3464,
+            "same": 68
+        },
+        {
+            "source": "원더",
+            "target": "당갈",
+            "value": 1.9487628640245238,
+            "total": 4567,
+            "same": 89
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "원더",
+            "value": 1.9257867543447629,
+            "total": 6387,
+            "same": 123
+        },
+        {
+            "source": "원더",
+            "target": "핵소 고지",
+            "value": 1.9121447028423773,
+            "total": 5805,
+            "same": 111
+        },
+        {
+            "source": "원더",
+            "target": "피아니스트",
+            "value": 1.8900988859682062,
+            "total": 7989,
+            "same": 151
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "헬프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ]
+        },
+        {
+            "id": "위대한 쇼맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=106360",
+            "genre": [
+                "드라마",
+                "뮤지컬"
+            ],
+            "director": [
+                "마이클 그레이시"
+            ],
+            "actor": [
+                "휴 잭맨",
+                "잭 에프론",
+                "미셸 윌리엄스"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "코코",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=151728",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "안소니 곤잘레스 ",
+                "가엘 가르시아 베르날",
+                "벤자민 브랫"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "러빙 빈센트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=144379",
+            "genre": [
+                "애니메이션",
+                "미스터리"
+            ],
+            "director": [
+                "도로타 코비엘라",
+                "휴 웰치맨"
+            ],
+            "actor": [
+                "더글러스 부스",
+                "시얼샤 로넌",
+                "제롬 플린"
+            ]
+        },
+        {
+            "id": "어메이징 메리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 3
+        }
+    ]
+}

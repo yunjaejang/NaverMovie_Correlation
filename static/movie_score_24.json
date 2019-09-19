@@ -1,0 +1,444 @@
+{
+    "links": [
+        {
+            "source": "나비 효과",
+            "target": "살인의 추억",
+            "value": 11.906181673623534,
+            "total": 10062,
+            "same": 1198
+        },
+        {
+            "source": "살인의 추억",
+            "target": "말아톤",
+            "value": 11.658060814687321,
+            "total": 8715,
+            "same": 1016
+        },
+        {
+            "source": "매트릭스",
+            "target": "살인의 추억",
+            "value": 11.636363636363637,
+            "total": 8525,
+            "same": 992
+        },
+        {
+            "source": "살인의 추억",
+            "target": "공동경비구역 JSA",
+            "value": 11.547377571718343,
+            "total": 6902,
+            "same": 797
+        },
+        {
+            "source": "태극기 휘날리며",
+            "target": "살인의 추억",
+            "value": 11.482475400504189,
+            "total": 12297,
+            "same": 1412
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "살인의 추억",
+            "value": 11.421605401350337,
+            "total": 10664,
+            "same": 1218
+        },
+        {
+            "source": "글래디에이터",
+            "target": "살인의 추억",
+            "value": 11.346908734052993,
+            "total": 8152,
+            "same": 925
+        },
+        {
+            "source": "살인의 추억",
+            "target": "라디오 스타",
+            "value": 11.139178617992178,
+            "total": 12272,
+            "same": 1367
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "살인의 추억",
+            "value": 11.119889393640134,
+            "total": 10126,
+            "same": 1126
+        },
+        {
+            "source": "살인의 추억",
+            "target": "스쿨 오브 락",
+            "value": 11.096491228070175,
+            "total": 9120,
+            "same": 1012
+        },
+        {
+            "source": "살인의 추억",
+            "target": "공공의 적",
+            "value": 11.059283779717124,
+            "total": 6646,
+            "same": 735
+        },
+        {
+            "source": "살인의 추억",
+            "target": "라이언 일병 구하기",
+            "value": 10.9720885466795,
+            "total": 8312,
+            "same": 912
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "살인의 추억",
+            "value": 10.970421393841166,
+            "total": 9872,
+            "same": 1083
+        },
+        {
+            "source": "살인의 추억",
+            "target": "본 얼티메이텀",
+            "value": 10.777099784637473,
+            "total": 11144,
+            "same": 1201
+        },
+        {
+            "source": "살인의 추억",
+            "target": "터미네이터 2",
+            "value": 10.727044510958772,
+            "total": 10357,
+            "same": 1111
+        },
+        {
+            "source": "가위손",
+            "target": "살인의 추억",
+            "value": 10.722491702833802,
+            "total": 7834,
+            "same": 840
+        }
+    ],
+    "nodes": [
+        {
+            "id": "터미네이터 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ]
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "전쟁",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "코미디",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

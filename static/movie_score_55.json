@@ -1,0 +1,424 @@
+{
+    "links": [
+        {
+            "source": "다시 태어나도 우리",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.6590187080833037,
+            "total": 2833,
+            "same": 47
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "어메이징 메리",
+            "value": 1.5873015873015872,
+            "total": 1764,
+            "same": 28
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "서유기 - 월광보합",
+            "value": 1.4959723820483315,
+            "total": 2607,
+            "same": 39
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "맨발의 꿈",
+            "value": 1.4481707317073171,
+            "total": 3936,
+            "same": 57
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "땐뽀걸즈",
+            "value": 1.4324693042291952,
+            "total": 1466,
+            "same": 21
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "서유기 2 - 선리기연",
+            "value": 1.4035087719298245,
+            "total": 4275,
+            "same": 60
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 1.3675922088686283,
+            "total": 2413,
+            "same": 33
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "리멤버 타이탄",
+            "value": 1.3571151609150833,
+            "total": 2579,
+            "same": 35
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "여인의 향기",
+            "value": 1.3302486986697513,
+            "total": 3458,
+            "same": 46
+        },
+        {
+            "source": "아마데우스",
+            "target": "다시 태어나도 우리",
+            "value": 1.3252346769740475,
+            "total": 3622,
+            "same": 48
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "바람과 함께 사라지다",
+            "value": 1.3108614232209739,
+            "total": 2136,
+            "same": 28
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "브레이브하트",
+            "value": 1.299566811062979,
+            "total": 3001,
+            "same": 39
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "트루맛쇼",
+            "value": 1.290097629009763,
+            "total": 2868,
+            "same": 37
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "가위손",
+            "value": 1.2878607202480326,
+            "total": 4193,
+            "same": 54
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "타인의 삶",
+            "value": 1.2806830309498398,
+            "total": 3748,
+            "same": 48
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "오아시스",
+            "value": 1.2802926383173296,
+            "total": 2187,
+            "same": 28
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "서유기 2 - 선리기연",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18543",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "주인"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "다시 태어나도 우리",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "트루맛쇼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "땐뽀걸즈",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=167107",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이승문"
+            ],
+            "actor": [
+                "이규호",
+                "김현빈",
+                "박혜영"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "어메이징 메리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

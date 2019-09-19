@@ -1,0 +1,423 @@
+{
+    "links": [
+        {
+            "source": "포레스트 검프",
+            "target": "죽은 시인의 사회",
+            "value": 12.452931683700914,
+            "total": 11154,
+            "same": 1389
+        },
+        {
+            "source": "죽은 시인의 사회",
+            "target": "인생은 아름다워",
+            "value": 12.386947398885754,
+            "total": 13821,
+            "same": 1712
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "죽은 시인의 사회",
+            "value": 11.810568870921166,
+            "total": 10389,
+            "same": 1227
+        },
+        {
+            "source": "쇼생크 탈출",
+            "target": "죽은 시인의 사회",
+            "value": 11.322763180010083,
+            "total": 17849,
+            "same": 2021
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "죽은 시인의 사회",
+            "value": 11.163734776725304,
+            "total": 8868,
+            "same": 990
+        },
+        {
+            "source": "죽은 시인의 사회",
+            "target": "스쿨 오브 락",
+            "value": 11.153450051493307,
+            "total": 9710,
+            "same": 1083
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "죽은 시인의 사회",
+            "value": 11.00110949901852,
+            "total": 11717,
+            "same": 1289
+        },
+        {
+            "source": "피아니스트",
+            "target": "죽은 시인의 사회",
+            "value": 10.909441977215678,
+            "total": 10358,
+            "same": 1130
+        },
+        {
+            "source": "죽은 시인의 사회",
+            "target": "라디오 스타",
+            "value": 10.741113606443118,
+            "total": 12913,
+            "same": 1387
+        },
+        {
+            "source": "나비 효과",
+            "target": "죽은 시인의 사회",
+            "value": 10.656270305393111,
+            "total": 10773,
+            "same": 1148
+        },
+        {
+            "source": "죽은 시인의 사회",
+            "target": "레옹",
+            "value": 10.638635462118206,
+            "total": 12605,
+            "same": 1341
+        },
+        {
+            "source": "라따뚜이",
+            "target": "죽은 시인의 사회",
+            "value": 10.470674756389043,
+            "total": 10878,
+            "same": 1139
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "죽은 시인의 사회",
+            "value": 10.438490775933996,
+            "total": 10787,
+            "same": 1126
+        },
+        {
+            "source": "프리퀀시",
+            "target": "죽은 시인의 사회",
+            "value": 10.409068506653524,
+            "total": 10145,
+            "same": 1056
+        },
+        {
+            "source": "죽은 시인의 사회",
+            "target": "말아톤",
+            "value": 10.306761490287656,
+            "total": 9421,
+            "same": 971
+        },
+        {
+            "source": "가위손",
+            "target": "죽은 시인의 사회",
+            "value": 10.264587762815971,
+            "total": 8466,
+            "same": 869
+        }
+    ],
+    "nodes": [
+        {
+            "id": "쇼생크 탈출",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "프랭크 다라본트"
+            ],
+            "actor": [
+                "팀 로빈스",
+                "모건 프리먼"
+            ]
+        },
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "죽은 시인의 사회",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10048",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ]
+        },
+        {
+            "id": "레옹",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17170",
+            "genre": [
+                "범죄",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "뤽 베송"
+            ],
+            "actor": [
+                "장 르노",
+                "나탈리 포트만"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "범죄",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

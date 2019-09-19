@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "패밀리 맨",
+            "target": "페이스 오프",
+            "value": 8.764186633039092,
+            "total": 3172,
+            "same": 278
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "브레이브하트",
+            "value": 8.385269121813032,
+            "total": 3530,
+            "same": 296
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "리멤버 타이탄",
+            "value": 8.314749920356801,
+            "total": 3139,
+            "same": 261
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "더 록",
+            "value": 8.28449653702717,
+            "total": 3754,
+            "same": 311
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "뷰티풀 마인드",
+            "value": 8.231569425599277,
+            "total": 4422,
+            "same": 364
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "신데렐라 맨",
+            "value": 8.00638686131387,
+            "total": 4384,
+            "same": 351
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "여인의 향기",
+            "value": 7.9245283018867925,
+            "total": 3975,
+            "same": 315
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "에이트 빌로우",
+            "value": 7.706347596836341,
+            "total": 4931,
+            "same": 380
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "가타카",
+            "value": 7.6630778974034195,
+            "total": 4737,
+            "same": 363
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "첫 키스만 50번째",
+            "value": 7.660500544069642,
+            "total": 4595,
+            "same": 352
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "공공의 적",
+            "value": 7.59493670886076,
+            "total": 3476,
+            "same": 264
+        },
+        {
+            "source": "글래디에이터",
+            "target": "패밀리 맨",
+            "value": 7.409602845287493,
+            "total": 5061,
+            "same": 375
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "패밀리 맨",
+            "value": 7.403827566209163,
+            "total": 5173,
+            "same": 383
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "캐치 미 이프 유 캔",
+            "value": 7.381889763779527,
+            "total": 4064,
+            "same": 300
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "스쿨 오브 락",
+            "value": 7.342483876302299,
+            "total": 6047,
+            "same": 444
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "굿바이 마이 프랜드",
+            "value": 7.217573221757322,
+            "total": 3824,
+            "same": 276
+        }
+    ],
+    "nodes": [
+        {
+            "id": "글래디에이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "액션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

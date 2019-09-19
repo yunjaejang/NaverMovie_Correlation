@@ -1,0 +1,427 @@
+{
+    "links": [
+        {
+            "source": "아일라",
+            "target": "쉰들러 리스트",
+            "value": 1.517040731504572,
+            "total": 4812,
+            "same": 73
+        },
+        {
+            "source": "아일라",
+            "target": "온리 더 브레이브",
+            "value": 1.511144692104269,
+            "total": 2647,
+            "same": 40
+        },
+        {
+            "source": "아일라",
+            "target": "8월의 크리스마스",
+            "value": 1.5061023110880292,
+            "total": 3851,
+            "same": 58
+        },
+        {
+            "source": "아일라",
+            "target": "공공의 적",
+            "value": 1.4958448753462603,
+            "total": 3610,
+            "same": 54
+        },
+        {
+            "source": "아일라",
+            "target": "원더",
+            "value": 1.4939094461043438,
+            "total": 4351,
+            "same": 65
+        },
+        {
+            "source": "아일라",
+            "target": "아이 엠 샘",
+            "value": 1.4685635612666361,
+            "total": 4358,
+            "same": 64
+        },
+        {
+            "source": "아일라",
+            "target": "당갈",
+            "value": 1.4549524342473419,
+            "total": 3574,
+            "same": 52
+        },
+        {
+            "source": "아일라",
+            "target": "피아니스트의 전설",
+            "value": 1.4417101665423813,
+            "total": 4023,
+            "same": 58
+        },
+        {
+            "source": "아일라",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.4410850522746539,
+            "total": 3539,
+            "same": 51
+        },
+        {
+            "source": "아일라",
+            "target": "첫 키스만 50번째",
+            "value": 1.4369012911286962,
+            "total": 4802,
+            "same": 69
+        },
+        {
+            "source": "아일라",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 1.435288294976491,
+            "total": 4041,
+            "same": 58
+        },
+        {
+            "source": "아일라",
+            "target": "그랜 토리노",
+            "value": 1.4217098943323727,
+            "total": 5205,
+            "same": 74
+        },
+        {
+            "source": "아일라",
+            "target": "허스토리",
+            "value": 1.4141414141414141,
+            "total": 3960,
+            "same": 56
+        },
+        {
+            "source": "아일라",
+            "target": "나 홀로 집에",
+            "value": 1.406280100173377,
+            "total": 5191,
+            "same": 73
+        },
+        {
+            "source": "아일라",
+            "target": "동방불패",
+            "value": 1.3859275053304905,
+            "total": 2814,
+            "same": 39
+        },
+        {
+            "source": "아일라",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 1.3813042081593319,
+            "total": 3113,
+            "same": 43
+        }
+    ],
+    "nodes": [
+        {
+            "id": "아일라",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=169240",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "잔 울카이"
+            ],
+            "actor": [
+                "김설",
+                "이스마일 하지오글루"
+            ]
+        },
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "나 홀로 집에",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "허스토리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=167787",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "김희애",
+                "김해숙"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "8월의 크리스마스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18817",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "허진호"
+            ],
+            "actor": [
+                "한석규",
+                "심은하"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

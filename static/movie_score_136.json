@@ -1,0 +1,449 @@
+{
+    "links": [
+        {
+            "source": "터미네이터",
+            "target": "터미네이터 2",
+            "value": 13.036151960784315,
+            "total": 6528,
+            "same": 851
+        },
+        {
+            "source": "터미네이터",
+            "target": "에이리언 2",
+            "value": 11.283018867924529,
+            "total": 2650,
+            "same": 299
+        },
+        {
+            "source": "다이 하드",
+            "target": "터미네이터",
+            "value": 11.2668743509865,
+            "total": 1926,
+            "same": 217
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "터미네이터",
+            "value": 10.92436974789916,
+            "total": 2856,
+            "same": 312
+        },
+        {
+            "source": "터미네이터",
+            "target": "공공의 적",
+            "value": 9.989976612094887,
+            "total": 2993,
+            "same": 299
+        },
+        {
+            "source": "터미네이터",
+            "target": "페이스 오프",
+            "value": 9.963369963369964,
+            "total": 2730,
+            "same": 272
+        },
+        {
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "터미네이터",
+            "value": 9.909555642941408,
+            "total": 2543,
+            "same": 252
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "터미네이터",
+            "value": 9.583454704340227,
+            "total": 3433,
+            "same": 329
+        },
+        {
+            "source": "빽 투 더 퓨쳐 2",
+            "target": "터미네이터",
+            "value": 9.40212150433944,
+            "total": 2074,
+            "same": 195
+        },
+        {
+            "source": "더 록",
+            "target": "터미네이터",
+            "value": 9.274924471299094,
+            "total": 3310,
+            "same": 307
+        },
+        {
+            "source": "매트릭스",
+            "target": "터미네이터",
+            "value": 9.237271080700342,
+            "total": 4969,
+            "same": 459
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "터미네이터",
+            "value": 9.198184568835098,
+            "total": 3305,
+            "same": 304
+        },
+        {
+            "source": "터미네이터",
+            "target": "쥬만지",
+            "value": 9.120258272800646,
+            "total": 2478,
+            "same": 226
+        },
+        {
+            "source": "빽 투 더 퓨쳐",
+            "target": "터미네이터",
+            "value": 9.006128430588863,
+            "total": 3753,
+            "same": 338
+        },
+        {
+            "source": "터미네이터",
+            "target": "공동경비구역 JSA",
+            "value": 8.964684575913068,
+            "total": 3313,
+            "same": 297
+        },
+        {
+            "source": "터미네이터",
+            "target": "브레이브하트",
+            "value": 8.757244043786221,
+            "total": 3106,
+            "same": 272
+        }
+    ],
+    "nodes": [
+        {
+            "id": "터미네이터 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드",
+                "리 톰슨"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "판타지",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "드라마",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

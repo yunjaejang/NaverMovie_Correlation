@@ -1,0 +1,437 @@
+{
+    "links": [
+        {
+            "source": "8월의 크리스마스",
+            "target": "공공의 적",
+            "value": 8.38726378462335,
+            "total": 3863,
+            "same": 324
+        },
+        {
+            "source": "시네마 천국",
+            "target": "8월의 크리스마스",
+            "value": 8.227597145122918,
+            "total": 5044,
+            "same": 415
+        },
+        {
+            "source": "가위손",
+            "target": "8월의 크리스마스",
+            "value": 7.683238357241108,
+            "total": 5089,
+            "same": 391
+        },
+        {
+            "source": "살인의 추억",
+            "target": "8월의 크리스마스",
+            "value": 7.499295179024528,
+            "total": 7094,
+            "same": 532
+        },
+        {
+            "source": "공동경비구역 JSA",
+            "target": "8월의 크리스마스",
+            "value": 7.492245287520878,
+            "total": 4191,
+            "same": 314
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "8월의 크리스마스",
+            "value": 7.475867734647772,
+            "total": 4869,
+            "same": 364
+        },
+        {
+            "source": "더 록",
+            "target": "8월의 크리스마스",
+            "value": 7.454155751369374,
+            "total": 4199,
+            "same": 313
+        },
+        {
+            "source": "여인의 향기",
+            "target": "8월의 크리스마스",
+            "value": 7.439328645951463,
+            "total": 4409,
+            "same": 328
+        },
+        {
+            "source": "글래디에이터",
+            "target": "8월의 크리스마스",
+            "value": 7.3932092004381165,
+            "total": 5478,
+            "same": 405
+        },
+        {
+            "source": "브레이브하트",
+            "target": "8월의 크리스마스",
+            "value": 7.227101631116688,
+            "total": 3985,
+            "same": 288
+        },
+        {
+            "source": "매트릭스",
+            "target": "8월의 크리스마스",
+            "value": 7.187658925241566,
+            "total": 5899,
+            "same": 424
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "8월의 크리스마스",
+            "value": 7.176835573940021,
+            "total": 4835,
+            "same": 347
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "8월의 크리스마스",
+            "value": 7.110318875024757,
+            "total": 5049,
+            "same": 359
+        },
+        {
+            "source": "8월의 크리스마스",
+            "target": "라이언 일병 구하기",
+            "value": 7.066761363636363,
+            "total": 5632,
+            "same": 398
+        },
+        {
+            "source": "아마데우스",
+            "target": "8월의 크리스마스",
+            "value": 6.9823259873445345,
+            "total": 4583,
+            "same": 320
+        },
+        {
+            "source": "천녀유혼",
+            "target": "8월의 크리스마스",
+            "value": 6.952017448200655,
+            "total": 3668,
+            "same": 255
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "8월의 크리스마스",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18817",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "허진호"
+            ],
+            "actor": [
+                "한석규",
+                "심은하"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "드라마",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

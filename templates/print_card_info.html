@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+		
+		<!-- Webpage Title -->
+    <title>영화 연관 정보 페이지</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans+KR&display=swap" rel="stylesheet">
+		
+		<!-- JS -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+    <style>
+      *{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-family: 'Montserrat', sans-serif;
+      }
+      .body-select{
+        background-color:black;
+      }
+      div.jumbotron{
+        background-color:black;
+        border: medium solid red;
+        color:white;
+        text-align:center;
+        width:900px;
+        height:200px;
+        margin: 5px auto 30px auto;
+
+      }
+      div.card-1{
+        width: 900px;
+        margin:5px auto 30px 20%;
+       
+      }
+      div.card{
+        background-color: white;
+        width:450px;
+        float:left;
+      }
+      h5.card-title{
+        font-size: larger;
+        font-weight: 550;
+      }
+      .card-text{
+        font-weight: lighter;
+      }
+      .card-text2 {
+        font-weight: bold;
+        color: blue;
+
+      }
+      .infodiv{
+        width:900px;
+        margin: 5px auto 0px auto;
+      }
+      .back_color{
+        font-weight:bold;
+        color:white;
+        text-align:center;
+        
+      }
+      div.myclass{
+        border: medium solid black;
+        border-radius: 10px;
+        width: 500px;
+        margin: 20px auto 30px auto;
+        padding: 30px 30px 30px 30px;
+      }
+    </style>
+
+    <script>
+      window.onload=function(){
+        $('#card_cl').html('');
+        $('#info').html('');
+        $.getJSON('{{url_for("static", filename = "movie_info.json")}}', function(json){
+          var id1 = '{{temp1}}';
+          var id2 = '{{temp2}}';
+          var total_n = {{temp3}};
+          var same_n = {{temp4}};
+          
+          console.log(json)
+          let temp_info = '<p class="lead back_color">영화 \"'+id1+'\"과 영화 \"'+id2+'\"는(은) 총 '+total_n+'명의 유저가 평점을 남기셨고, '+same_n+'명의 유저가 두 영화 동시에 평점을 남기겼습니다. </p><p class="lead back_color">제목을 클릭하시면 해당 영화 사이트(naver)로 이동합니다.</p>'
+          $('#info').append(temp_info);
+          let temp_html = '<div class="card">\
+        <img class="card-img-top" src="'+json[id1][0]['src']+'" alt="Card image cap">\
+        <div class="card-body">\
+          <a href="https://movie.naver.com'+json[id1][0]['href']+'" target="_blank" class="card-title">'+id1+'</a>\
+          <p class="card-text">배우:'+json[id1][0]['actor']+'</p>\
+          <p class="card-text">감독:'+json[id1][0]['director']+'</p>\
+          <p class="card-text">장르:'+json[id1][0]['genre']+'</p>\
+        </div>\
+        </div>'
+        $('#card_cl').append(temp_html);
+       
+          let temp_html1 = '<div class="card">\
+        <img class="card-img-top" src="'+json[id2][0]['src']+'" alt="Card image cap">\
+        <div class="card-body">\
+          <a href="https://movie.naver.com'+json[id2][0]['href']+'" target="_blank" class="card-title">'+id2+'</a>\
+          <p class="card-text">배우:'+json[id2][0]['actor']+'</p>\
+          <p class="card-text">감독:'+json[id2][0]['director']+'</p>\
+          <p class="card-text">장르:'+json[id2][0]['genre']+'</p>\
+        </div>\
+        </div>'
+        $('#card_cl').append(temp_html1);
+        });
+
+        
+      }
+
+
+      
+    </script>
+
+  </head>
+
+  <body class="body-select">
+    <div id="info" class="infodiv">
+    <p class="lead back_color">제목을 클릭하시면 해당 영화 사이트(naver)로 이동합니다.</p></div>
+       
+    <div id="card_cl" class="card-1">
+      <div class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body">
+          <a href="http://naver.com" target="_blank" class="card-title">sample card</a>
+          <p class="card-text">카드의 내용이 들어갑니다.</p>
+          <p class="card-text2">여기엔 코멘트가 들어갑니다.</p>
+        </div>
+      </div>      
+    </div>
+  </body>
+
+</html>

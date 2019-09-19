@@ -1,0 +1,440 @@
+{
+    "links": [
+        {
+            "source": "다시 태어나도 우리",
+            "target": "땐뽀걸즈",
+            "value": 1.4324693042291952,
+            "total": 1466,
+            "same": 21
+        },
+        {
+            "source": "우리들",
+            "target": "땐뽀걸즈",
+            "value": 1.3005109150023224,
+            "total": 2153,
+            "same": 28
+        },
+        {
+            "source": "땐뽀걸즈",
+            "target": "특전 유보트",
+            "value": 1.1695906432748537,
+            "total": 855,
+            "same": 10
+        },
+        {
+            "source": "뮬란",
+            "target": "땐뽀걸즈",
+            "value": 1.1682242990654206,
+            "total": 1284,
+            "same": 15
+        },
+        {
+            "source": "랜드 오브 마인",
+            "target": "땐뽀걸즈",
+            "value": 1.1614401858304297,
+            "total": 861,
+            "same": 10
+        },
+        {
+            "source": "도망자",
+            "target": "땐뽀걸즈",
+            "value": 1.1434511434511436,
+            "total": 962,
+            "same": 11
+        },
+        {
+            "source": "뚜르: 내 생애 최고의 49일",
+            "target": "땐뽀걸즈",
+            "value": 1.092896174863388,
+            "total": 915,
+            "same": 10
+        },
+        {
+            "source": "벤허",
+            "target": "땐뽀걸즈",
+            "value": 1.0911424903722722,
+            "total": 1558,
+            "same": 17
+        },
+        {
+            "source": "토이 스토리",
+            "target": "땐뽀걸즈",
+            "value": 1.0907003444316876,
+            "total": 1742,
+            "same": 19
+        },
+        {
+            "source": "다이 하드",
+            "target": "땐뽀걸즈",
+            "value": 1.0670731707317074,
+            "total": 1312,
+            "same": 14
+        },
+        {
+            "source": "사랑은 비를 타고",
+            "target": "땐뽀걸즈",
+            "value": 1.066350710900474,
+            "total": 844,
+            "same": 9
+        },
+        {
+            "source": "분노의 역류",
+            "target": "땐뽀걸즈",
+            "value": 1.048951048951049,
+            "total": 858,
+            "same": 9
+        },
+        {
+            "source": "록키",
+            "target": "땐뽀걸즈",
+            "value": 1.0384850335980453,
+            "total": 1637,
+            "same": 17
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "땐뽀걸즈",
+            "value": 1.0350318471337578,
+            "total": 1256,
+            "same": 13
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "땐뽀걸즈",
+            "value": 1.0256410256410255,
+            "total": 2340,
+            "same": 24
+        },
+        {
+            "source": "몬스터 주식회사 3D",
+            "target": "땐뽀걸즈",
+            "value": 1.0115606936416186,
+            "total": 2076,
+            "same": 21
+        }
+    ],
+    "nodes": [
+        {
+            "id": "다시 태어나도 우리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "몬스터 주식회사 3D",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=32112",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "판타지",
+                "코미디"
+            ],
+            "director": [
+                "피트 닥터",
+                "데이빗 실버맨",
+                "리 언크리치"
+            ],
+            "actor": [
+                "존 굿맨",
+                "빌리 크리스탈",
+                "매리 깁스"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "우리들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=146504",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤가은"
+            ],
+            "actor": [
+                "최수인",
+                "설혜인",
+                "이서연"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "땐뽀걸즈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=167107",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이승문"
+            ],
+            "actor": [
+                "이규호",
+                "김현빈",
+                "박혜영"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "랜드 오브 마인",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "특전 유보트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10647",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "볼프강 페터젠"
+            ],
+            "actor": [
+                "주겐 프로크노",
+                "클라우스 웨네먼",
+                "허버트 그로네메이어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        },
+        {
+            "id": "뚜르: 내 생애 최고의 49일",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142304",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "임정하",
+                "전일우",
+                "박형준"
+            ],
+            "actor": [
+                "이윤혁",
+                "이장훈",
+                "윤학병"
+            ]
+        },
+        {
+            "id": "벤허",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10058",
+            "genre": [
+                "드라마",
+                "액션",
+                "모험",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "윌리엄 와일러"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "잭 호킨스",
+                "하야 하라릿"
+            ]
+        },
+        {
+            "id": "도망자",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "다큐멘터리",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "뮤지컬",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

@@ -1,0 +1,423 @@
+{
+    "links": [
+        {
+            "source": "집으로 가는 길",
+            "target": "인생",
+            "value": 4.160475482912332,
+            "total": 673,
+            "same": 28
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "인생",
+            "value": 3.827751196172249,
+            "total": 1045,
+            "same": 40
+        },
+        {
+            "source": "인생",
+            "target": "특전 유보트",
+            "value": 3.7604456824512535,
+            "total": 718,
+            "same": 27
+        },
+        {
+            "source": "인생",
+            "target": "석양에 돌아오다",
+            "value": 3.7138927097661623,
+            "total": 727,
+            "same": 27
+        },
+        {
+            "source": "인생",
+            "target": "대부 2",
+            "value": 3.546548448385054,
+            "total": 1579,
+            "same": 56
+        },
+        {
+            "source": "투게더",
+            "target": "인생",
+            "value": 3.34855403348554,
+            "total": 657,
+            "same": 22
+        },
+        {
+            "source": "패왕별희",
+            "target": "인생",
+            "value": 3.2742155525238745,
+            "total": 2199,
+            "same": 72
+        },
+        {
+            "source": "마지막 황제",
+            "target": "인생",
+            "value": 3.093525179856115,
+            "total": 1390,
+            "same": 43
+        },
+        {
+            "source": "칼리토",
+            "target": "인생",
+            "value": 3.089321692411014,
+            "total": 1489,
+            "same": 46
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "인생",
+            "value": 2.928870292887029,
+            "total": 956,
+            "same": 28
+        },
+        {
+            "source": "다이 하드",
+            "target": "인생",
+            "value": 2.813299232736573,
+            "total": 1173,
+            "same": 33
+        },
+        {
+            "source": "인생",
+            "target": "대부 3",
+            "value": 2.741935483870968,
+            "total": 1240,
+            "same": 34
+        },
+        {
+            "source": "동방불패",
+            "target": "인생",
+            "value": 2.7278775781769795,
+            "total": 1503,
+            "same": 41
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "인생",
+            "value": 2.680965147453083,
+            "total": 1119,
+            "same": 30
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "인생",
+            "value": 2.6348808030112925,
+            "total": 797,
+            "same": 21
+        },
+        {
+            "source": "인생",
+            "target": "터미네이터",
+            "value": 2.5872442839951866,
+            "total": 1662,
+            "same": 43
+        }
+    ],
+    "nodes": [
+        {
+            "id": "패왕별희",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14448",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "장국영",
+                "공리",
+                "장풍의"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "폴리스 스토리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "인생",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16531",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장예모"
+            ],
+            "actor": [
+                "공리",
+                "갈우"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "집으로 가는 길",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29953",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "장이머우"
+            ],
+            "actor": [
+                "장쯔이",
+                "순홍레이",
+                "이빈"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "투게더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "마지막 황제",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "특전 유보트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10647",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "볼프강 페터젠"
+            ],
+            "actor": [
+                "주겐 프로크노",
+                "클라우스 웨네먼",
+                "허버트 그로네메이어"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "서부",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

@@ -1,0 +1,437 @@
+{
+    "links": [
+        {
+            "source": "인크레더블",
+            "target": "아이언 자이언트",
+            "value": 7.033109716511578,
+            "total": 4621,
+            "same": 325
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "엽문",
+            "value": 6.949740034662046,
+            "total": 5770,
+            "same": 401
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "아이언 자이언트",
+            "value": 6.851285739974824,
+            "total": 5561,
+            "same": 381
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "에이트 빌로우",
+            "value": 6.846307385229541,
+            "total": 5010,
+            "same": 343
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "아이언 자이언트",
+            "value": 6.804536357571714,
+            "total": 4497,
+            "same": 306
+        },
+        {
+            "source": "라따뚜이",
+            "target": "아이언 자이언트",
+            "value": 6.786894273127753,
+            "total": 7264,
+            "same": 493
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "쉰들러 리스트",
+            "value": 6.696523779057369,
+            "total": 4689,
+            "same": 314
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "피아니스트의 전설",
+            "value": 6.681910569105691,
+            "total": 3936,
+            "same": 263
+        },
+        {
+            "source": "프리퀀시",
+            "target": "아이언 자이언트",
+            "value": 6.620583717357912,
+            "total": 6510,
+            "same": 431
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "아이언 자이언트",
+            "value": 6.5055284134739,
+            "total": 3889,
+            "same": 253
+        },
+        {
+            "source": "여인의 향기",
+            "target": "아이언 자이언트",
+            "value": 6.489675516224189,
+            "total": 4068,
+            "same": 264
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "그랜 토리노",
+            "value": 6.470704280923259,
+            "total": 5069,
+            "same": 328
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "브레이브하트",
+            "value": 6.439185470555861,
+            "total": 3634,
+            "same": 234
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "스쿨 오브 락",
+            "value": 6.348689565358945,
+            "total": 6143,
+            "same": 390
+        },
+        {
+            "source": "아이언 자이언트",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 6.248425296044344,
+            "total": 3969,
+            "same": 248
+        },
+        {
+            "source": "라이온 킹",
+            "target": "아이언 자이언트",
+            "value": 6.246529705719045,
+            "total": 3602,
+            "same": 225
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아이언 자이언트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=25915",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "제니퍼 애니스톤",
+                "엘리 마리엔탈",
+                "해리 코닉 주니어"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "라이온 킹",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "로저 알러스",
+                "롭 민코프"
+            ],
+            "actor": [
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "모험",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

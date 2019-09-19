@@ -1,0 +1,436 @@
+{
+    "links": [
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "나 홀로 집에",
+            "value": 9.818664307828394,
+            "total": 6783,
+            "same": 666
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "스쿨 오브 락",
+            "value": 9.791906038554831,
+            "total": 7833,
+            "same": 767
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "인생은 아름다워",
+            "value": 9.658857377722976,
+            "total": 12165,
+            "same": 1175
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "시네마 천국",
+            "value": 9.621305418719212,
+            "total": 6496,
+            "same": 625
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "가위손",
+            "value": 9.506286415210058,
+            "total": 6522,
+            "same": 620
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "말아톤",
+            "value": 9.436732514682328,
+            "total": 7492,
+            "same": 707
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "피아니스트",
+            "value": 9.417304296645085,
+            "total": 8495,
+            "same": 800
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "포레스트 검프",
+            "value": 9.246358454718177,
+            "total": 9474,
+            "same": 876
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "코러스",
+            "value": 9.196684730634363,
+            "total": 6274,
+            "same": 577
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "사운드 오브 뮤직",
+            "value": 9.188946304201304,
+            "total": 8902,
+            "same": 818
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "죽은 시인의 사회",
+            "value": 9.149753154141525,
+            "total": 9115,
+            "same": 834
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "아마데우스",
+            "value": 9.12566489361702,
+            "total": 6016,
+            "same": 549
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "글래디에이터",
+            "value": 9.000288933834153,
+            "total": 6922,
+            "same": 623
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "트루먼 쇼",
+            "value": 8.999421631000578,
+            "total": 8645,
+            "same": 778
+        },
+        {
+            "source": "매트릭스",
+            "target": "사운드 오브 뮤직",
+            "value": 8.713410483321987,
+            "total": 7345,
+            "same": 640
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "나비 효과",
+            "value": 8.59566867604376,
+            "total": 8958,
+            "same": 770
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "인생은 아름다워",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "사운드 오브 뮤직",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10102",
+            "genre": [
+                "멜로/로맨스",
+                "뮤지컬",
+                "드라마"
+            ],
+            "director": [
+                "로버트 와이즈"
+            ],
+            "actor": [
+                "줄리 앤드류스",
+                "크리스토퍼 플러머",
+                "엘레노 파커"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "죽은 시인의 사회",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10048",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "코미디",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

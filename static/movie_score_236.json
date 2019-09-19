@@ -1,0 +1,448 @@
+{
+    "links": [
+        {
+            "source": "천녀유혼",
+            "target": "영웅본색",
+            "value": 9.802210587550901,
+            "total": 3438,
+            "same": 337
+        },
+        {
+            "source": "공공의 적",
+            "target": "영웅본색",
+            "value": 9.014844804318487,
+            "total": 3705,
+            "same": 334
+        },
+        {
+            "source": "더 록",
+            "target": "영웅본색",
+            "value": 8.55721393034826,
+            "total": 4020,
+            "same": 344
+        },
+        {
+            "source": "터미네이터",
+            "target": "영웅본색",
+            "value": 8.309364014062002,
+            "total": 3129,
+            "same": 260
+        },
+        {
+            "source": "브레이브하트",
+            "target": "영웅본색",
+            "value": 8.125819134993446,
+            "total": 3815,
+            "same": 310
+        },
+        {
+            "source": "매트릭스",
+            "target": "영웅본색",
+            "value": 8.067903395169758,
+            "total": 5714,
+            "same": 461
+        },
+        {
+            "source": "페이스 오프",
+            "target": "영웅본색",
+            "value": 7.9470198675496695,
+            "total": 3473,
+            "same": 276
+        },
+        {
+            "source": "서유기 - 월광보합",
+            "target": "영웅본색",
+            "value": 7.832369942196532,
+            "total": 3460,
+            "same": 271
+        },
+        {
+            "source": "칼리토",
+            "target": "영웅본색",
+            "value": 7.803081044876088,
+            "total": 2986,
+            "same": 233
+        },
+        {
+            "source": "서유기 2 - 선리기연",
+            "target": "영웅본색",
+            "value": 7.796340493237867,
+            "total": 5028,
+            "same": 392
+        },
+        {
+            "source": "빽 투 더 퓨쳐",
+            "target": "영웅본색",
+            "value": 7.774560035642682,
+            "total": 4489,
+            "same": 349
+        },
+        {
+            "source": "글래디에이터",
+            "target": "영웅본색",
+            "value": 7.7197595792637115,
+            "total": 5324,
+            "same": 411
+        },
+        {
+            "source": "아마데우스",
+            "target": "영웅본색",
+            "value": 7.676630434782608,
+            "total": 4416,
+            "same": 339
+        },
+        {
+            "source": "영웅본색",
+            "target": "라이언 일병 구하기",
+            "value": 7.610684229784121,
+            "total": 5466,
+            "same": 416
+        },
+        {
+            "source": "여인의 향기",
+            "target": "영웅본색",
+            "value": 7.596717467760844,
+            "total": 4265,
+            "same": 324
+        },
+        {
+            "source": "가위손",
+            "target": "영웅본색",
+            "value": 7.586763518966909,
+            "total": 4956,
+            "same": 376
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드",
+                "리 톰슨"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "서유기 2 - 선리기연",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18543",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "주인"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "드라마",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

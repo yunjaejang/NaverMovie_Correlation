@@ -1,0 +1,413 @@
+{
+    "links": [
+        {
+            "source": "맨발의 꿈",
+            "target": "친정엄마",
+            "value": 8.466584665846659,
+            "total": 4878,
+            "same": 413
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "친정엄마",
+            "value": 8.251928020565552,
+            "total": 7780,
+            "same": 642
+        },
+        {
+            "source": "친정엄마",
+            "target": "킹콩을 들다",
+            "value": 8.143639683505782,
+            "total": 8215,
+            "same": 669
+        },
+        {
+            "source": "친정엄마",
+            "target": "에이트 빌로우",
+            "value": 7.873286402371249,
+            "total": 5398,
+            "same": 425
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "친정엄마",
+            "value": 7.71960958296362,
+            "total": 6762,
+            "same": 522
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "친정엄마",
+            "value": 7.710398118595665,
+            "total": 5953,
+            "same": 459
+        },
+        {
+            "source": "코러스",
+            "target": "친정엄마",
+            "value": 7.553735926305015,
+            "total": 4885,
+            "same": 369
+        },
+        {
+            "source": "친정엄마",
+            "target": "말아톤",
+            "value": 7.506920696954893,
+            "total": 6141,
+            "same": 461
+        },
+        {
+            "source": "친정엄마",
+            "target": "엽문",
+            "value": 7.4769380158601715,
+            "total": 6179,
+            "same": 462
+        },
+        {
+            "source": "친정엄마",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 7.371928363182008,
+            "total": 4802,
+            "same": 354
+        },
+        {
+            "source": "친정엄마",
+            "target": "도가니",
+            "value": 7.248852354008754,
+            "total": 9367,
+            "same": 679
+        },
+        {
+            "source": "친정엄마",
+            "target": "똥파리",
+            "value": 7.196919399814101,
+            "total": 7531,
+            "same": 542
+        },
+        {
+            "source": "라따뚜이",
+            "target": "친정엄마",
+            "value": 7.122395833333334,
+            "total": 7680,
+            "same": 547
+        },
+        {
+            "source": "친정엄마",
+            "target": "신데렐라 맨",
+            "value": 7.037943696450428,
+            "total": 4902,
+            "same": 345
+        },
+        {
+            "source": "친정엄마",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.0091324200913245,
+            "total": 4380,
+            "same": 307
+        },
+        {
+            "source": "친정엄마",
+            "target": "스쿨 오브 락",
+            "value": 6.997708174178763,
+            "total": 6545,
+            "same": 458
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

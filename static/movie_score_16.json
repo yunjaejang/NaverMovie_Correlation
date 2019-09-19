@@ -1,0 +1,450 @@
+{
+    "links": [
+        {
+            "source": "글래디에이터",
+            "target": "라이언 일병 구하기",
+            "value": 12.54701369038664,
+            "total": 6647,
+            "same": 834
+        },
+        {
+            "source": "매트릭스",
+            "target": "라이언 일병 구하기",
+            "value": 11.657738934310686,
+            "total": 7094,
+            "same": 827
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "라이언 일병 구하기",
+            "value": 11.622354856212697,
+            "total": 9215,
+            "same": 1071
+        },
+        {
+            "source": "더 록",
+            "target": "라이언 일병 구하기",
+            "value": 11.313536163235561,
+            "total": 5489,
+            "same": 621
+        },
+        {
+            "source": "살인의 추억",
+            "target": "라이언 일병 구하기",
+            "value": 10.9720885466795,
+            "total": 8312,
+            "same": 912
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "라이언 일병 구하기",
+            "value": 10.810190498049115,
+            "total": 8714,
+            "same": 942
+        },
+        {
+            "source": "브레이브하트",
+            "target": "라이언 일병 구하기",
+            "value": 10.773584905660377,
+            "total": 5300,
+            "same": 571
+        },
+        {
+            "source": "터미네이터 2",
+            "target": "라이언 일병 구하기",
+            "value": 10.747139331388826,
+            "total": 8914,
+            "same": 958
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "라이언 일병 구하기",
+            "value": 10.714285714285714,
+            "total": 6328,
+            "same": 678
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "라이언 일병 구하기",
+            "value": 10.403473855617875,
+            "total": 5527,
+            "same": 575
+        },
+        {
+            "source": "공공의 적",
+            "target": "라이언 일병 구하기",
+            "value": 10.379698530814728,
+            "total": 5241,
+            "same": 544
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "라이언 일병 구하기",
+            "value": 10.375860243515088,
+            "total": 5667,
+            "same": 588
+        },
+        {
+            "source": "나 홀로 집에",
+            "target": "라이언 일병 구하기",
+            "value": 10.37214168285757,
+            "total": 6691,
+            "same": 694
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "라이언 일병 구하기",
+            "value": 10.274537527983975,
+            "total": 8487,
+            "same": 872
+        },
+        {
+            "source": "프리퀀시",
+            "target": "라이언 일병 구하기",
+            "value": 10.256410256410255,
+            "total": 8112,
+            "same": 832
+        },
+        {
+            "source": "피아니스트",
+            "target": "라이언 일병 구하기",
+            "value": 10.247223217484773,
+            "total": 8373,
+            "same": 858
+        }
+    ],
+    "nodes": [
+        {
+            "id": "터미네이터 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ]
+        },
+        {
+            "id": "나 홀로 집에",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "전쟁",
+            "group": 3
+        },
+        {
+            "title": "드라마",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        },
+        {
+            "title": "판타지",
+            "group": 7
+        },
+        {
+            "title": "코미디",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

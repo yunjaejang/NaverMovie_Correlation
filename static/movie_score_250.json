@@ -1,0 +1,433 @@
+{
+    "links": [
+        {
+            "source": "바울",
+            "target": "리멤버 타이탄",
+            "value": 1.7594462070954715,
+            "total": 3467,
+            "same": 61
+        },
+        {
+            "source": "하이 스쿨 뮤지컬: 졸업반",
+            "target": "바울",
+            "value": 1.7259978425026967,
+            "total": 3708,
+            "same": 64
+        },
+        {
+            "source": "인크레더블",
+            "target": "바울",
+            "value": 1.718213058419244,
+            "total": 4947,
+            "same": 85
+        },
+        {
+            "source": "바울",
+            "target": "에이트 빌로우",
+            "value": 1.682557487380819,
+            "total": 5349,
+            "same": 90
+        },
+        {
+            "source": "바울",
+            "target": "뷰티풀 마인드",
+            "value": 1.675977653631285,
+            "total": 4833,
+            "same": 81
+        },
+        {
+            "source": "바울",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 1.6340744709349049,
+            "total": 3733,
+            "same": 61
+        },
+        {
+            "source": "바울",
+            "target": "울지마 톤즈",
+            "value": 1.6126235477718052,
+            "total": 5767,
+            "same": 93
+        },
+        {
+            "source": "바울",
+            "target": "여인의 향기",
+            "value": 1.609935602575897,
+            "total": 4348,
+            "same": 70
+        },
+        {
+            "source": "코러스",
+            "target": "바울",
+            "value": 1.6065094930106403,
+            "total": 4793,
+            "same": 77
+        },
+        {
+            "source": "바울",
+            "target": "말아톤",
+            "value": 1.5847083809834996,
+            "total": 6121,
+            "same": 97
+        },
+        {
+            "source": "피아니스트",
+            "target": "바울",
+            "value": 1.5833333333333335,
+            "total": 7200,
+            "same": 114
+        },
+        {
+            "source": "엽기적인 그녀",
+            "target": "바울",
+            "value": 1.5657036346691517,
+            "total": 5365,
+            "same": 84
+        },
+        {
+            "source": "바울",
+            "target": "피아니스트의 전설",
+            "value": 1.5643517421189856,
+            "total": 4219,
+            "same": 66
+        },
+        {
+            "source": "가타카",
+            "target": "바울",
+            "value": 1.554001554001554,
+            "total": 5148,
+            "same": 80
+        },
+        {
+            "source": "바울",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 1.553522025962971,
+            "total": 4699,
+            "same": 73
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "바울",
+            "value": 1.5327606535287182,
+            "total": 5937,
+            "same": 91
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "하이 스쿨 뮤지컬: 졸업반",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=45774",
+            "genre": [
+                "뮤지컬",
+                "코미디",
+                "드라마",
+                "가족",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "잭 에프론",
+                "바네사 허진스",
+                "애슐리 티스데일"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "바울",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=173692",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "앤드류 하얏트"
+            ],
+            "actor": [
+                "제임스 폴크너",
+                "제임스 카비젤"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "뮤지컬",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "SF",
+            "group": 7
+        },
+        {
+            "title": "가족",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

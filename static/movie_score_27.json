@@ -1,0 +1,444 @@
+{
+    "links": [
+        {
+            "source": "코코",
+            "target": "위대한 쇼맨",
+            "value": 4.514867862110447,
+            "total": 26601,
+            "same": 1201
+        },
+        {
+            "source": "1987",
+            "target": "위대한 쇼맨",
+            "value": 3.846792363334519,
+            "total": 42165,
+            "same": 1622
+        },
+        {
+            "source": "인셉션",
+            "target": "위대한 쇼맨",
+            "value": 3.3073406829792957,
+            "total": 29752,
+            "same": 984
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "아저씨",
+            "value": 3.272327491431158,
+            "total": 30926,
+            "same": 1012
+        },
+        {
+            "source": "다크 나이트",
+            "target": "위대한 쇼맨",
+            "value": 3.26930539386884,
+            "total": 30924,
+            "same": 1011
+        },
+        {
+            "source": "해리 포터와 죽음의 성물 - 2부",
+            "target": "위대한 쇼맨",
+            "value": 3.2632949051692077,
+            "total": 21512,
+            "same": 702
+        },
+        {
+            "source": "과속스캔들",
+            "target": "위대한 쇼맨",
+            "value": 3.228794072560041,
+            "total": 31312,
+            "same": 1011
+        },
+        {
+            "source": "테이큰",
+            "target": "위대한 쇼맨",
+            "value": 3.1735599267640016,
+            "total": 21301,
+            "same": 676
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "아이 캔 스피크",
+            "value": 3.1693203736621154,
+            "total": 26441,
+            "same": 838
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "도가니",
+            "value": 3.1680440771349865,
+            "total": 20328,
+            "same": 644
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "지금, 만나러 갑니다",
+            "value": 3.1586297543744353,
+            "total": 24346,
+            "same": 769
+        },
+        {
+            "source": "태극기 휘날리며",
+            "target": "위대한 쇼맨",
+            "value": 3.1561780506523403,
+            "total": 20848,
+            "same": 658
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "인생은 아름다워",
+            "value": 3.1346678798908094,
+            "total": 21980,
+            "same": 689
+        },
+        {
+            "source": "해바라기",
+            "target": "위대한 쇼맨",
+            "value": 3.130785370469412,
+            "total": 24307,
+            "same": 761
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "위대한 쇼맨",
+            "value": 3.1305903398926653,
+            "total": 21242,
+            "same": 665
+        },
+        {
+            "source": "위대한 쇼맨",
+            "target": "킹콩을 들다",
+            "value": 3.1072711185135065,
+            "total": 19213,
+            "same": 597
+        }
+    ],
+    "nodes": [
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "위대한 쇼맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=106360",
+            "genre": [
+                "드라마",
+                "뮤지컬"
+            ],
+            "director": [
+                "마이클 그레이시"
+            ],
+            "actor": [
+                "휴 잭맨",
+                "잭 에프론",
+                "미셸 윌리엄스"
+            ]
+        },
+        {
+            "id": "아이 캔 스피크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=161850",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김현석"
+            ],
+            "actor": [
+                "나문희",
+                "이제훈"
+            ]
+        },
+        {
+            "id": "지금, 만나러 갑니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "genre": [
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "도이 노부히로"
+            ],
+            "actor": [
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
+            ]
+        },
+        {
+            "id": "다크 나이트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ]
+        },
+        {
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "genre": [
+                "모험",
+                "판타지",
+                "미스터리"
+            ],
+            "director": [
+                "데이빗 예이츠"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "코코",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=151728",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "안소니 곤잘레스 ",
+                "가엘 가르시아 베르날",
+                "벤자민 브랫"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "1987",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=158191",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장준환"
+            ],
+            "actor": [
+                "김윤석",
+                "하정우",
+                "유해진"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "전쟁",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

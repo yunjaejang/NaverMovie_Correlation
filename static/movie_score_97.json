@@ -1,0 +1,445 @@
+{
+    "links": [
+        {
+            "source": "에이 아이",
+            "target": "나비 효과",
+            "value": 10.283566791937137,
+            "total": 8781,
+            "same": 903
+        },
+        {
+            "source": "에이 아이",
+            "target": "가위손",
+            "value": 10.012399256044638,
+            "total": 6452,
+            "same": 646
+        },
+        {
+            "source": "에이 아이",
+            "target": "마이너리티 리포트",
+            "value": 9.752599498027967,
+            "total": 5578,
+            "same": 544
+        },
+        {
+            "source": "에이 아이",
+            "target": "스쿨 오브 락",
+            "value": 9.692307692307692,
+            "total": 7800,
+            "same": 756
+        },
+        {
+            "source": "글래디에이터",
+            "target": "에이 아이",
+            "value": 9.599649327878433,
+            "total": 6844,
+            "same": 657
+        },
+        {
+            "source": "에이 아이",
+            "target": "가타카",
+            "value": 9.556574923547402,
+            "total": 6540,
+            "same": 625
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "에이 아이",
+            "value": 9.475249628213298,
+            "total": 9414,
+            "same": 892
+        },
+        {
+            "source": "에이 아이",
+            "target": "라이언 일병 구하기",
+            "value": 9.382151029748284,
+            "total": 6992,
+            "same": 656
+        },
+        {
+            "source": "에이 아이",
+            "target": "뷰티풀 마인드",
+            "value": 9.371008939974457,
+            "total": 6264,
+            "same": 587
+        },
+        {
+            "source": "매트릭스",
+            "target": "에이 아이",
+            "value": 9.30488644184446,
+            "total": 7265,
+            "same": 676
+        },
+        {
+            "source": "에이 아이",
+            "target": "트루먼 쇼",
+            "value": 9.261416589002796,
+            "total": 8584,
+            "same": 795
+        },
+        {
+            "source": "프리퀀시",
+            "target": "에이 아이",
+            "value": 9.197222560604216,
+            "total": 8209,
+            "same": 755
+        },
+        {
+            "source": "에이 아이",
+            "target": "에이트 빌로우",
+            "value": 9.128569314987423,
+            "total": 6759,
+            "same": 617
+        },
+        {
+            "source": "에이 아이",
+            "target": "말아톤",
+            "value": 9.126187608724742,
+            "total": 7473,
+            "same": 682
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "에이 아이",
+            "value": 9.123717153490471,
+            "total": 8867,
+            "same": 809
+        },
+        {
+            "source": "에이 아이",
+            "target": "피아니스트",
+            "value": 9.117716442557207,
+            "total": 8478,
+            "same": 773
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "에이 아이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31268",
+            "genre": [
+                "SF",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "할리 조엘 오스먼트",
+                "주드 로",
+                "프란시스 오코너"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        },
+        {
+            "title": "모험",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

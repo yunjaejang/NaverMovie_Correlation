@@ -1,0 +1,438 @@
+{
+    "links": [
+        {
+            "source": "서유기 - 월광보합",
+            "target": "서유기 2 - 선리기연",
+            "value": 28.425096030729836,
+            "total": 3905,
+            "same": 1110
+        },
+        {
+            "source": "서유기 2 - 선리기연",
+            "target": "스쿨 오브 락",
+            "value": 9.55223880597015,
+            "total": 7370,
+            "same": 704
+        },
+        {
+            "source": "나비 효과",
+            "target": "서유기 2 - 선리기연",
+            "value": 9.041355610854367,
+            "total": 8439,
+            "same": 763
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.912256507498707,
+            "total": 5801,
+            "same": 517
+        },
+        {
+            "source": "서유기 2 - 선리기연",
+            "target": "라디오 스타",
+            "value": 8.762208865514651,
+            "total": 10648,
+            "same": 933
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.708642248533806,
+            "total": 9037,
+            "same": 787
+        },
+        {
+            "source": "가위손",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.690652209627075,
+            "total": 6087,
+            "same": 529
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.661666842716805,
+            "total": 9467,
+            "same": 820
+        },
+        {
+            "source": "엽문",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.619718309859154,
+            "total": 7100,
+            "same": 612
+        },
+        {
+            "source": "글래디에이터",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.552428085369627,
+            "total": 6466,
+            "same": 553
+        },
+        {
+            "source": "프리퀀시",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.54875863834144,
+            "total": 7814,
+            "same": 668
+        },
+        {
+            "source": "피아니스트",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.513797797302313,
+            "total": 8081,
+            "same": 688
+        },
+        {
+            "source": "매트릭스",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.494545454545454,
+            "total": 6875,
+            "same": 584
+        },
+        {
+            "source": "천녀유혼",
+            "target": "서유기 2 - 선리기연",
+            "value": 8.4923868754021,
+            "total": 4663,
+            "same": 396
+        },
+        {
+            "source": "서유기 2 - 선리기연",
+            "target": "터미네이터 2",
+            "value": 8.485127968641919,
+            "total": 8674,
+            "same": 736
+        },
+        {
+            "source": "서유기 2 - 선리기연",
+            "target": "말아톤",
+            "value": 8.482963381874734,
+            "total": 7073,
+            "same": 600
+        }
+    ],
+    "nodes": [
+        {
+            "id": "터미네이터 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "서유기 2 - 선리기연",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18543",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "주인"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

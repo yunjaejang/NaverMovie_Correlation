@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <title>네이버 영화 분석 사이트</title>
+  <meta property="og:url" content="http://chproject813.shop/" />
+      <meta property="og:title" content="영화 분석 사이트" />
+      <meta property="og:description" content="영화 평점 랭킹 상위 100개의 영화들간의 상관관계를 보여줍니다." />
+      <meta property="og:site_name" content="Chang-Hun's Web Project" />
+      <meta property="og:image" content="{{ url_for('static', filename='meta_title.png') }}" />
+      <meta property="og:type" content="article" />
+      <meta property="og:locale" content="ko_KR" />
+  <style>
+    .body-select{
+        background: linear-gradient(to top left, #030303 71%, #ffffff 100%);
+      }
+    div.jumbotron{
+        border: medium solid red;
+        background-color:black;
+        color:white;
+        text-align: center;
+        width:900px;
+        margin: 5px auto 30px auto;
+
+      }
+    
+
+    div.movie-list-table{
+      width:1500px;
+      height:1000px;
+    }
+    .table-col{
+      width:300px;
+      float:left;
+    }
+    .list-col{
+      padding:10px;
+    }
+    .text-size-class{
+      color:white;
+      font-weight:bold;
+      font-size:20px;
+    
+      
+    }
+    .card{
+      width:300px;
+      border:thin solid white;
+      
+    }
+    .card-body-align{
+      padding:0px 20% 0px 30%;
+    }
+    .image-padding{
+      padding:0px 50px 0px 50px;
+    }
+    table {
+      border: 2px solid white;
+    }
+    th, td{
+      border: 2px solid white;
+    }
+  </style>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+  <script>
+
+
+    
+
+
+     window.onload=function(){
+ 
+        $.getJSON('{{url_for("static", filename = "movie_score_main_2.json")}}', function(json){
+          var id1 = '{{temp1}}';
+          $('#card_cl1').html('');
+          for(var i=0;i<50;i++){
+            var temp_html = "<div id=\"card_cl\" class=\"card\">\
+        <img class=\"card-img-top image-padding\" src=\""+json['nodes'][i]['src']+"\" alt=\"Card image cap\">\
+        <div class=\"card-body card-body-align\">\
+          <a onclick=\"move("+json['nodes'][i]['movie_id']+")\" target=\"_blank\" class=\"text-size-class\">"+json['nodes'][i]['id']+"</a>\
+        </div>\
+      </div>";
+            $('#card_cl1').append(temp_html);
+          }
+          $('#card_cl2').html('');
+          for(var i=50;i<100;i++){
+
+            var temp_html = "<div id=\"card_cl\" class=\"card\">\
+        <img class=\"card-img-top image-padding\" src=\""+json['nodes'][i]['src']+"\" alt=\"Card image cap\">\
+        <div class=\"card-body card-body-align\">\
+          <a onclick=\"move("+json['nodes'][i]['movie_id']+")\" target=\"_blank\" class=\"text-size-class\">"+json['nodes'][i]['id']+"</a>\
+        </div>\
+      </div>";
+            $('#card_cl2').append(temp_html);
+          }
+          $('#card_cl3').html('');
+          for(var i=100;i<150;i++){
+            
+            var temp_html = "<div id=\"card_cl\" class=\"card\">\
+        <img class=\"card-img-top image-padding\" src=\""+json['nodes'][i]['src']+"\" alt=\"Card image cap\">\
+        <div class=\"card-body card-body-align\">\
+          <a onclick=\"move("+json['nodes'][i]['movie_id']+")\" target=\"_blank\" class=\"text-size-class\">"+json['nodes'][i]['id']+"</a>\
+        </div>\
+      </div>";
+            $('#card_cl3').append(temp_html);
+          }
+          $('#card_cl4').html('');
+          for(var i=150;i<200;i++){
+            
+            var temp_html = "<div id=\"card_cl\" class=\"card\">\
+        <img class=\"card-img-top image-padding\" src=\""+json['nodes'][i]['src']+"\" alt=\"Card image cap\">\
+        <div class=\"card-body card-body-align\">\
+          <a onclick=\"move("+json['nodes'][i]['movie_id']+")\" target=\"_blank\" class=\"text-size-class\">"+json['nodes'][i]['id']+"</a>\
+        </div>\
+      </div>";
+            $('#card_cl4').append(temp_html);
+          }
+          $('#card_cl5').html('');
+          for(var i=200;i<json['nodes'].length;i++){
+            var temp_html = "<div id=\"card_cl\" class=\"card\">\
+        <img class=\"card-img-top image-padding\" src=\""+json['nodes'][i]['src']+"\" alt=\"Card image cap\">\
+        <div class=\"card-body card-body-align\">\
+          <a onclick=\"move("+json['nodes'][i]['movie_id']+")\" target=\"_blank\" class=\"text-size-class\">"+json['nodes'][i]['id']+"</a>\
+        </div>\
+      </div>";
+            $('#card_cl5').append(temp_html);
+          }
+        });
+          
+
+        
+      }
+
+       function move(d) {
+        location.href = "/post?id="+d;
+      }
+
+    d3.json("{{url_for('static', filename = 'movie_score_main_1.json')}}", function(error, graph) {
+      if (error) throw error;
+    
+      function releasenode(d) {
+        console.log(d.movie_id)
+        location.href = "/post?id="+d.movie_id;
+      }
+     
+
+
+
+    })
+
+
+  </script>
+</head>
+<body class="body-select">
+  <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">영화 리스트</h1>
+    <hr style = "border: solid 2px red;" class="my-4">
+    <p class="lead">제목을 클릭하시면, 분석 그래프를 보여줍니다.</p>
+  </div>
+  </div>
+
+  
+
+  <div class="movie-list-table">
+    <div  class="card-columns table-col">
+      <div id="card_cl1" class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body card-body-align">
+          <a href="http://naver.com" target="_blank" class="text-size-class">영화제목</a>
+        </div>
+      </div>      
+    </div>
+    <div  class="card-columns table-col">
+      <div id="card_cl2" class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body card-body-align">
+          <a href="http://naver.com" target="_blank" class="text-size-class">영화제목</a>
+        </div>
+      </div>      
+    </div>
+    <div  class="card-columns table-col">
+      <div id="card_cl3" class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body card-body-align">
+          <a href="http://naver.com" target="_blank" class="text-size-class">영화제목</a>
+        </div>
+      </div>      
+    </div>
+    <div  class="card-columns table-col">
+      <div id="card_cl4" class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body card-body-align">
+          <a href="http://naver.com" target="_blank" class="text-size-class">영화제목</a>
+        </div>
+      </div>      
+    </div>
+    <div  class="card-columns table-col">
+      <div id="card_cl5" class="card">
+        <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Stony_Brook_logo.png" alt="Card image cap">
+        <div class="card-body card-body-align">
+          <a href="http://naver.com" target="_blank" class="text-size-class">영화제목</a>
+        </div>
+      </div>      
+    </div>
+
+  </div>
+</body>

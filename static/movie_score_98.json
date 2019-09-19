@@ -1,0 +1,439 @@
+{
+    "links": [
+        {
+            "source": "록키",
+            "target": "다이 하드",
+            "value": 8.950276243093922,
+            "total": 1810,
+            "same": 162
+        },
+        {
+            "source": "록키",
+            "target": "터미네이터",
+            "value": 8.282208588957054,
+            "total": 2282,
+            "same": 189
+        },
+        {
+            "source": "록키",
+            "target": "대부 2",
+            "value": 7.716464782413639,
+            "total": 2229,
+            "same": 172
+        },
+        {
+            "source": "록키",
+            "target": "칼리토",
+            "value": 7.623947614593078,
+            "total": 2138,
+            "same": 163
+        },
+        {
+            "source": "록키",
+            "target": "브레이브하트",
+            "value": 7.617449664429531,
+            "total": 2980,
+            "same": 227
+        },
+        {
+            "source": "록키",
+            "target": "페이스 오프",
+            "value": 7.275483137552103,
+            "total": 2639,
+            "same": 192
+        },
+        {
+            "source": "록키",
+            "target": "더 록",
+            "value": 7.218419415059116,
+            "total": 3214,
+            "same": 232
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "록키",
+            "value": 7.150518412584912,
+            "total": 2797,
+            "same": 200
+        },
+        {
+            "source": "록키",
+            "target": "사랑과 영혼",
+            "value": 7.091412742382272,
+            "total": 1805,
+            "same": 128
+        },
+        {
+            "source": "록키",
+            "target": "대부 3",
+            "value": 7.0304302203567675,
+            "total": 1906,
+            "same": 134
+        },
+        {
+            "source": "록키",
+            "target": "에이리언 2",
+            "value": 6.846153846153847,
+            "total": 2600,
+            "same": 178
+        },
+        {
+            "source": "록키",
+            "target": "늑대와 춤을",
+            "value": 6.809001731102135,
+            "total": 1733,
+            "same": 118
+        },
+        {
+            "source": "록키",
+            "target": "공공의 적",
+            "value": 6.773862470065002,
+            "total": 2923,
+            "same": 198
+        },
+        {
+            "source": "록키",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 6.714140386571719,
+            "total": 1966,
+            "same": 132
+        },
+        {
+            "source": "록키",
+            "target": "벤허",
+            "value": 6.676272814601345,
+            "total": 2082,
+            "same": 139
+        },
+        {
+            "source": "록키",
+            "target": "리멤버 타이탄",
+            "value": 6.67433831990794,
+            "total": 2607,
+            "same": 174
+        }
+    ],
+    "nodes": [
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "벤허",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10058",
+            "genre": [
+                "드라마",
+                "액션",
+                "모험",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "윌리엄 와일러"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "잭 호킨스",
+                "하야 하라릿"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "서부",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "links": [
+        {
+            "source": "대부 3",
+            "target": "대부 2",
+            "value": 28.665865384615387,
+            "total": 1664,
+            "same": 477
+        },
+        {
+            "source": "칼리토",
+            "target": "대부 2",
+            "value": 12.34798877455566,
+            "total": 2138,
+            "same": 264
+        },
+        {
+            "source": "여인의 향기",
+            "target": "대부 2",
+            "value": 9.301651695160823,
+            "total": 3451,
+            "same": 321
+        },
+        {
+            "source": "브레이브하트",
+            "target": "대부 2",
+            "value": 8.601444517399868,
+            "total": 3046,
+            "same": 262
+        },
+        {
+            "source": "더 록",
+            "target": "대부 2",
+            "value": 8.173223543763344,
+            "total": 3279,
+            "same": 268
+        },
+        {
+            "source": "대부 2",
+            "target": "페이스 오프",
+            "value": 7.952871870397643,
+            "total": 2716,
+            "same": 216
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "대부 2",
+            "value": 7.8921806702282655,
+            "total": 4118,
+            "same": 325
+        },
+        {
+            "source": "터미네이터",
+            "target": "대부 2",
+            "value": 7.885906040268456,
+            "total": 2384,
+            "same": 188
+        },
+        {
+            "source": "다이 하드",
+            "target": "대부 2",
+            "value": 7.744282744282745,
+            "total": 1924,
+            "same": 149
+        },
+        {
+            "source": "록키",
+            "target": "대부 2",
+            "value": 7.716464782413639,
+            "total": 2229,
+            "same": 172
+        },
+        {
+            "source": "공공의 적",
+            "target": "대부 2",
+            "value": 7.68716577540107,
+            "total": 2992,
+            "same": 230
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "대부 2",
+            "value": 7.560483870967742,
+            "total": 3968,
+            "same": 300
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "대부 2",
+            "value": 7.5200000000000005,
+            "total": 1875,
+            "same": 141
+        },
+        {
+            "source": "시네마 천국",
+            "target": "대부 2",
+            "value": 7.306590257879657,
+            "total": 4188,
+            "same": 306
+        },
+        {
+            "source": "아마데우스",
+            "target": "대부 2",
+            "value": 7.273222555162081,
+            "total": 3671,
+            "same": 267
+        },
+        {
+            "source": "대부 2",
+            "target": "영웅본색",
+            "value": 7.237479806138934,
+            "total": 3095,
+            "same": 224
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

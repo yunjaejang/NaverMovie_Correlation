@@ -1,0 +1,456 @@
+{
+    "links": [
+        {
+            "source": "공동경비구역 JSA",
+            "target": "공공의 적",
+            "value": 12.134772308502237,
+            "total": 3799,
+            "same": 461
+        },
+        {
+            "source": "공공의 적",
+            "target": "페이스 오프",
+            "value": 11.477411477411477,
+            "total": 3276,
+            "same": 376
+        },
+        {
+            "source": "더 록",
+            "target": "공공의 적",
+            "value": 11.061946902654867,
+            "total": 3842,
+            "same": 425
+        },
+        {
+            "source": "살인의 추억",
+            "target": "공공의 적",
+            "value": 11.059283779717124,
+            "total": 6646,
+            "same": 735
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "공공의 적",
+            "value": 10.940349049231571,
+            "total": 3839,
+            "same": 420
+        },
+        {
+            "source": "글래디에이터",
+            "target": "공공의 적",
+            "value": 10.505684045472364,
+            "total": 5102,
+            "same": 536
+        },
+        {
+            "source": "말아톤",
+            "target": "공공의 적",
+            "value": 10.40533426917003,
+            "total": 5699,
+            "same": 593
+        },
+        {
+            "source": "공공의 적",
+            "target": "라이언 일병 구하기",
+            "value": 10.379698530814728,
+            "total": 5241,
+            "same": 544
+        },
+        {
+            "source": "엽기적인 그녀",
+            "target": "공공의 적",
+            "value": 10.239520958083832,
+            "total": 5010,
+            "same": 513
+        },
+        {
+            "source": "나비 효과",
+            "target": "공공의 적",
+            "value": 10.170446541766447,
+            "total": 7099,
+            "same": 722
+        },
+        {
+            "source": "터미네이터",
+            "target": "공공의 적",
+            "value": 9.989976612094887,
+            "total": 2993,
+            "same": 299
+        },
+        {
+            "source": "공공의 적",
+            "target": "오아시스",
+            "value": 9.91763898421414,
+            "total": 2914,
+            "same": 289
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "공공의 적",
+            "value": 9.915296462381665,
+            "total": 4014,
+            "same": 398
+        },
+        {
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "공공의 적",
+            "value": 9.853316326530612,
+            "total": 3136,
+            "same": 309
+        },
+        {
+            "source": "공공의 적",
+            "target": "나 홀로 집에",
+            "value": 9.786053882725831,
+            "total": 5048,
+            "same": 494
+        },
+        {
+            "source": "브레이브하트",
+            "target": "공공의 적",
+            "value": 9.724870607463906,
+            "total": 3671,
+            "same": 357
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "전쟁",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "드라마",
+            "group": 7
+        },
+        {
+            "title": "SF",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

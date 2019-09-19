@@ -1,0 +1,458 @@
+{
+    "links": [
+        {
+            "source": "로망",
+            "target": "랜드 오브 마인",
+            "value": 0.8743169398907104,
+            "total": 915,
+            "same": 8
+        },
+        {
+            "source": "로망",
+            "target": "온리 더 브레이브",
+            "value": 0.8458035133376708,
+            "total": 1537,
+            "same": 13
+        },
+        {
+            "source": "로망",
+            "target": "에이리언 2",
+            "value": 0.8310249307479225,
+            "total": 2166,
+            "same": 18
+        },
+        {
+            "source": "로망",
+            "target": "뮬란",
+            "value": 0.8208955223880596,
+            "total": 1340,
+            "same": 11
+        },
+        {
+            "source": "로망",
+            "target": "메리 포핀스",
+            "value": 0.819672131147541,
+            "total": 854,
+            "same": 7
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "로망",
+            "value": 0.8123129542539546,
+            "total": 2339,
+            "same": 19
+        },
+        {
+            "source": "로망",
+            "target": "브레이브하트",
+            "value": 0.8101851851851851,
+            "total": 2592,
+            "same": 21
+        },
+        {
+            "source": "로망",
+            "target": "타인의 삶",
+            "value": 0.807899461400359,
+            "total": 3342,
+            "same": 27
+        },
+        {
+            "source": "로망",
+            "target": "사랑은 비를 타고",
+            "value": 0.779510022271715,
+            "total": 898,
+            "same": 7
+        },
+        {
+            "source": "로망",
+            "target": "가타카",
+            "value": 0.77780658542909,
+            "total": 3857,
+            "same": 30
+        },
+        {
+            "source": "로망",
+            "target": "아름다운 비행",
+            "value": 0.7611798287345386,
+            "total": 1051,
+            "same": 8
+        },
+        {
+            "source": "로망",
+            "target": "천녀유혼",
+            "value": 0.7569011576135352,
+            "total": 2246,
+            "same": 17
+        },
+        {
+            "source": "집으로...",
+            "target": "로망",
+            "value": 0.7449450159631075,
+            "total": 2819,
+            "same": 21
+        },
+        {
+            "source": "로망",
+            "target": "시월애",
+            "value": 0.7438400743840075,
+            "total": 2151,
+            "same": 16
+        },
+        {
+            "source": "패왕별희",
+            "target": "로망",
+            "value": 0.7422680412371134,
+            "total": 2425,
+            "same": 18
+        },
+        {
+            "source": "로망",
+            "target": "서유기 - 월광보합",
+            "value": 0.7262823422605538,
+            "total": 2203,
+            "same": 16
+        }
+    ],
+    "nodes": [
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "패왕별희",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=14448",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "장국영",
+                "공리",
+                "장풍의"
+            ]
+        },
+        {
+            "id": "집으로...",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34324",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "이정향"
+            ],
+            "actor": [
+                "김을분",
+                "유승호"
+            ]
+        },
+        {
+            "id": "바이센테니얼 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=28788",
+            "genre": [
+                "SF",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ]
+        },
+        {
+            "id": "로망",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=182348",
+            "genre": [
+                "멜로/로맨스"
+            ],
+            "director": [
+                "이창근"
+            ],
+            "actor": [
+                "이순재",
+                "정영숙",
+                "조한철"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "메리 포핀스",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=11608",
+            "genre": [
+                "가족",
+                "코미디",
+                "뮤지컬",
+                "판타지"
+            ],
+            "director": [
+                "로버트 스티븐슨"
+            ],
+            "actor": [
+                "줄리 앤드류스",
+                "딕 반 다이크",
+                "데이비드 톰린슨"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "시월애",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=30306",
+            "genre": [
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "이현승"
+            ],
+            "actor": [
+                "이정재",
+                "전지현"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "랜드 오브 마인",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 3
+        },
+        {
+            "title": "판타지",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        },
+        {
+            "title": "뮤지컬",
+            "group": 7
+        },
+        {
+            "title": "코미디",
+            "group": 8
+        },
+        {
+            "title": "애니메이션",
+            "group": 9
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 9
+        }
+    ]
+}

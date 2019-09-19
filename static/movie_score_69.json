@@ -1,0 +1,443 @@
+{
+    "links": [
+        {
+            "source": "소원",
+            "target": "도가니",
+            "value": 4.385435526051096,
+            "total": 14913,
+            "same": 654
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "소원",
+            "value": 4.168845722824057,
+            "total": 13385,
+            "same": 558
+        },
+        {
+            "source": "소원",
+            "target": "킹콩을 들다",
+            "value": 4.029753737271611,
+            "total": 13847,
+            "same": 558
+        },
+        {
+            "source": "소원",
+            "target": "테이큰",
+            "value": 3.977914418371188,
+            "total": 15938,
+            "same": 634
+        },
+        {
+            "source": "해리 포터와 죽음의 성물 - 2부",
+            "target": "소원",
+            "value": 3.938906752411576,
+            "total": 16172,
+            "same": 637
+        },
+        {
+            "source": "소원",
+            "target": "시간을 달리는 소녀",
+            "value": 3.8841674535725526,
+            "total": 15885,
+            "same": 617
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "소원",
+            "value": 3.8610310148392992,
+            "total": 14219,
+            "same": 549
+        },
+        {
+            "source": "소원",
+            "target": "바람",
+            "value": 3.8380401497107854,
+            "total": 14695,
+            "same": 564
+        },
+        {
+            "source": "소원",
+            "target": "라따뚜이",
+            "value": 3.836858006042296,
+            "total": 13240,
+            "same": 508
+        },
+        {
+            "source": "소원",
+            "target": "라디오 스타",
+            "value": 3.827720207253886,
+            "total": 15440,
+            "same": 591
+        },
+        {
+            "source": "소원",
+            "target": "언터처블: 1%의 우정",
+            "value": 3.8226861721679044,
+            "total": 13603,
+            "same": 520
+        },
+        {
+            "source": "소원",
+            "target": "인생은 아름다워",
+            "value": 3.7999037999037997,
+            "total": 16632,
+            "same": 632
+        },
+        {
+            "source": "소원",
+            "target": "토이 스토리 3",
+            "value": 3.7384547720275623,
+            "total": 13642,
+            "same": 510
+        },
+        {
+            "source": "소원",
+            "target": "해바라기",
+            "value": 3.735162226325508,
+            "total": 18955,
+            "same": 708
+        },
+        {
+            "source": "소원",
+            "target": "본 얼티메이텀",
+            "value": 3.730555360033786,
+            "total": 14207,
+            "same": 530
+        },
+        {
+            "source": "프리퀀시",
+            "target": "소원",
+            "value": 3.729846795540226,
+            "total": 12467,
+            "same": 465
+        }
+    ],
+    "nodes": [
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "토이 스토리 3",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "언터처블: 1%의 우정",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "올리비에르 나카체",
+                "에릭 토레다노"
+            ],
+            "actor": [
+                "프랑수아 클루제",
+                "오마 사이"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "genre": [
+                "모험",
+                "판타지",
+                "미스터리"
+            ],
+            "director": [
+                "데이빗 예이츠"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
+            ]
+        },
+        {
+            "id": "소원",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=103535",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "설경구",
+                "엄지원",
+                "이레"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "바람",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

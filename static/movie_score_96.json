@@ -1,0 +1,448 @@
+{
+    "links": [
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 2.735280482151136,
+            "total": 2157,
+            "same": 59
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 2.3549684089603677,
+            "total": 1741,
+            "same": 41
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "칼리토",
+            "value": 2.2964509394572024,
+            "total": 1437,
+            "same": 33
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "뮬란",
+            "value": 2.2018348623853212,
+            "total": 1090,
+            "same": 24
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "석양에 돌아오다",
+            "value": 2.074074074074074,
+            "total": 675,
+            "same": 14
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "사랑은 비를 타고",
+            "value": 1.984732824427481,
+            "total": 655,
+            "same": 13
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 1.9308125502815767,
+            "total": 1243,
+            "same": 24
+        },
+        {
+            "source": "동방불패",
+            "target": "퀸 락 몬트리올",
+            "value": 1.9297036526533424,
+            "total": 1451,
+            "same": 28
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "오아시스",
+            "value": 1.9053876478318004,
+            "total": 1522,
+            "same": 29
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "트루맛쇼",
+            "value": 1.8636363636363635,
+            "total": 2200,
+            "same": 41
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "명탐정 코난: 베이커가의 망령",
+            "value": 1.8593840790238232,
+            "total": 1721,
+            "same": 32
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "퀸 락 몬트리올",
+            "value": 1.8376211159371867,
+            "total": 2993,
+            "same": 55
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "리멤버 타이탄",
+            "value": 1.8276762402088773,
+            "total": 1915,
+            "same": 35
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 1.8171493469619535,
+            "total": 1761,
+            "same": 32
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "터미네이터",
+            "value": 1.8001241464928615,
+            "total": 1611,
+            "same": 29
+        },
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 1.7930519237952933,
+            "total": 2677,
+            "same": 48
+        }
+    ],
+    "nodes": [
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "퀸 락 몬트리올",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=54900",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "솔 스위머"
+            ],
+            "actor": [
+                "존 디콘",
+                "브라이언 메이",
+                "프레디 머큐리"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "트루맛쇼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 베이커가의 망령",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=38613",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "코다마 켄지"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "뮤지컬",
+            "group": 7
+        },
+        {
+            "title": "서부",
+            "group": 8
+        },
+        {
+            "title": "가족",
+            "group": 9
+        },
+        {
+            "title": "범죄",
+            "group": 10
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 10
+        }
+    ]
+}

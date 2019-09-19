@@ -1,0 +1,418 @@
+{
+    "links": [
+        {
+            "source": "온리 더 브레이브",
+            "target": "헌터 킬러",
+            "value": 2.2388059701492535,
+            "total": 4154,
+            "same": 93
+        },
+        {
+            "source": "원더",
+            "target": "온리 더 브레이브",
+            "value": 2.0312928904748833,
+            "total": 3643,
+            "same": 74
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "핵소 고지",
+            "value": 1.898272085665612,
+            "total": 4109,
+            "same": 78
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "어메이징 메리",
+            "value": 1.8068887634105024,
+            "total": 1771,
+            "same": 32
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "미스 슬로운",
+            "value": 1.770293609671848,
+            "total": 2316,
+            "same": 41
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "히든 피겨스",
+            "value": 1.7072615524698385,
+            "total": 4393,
+            "same": 75
+        },
+        {
+            "source": "당갈",
+            "target": "온리 더 브레이브",
+            "value": 1.667245571378951,
+            "total": 2879,
+            "same": 48
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "터미네이터",
+            "value": 1.5796401930671347,
+            "total": 2279,
+            "same": 36
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.529704731412309,
+            "total": 2811,
+            "same": 43
+        },
+        {
+            "source": "아일라",
+            "target": "온리 더 브레이브",
+            "value": 1.511144692104269,
+            "total": 2647,
+            "same": 40
+        },
+        {
+            "source": "다이 하드",
+            "target": "온리 더 브레이브",
+            "value": 1.452513966480447,
+            "total": 1790,
+            "same": 26
+        },
+        {
+            "source": "그린 북",
+            "target": "온리 더 브레이브",
+            "value": 1.4326647564469914,
+            "total": 6631,
+            "same": 95
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "랜드 오브 마인",
+            "value": 1.4157973174366618,
+            "total": 1342,
+            "same": 19
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "내 어깨 위 고양이, 밥",
+            "value": 1.4093529788597052,
+            "total": 1561,
+            "same": 22
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "패밀리 맨",
+            "value": 1.3944954128440368,
+            "total": 2725,
+            "same": 38
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "크림슨 타이드",
+            "value": 1.3836477987421385,
+            "total": 1590,
+            "same": 22
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "아일라",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=169240",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "잔 울카이"
+            ],
+            "actor": [
+                "김설",
+                "이스마일 하지오글루"
+            ]
+        },
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "헌터 킬러",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "미스 슬로운",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142632",
+            "genre": [
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "존 매든"
+            ],
+            "actor": [
+                "제시카 차스테인"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ]
+        },
+        {
+            "id": "어메이징 메리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "랜드 오브 마인",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "내 어깨 위 고양이, 밥",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154379",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "로저 스포티스우드"
+            ],
+            "actor": [
+                "루크 트레더웨이"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

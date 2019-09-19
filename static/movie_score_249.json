@@ -1,0 +1,416 @@
+{
+    "links": [
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "킹콩을 들다",
+            "value": 3.4080627324821555,
+            "total": 9947,
+            "same": 339
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "극장판 헬로카봇 : 백악기 시대",
+            "value": 3.403651834781067,
+            "total": 5641,
+            "same": 192
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.3987331994438437,
+            "total": 6473,
+            "same": 220
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.377880669262338,
+            "total": 9503,
+            "same": 321
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "에이트 빌로우",
+            "value": 3.3471606351022745,
+            "total": 6991,
+            "same": 234
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "말아톤",
+            "value": 3.27741935483871,
+            "total": 7750,
+            "same": 254
+        },
+        {
+            "source": "라따뚜이",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.2711282711282714,
+            "total": 9324,
+            "same": 305
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.269527999048864,
+            "total": 8411,
+            "same": 275
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 3.259329239489844,
+            "total": 6351,
+            "same": 207
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "도가니",
+            "value": 3.181613339342046,
+            "total": 11095,
+            "same": 353
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "스쿨 오브 락",
+            "value": 3.1668098686633117,
+            "total": 8147,
+            "same": 258
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "신데렐라 맨",
+            "value": 3.165244375484872,
+            "total": 6445,
+            "same": 204
+        },
+        {
+            "source": "코러스",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.1618102913825172,
+            "total": 6452,
+            "same": 204
+        },
+        {
+            "source": "친정엄마",
+            "target": "뽀로로 극장판 공룡섬 대모험",
+            "value": 3.1298633927027497,
+            "total": 5783,
+            "same": 181
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "피아니스트의 전설",
+            "value": 3.108016304347826,
+            "total": 5888,
+            "same": 183
+        },
+        {
+            "source": "뽀로로 극장판 공룡섬 대모험",
+            "target": "울지마 톤즈",
+            "value": 3.087501685317514,
+            "total": 7417,
+            "same": 229
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "극장판 헬로카봇 : 백악기 시대",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=175727",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "최신규",
+                "김진철"
+            ],
+            "actor": [
+                "이지현",
+                "김용준",
+                "양정화"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "뽀로로 극장판 공룡섬 대모험",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=169349",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "김현호",
+                "윤제완"
+            ],
+            "actor": [
+                "이선",
+                "이미자",
+                "함수정"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

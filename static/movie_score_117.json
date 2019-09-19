@@ -1,0 +1,460 @@
+{
+    "links": [
+        {
+            "source": "동방불패",
+            "target": "천녀유혼",
+            "value": 9.80467253925699,
+            "total": 2611,
+            "same": 256
+        },
+        {
+            "source": "동방불패",
+            "target": "서유기 - 월광보합",
+            "value": 8.285385500575373,
+            "total": 2607,
+            "same": 216
+        },
+        {
+            "source": "동방불패",
+            "target": "터미네이터",
+            "value": 8.010448410970831,
+            "total": 2297,
+            "same": 184
+        },
+        {
+            "source": "동방불패",
+            "target": "공공의 적",
+            "value": 7.928300586004826,
+            "total": 2901,
+            "same": 230
+        },
+        {
+            "source": "동방불패",
+            "target": "페이스 오프",
+            "value": 7.858769931662871,
+            "total": 2634,
+            "same": 207
+        },
+        {
+            "source": "동방불패",
+            "target": "다이 하드",
+            "value": 7.834602829162132,
+            "total": 1838,
+            "same": 144
+        },
+        {
+            "source": "동방불패",
+            "target": "더 록",
+            "value": 7.429281939695369,
+            "total": 3217,
+            "same": 239
+        },
+        {
+            "source": "동방불패",
+            "target": "영웅본색",
+            "value": 7.064676616915423,
+            "total": 3015,
+            "same": 213
+        },
+        {
+            "source": "동방불패",
+            "target": "백발마녀전",
+            "value": 7.017543859649122,
+            "total": 1368,
+            "same": 96
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "동방불패",
+            "value": 7.01067615658363,
+            "total": 2810,
+            "same": 197
+        },
+        {
+            "source": "동방불패",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 6.942752740560293,
+            "total": 2463,
+            "same": 171
+        },
+        {
+            "source": "동방불패",
+            "target": "브레이브하트",
+            "value": 6.877076411960132,
+            "total": 3010,
+            "same": 207
+        },
+        {
+            "source": "동방불패",
+            "target": "사랑과 영혼",
+            "value": 6.875687568756876,
+            "total": 1818,
+            "same": 125
+        },
+        {
+            "source": "동방불패",
+            "target": "서유기 2 - 선리기연",
+            "value": 6.868782567503552,
+            "total": 4222,
+            "same": 290
+        },
+        {
+            "source": "동방불패",
+            "target": "에이리언 2",
+            "value": 6.81992337164751,
+            "total": 2610,
+            "same": 178
+        },
+        {
+            "source": "동방불패",
+            "target": "공동경비구역 JSA",
+            "value": 6.813254877671106,
+            "total": 3229,
+            "same": 220
+        }
+    ],
+    "nodes": [
+        {
+            "id": "서유기 2 - 선리기연",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18543",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "주인"
+            ]
+        },
+        {
+            "id": "에이리언 2",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "백발마녀전",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=12993",
+            "genre": [
+                "액션",
+                "공포",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "우인태"
+            ],
+            "actor": [
+                "장국영",
+                "임청하"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "코미디",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "드라마",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

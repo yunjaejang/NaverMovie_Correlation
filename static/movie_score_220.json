@@ -1,0 +1,438 @@
+{
+    "links": [
+        {
+            "source": "맨 오브 오너",
+            "target": "크림슨 타이드",
+            "value": 7.6923076923076925,
+            "total": 1131,
+            "same": 87
+        },
+        {
+            "source": "칼리토",
+            "target": "맨 오브 오너",
+            "value": 7.687576875768758,
+            "total": 1626,
+            "same": 125
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "리멤버 타이탄",
+            "value": 7.311207311207311,
+            "total": 2079,
+            "same": 152
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "브레이브하트",
+            "value": 6.578419574809466,
+            "total": 2493,
+            "same": 164
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "맨 오브 오너",
+            "value": 6.391270459859704,
+            "total": 1283,
+            "same": 82
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "맨 오브 오너",
+            "value": 6.377759607522486,
+            "total": 1223,
+            "same": 78
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "미세스 다웃파이어",
+            "value": 6.211180124223603,
+            "total": 1288,
+            "same": 80
+        },
+        {
+            "source": "다이 하드",
+            "target": "맨 오브 오너",
+            "value": 6.1986557132188205,
+            "total": 1339,
+            "same": 83
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "페이스 오프",
+            "value": 6.142391810144253,
+            "total": 2149,
+            "same": 132
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "사랑과 영혼",
+            "value": 5.977011494252873,
+            "total": 1305,
+            "same": 78
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "더 록",
+            "value": 5.886654478976234,
+            "total": 2735,
+            "same": 161
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "공공의 적",
+            "value": 5.758946935417524,
+            "total": 2431,
+            "same": 140
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "맨 오브 오너",
+            "value": 5.748809959721714,
+            "total": 2731,
+            "same": 157
+        },
+        {
+            "source": "도망자",
+            "target": "맨 오브 오너",
+            "value": 5.736894164193868,
+            "total": 1011,
+            "same": 58
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "대부 2",
+            "value": 5.711022272986865,
+            "total": 1751,
+            "same": 100
+        },
+        {
+            "source": "분노의 역류",
+            "target": "맨 오브 오너",
+            "value": 5.708013172338091,
+            "total": 911,
+            "same": 52
+        }
+    ],
+    "nodes": [
+        {
+            "id": "미세스 다웃파이어",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16210",
+            "genre": [
+                "코미디",
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "샐리 필드"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        },
+        {
+            "id": "도망자",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "코미디",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "서부",
+            "group": 3
+        },
+        {
+            "title": "SF",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        },
+        {
+            "title": "드라마",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

@@ -1,0 +1,407 @@
+{
+    "links": [
+        {
+            "source": "트루맛쇼",
+            "target": "엽문",
+            "value": 7.421340629274965,
+            "total": 5848,
+            "same": 434
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "똥파리",
+            "value": 7.362560890744607,
+            "total": 7185,
+            "same": 529
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "트루맛쇼",
+            "value": 7.347698031312974,
+            "total": 6451,
+            "same": 474
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "트루맛쇼",
+            "value": 7.287361322601697,
+            "total": 4597,
+            "same": 335
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "트루맛쇼",
+            "value": 7.170679886685552,
+            "total": 5648,
+            "same": 405
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "에이트 빌로우",
+            "value": 7.053291536050156,
+            "total": 5104,
+            "same": 360
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "도가니",
+            "value": 7.038674033149171,
+            "total": 9050,
+            "same": 637
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "공공의 적",
+            "value": 6.950549450549451,
+            "total": 3640,
+            "same": 253
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.88348594884749,
+            "total": 3167,
+            "same": 218
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "그랜 토리노",
+            "value": 6.868451688009314,
+            "total": 5154,
+            "same": 354
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "트루맛쇼",
+            "value": 6.825195135233255,
+            "total": 5509,
+            "same": 376
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 6.825174825174825,
+            "total": 3575,
+            "same": 244
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "트루맛쇼",
+            "value": 6.822999470058294,
+            "total": 7548,
+            "same": 515
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "타인의 삶",
+            "value": 6.764374295377677,
+            "total": 4435,
+            "same": 300
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "킹콩을 들다",
+            "value": 6.762680025046963,
+            "total": 7985,
+            "same": 540
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "말아톤",
+            "value": 6.754445964432285,
+            "total": 5848,
+            "same": 395
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "트루맛쇼",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

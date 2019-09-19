@@ -1,0 +1,435 @@
+{
+    "links": [
+        {
+            "source": "늑대와 춤을",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 8.592592592592592,
+            "total": 1350,
+            "same": 116
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "칼리토",
+            "value": 7.943661971830986,
+            "total": 1775,
+            "same": 141
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "대부 2",
+            "value": 7.5200000000000005,
+            "total": 1875,
+            "same": 141
+        },
+        {
+            "source": "다이 하드",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.796769851951548,
+            "total": 1486,
+            "same": 101
+        },
+        {
+            "source": "혹성탈출",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.784888203546647,
+            "total": 1297,
+            "same": 88
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.639954207212365,
+            "total": 1747,
+            "same": 116
+        },
+        {
+            "source": "빽 투 더 퓨쳐 2",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.39751552795031,
+            "total": 1610,
+            "same": 103
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "사랑과 영혼",
+            "value": 6.391752577319587,
+            "total": 1455,
+            "same": 93
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "맨 오브 오너",
+            "value": 6.391270459859704,
+            "total": 1283,
+            "same": 82
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "대부 3",
+            "value": 6.362467866323908,
+            "total": 1556,
+            "same": 99
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "여인의 향기",
+            "value": 6.239896540575493,
+            "total": 3093,
+            "same": 193
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "바람과 함께 사라지다",
+            "value": 6.106870229007633,
+            "total": 1834,
+            "same": 112
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "마지막 황제",
+            "value": 5.957943925233645,
+            "total": 1712,
+            "same": 102
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "터미네이터",
+            "value": 5.780933062880324,
+            "total": 1972,
+            "same": 114
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "석양에 돌아오다",
+            "value": 5.778191985088537,
+            "total": 1073,
+            "same": 62
+        },
+        {
+            "source": "아마데우스",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 5.759803921568627,
+            "total": 3264,
+            "same": 188
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "모던 타임즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "혹성탈출",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ]
+        },
+        {
+            "id": "마지막 황제",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "SF",
+            "group": 4
+        },
+        {
+            "title": "서부",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "links": [
+        {
+            "source": "코러스",
+            "target": "스쿨 오브 락",
+            "value": 11.11913357400722,
+            "total": 6925,
+            "same": 770
+        },
+        {
+            "source": "코러스",
+            "target": "말아톤",
+            "value": 10.565408519023798,
+            "total": 6597,
+            "same": 697
+        },
+        {
+            "source": "코러스",
+            "target": "신데렐라 맨",
+            "value": 10.267359821760119,
+            "total": 5386,
+            "same": 553
+        },
+        {
+            "source": "코러스",
+            "target": "나비 효과",
+            "value": 10.094834040429248,
+            "total": 8014,
+            "same": 809
+        },
+        {
+            "source": "코러스",
+            "target": "빌리 엘리어트",
+            "value": 10.014754703061602,
+            "total": 5422,
+            "same": 543
+        },
+        {
+            "source": "코러스",
+            "target": "피아니스트의 전설",
+            "value": 9.901599015990161,
+            "total": 4878,
+            "same": 483
+        },
+        {
+            "source": "라따뚜이",
+            "target": "코러스",
+            "value": 9.839901477832512,
+            "total": 8120,
+            "same": 799
+        },
+        {
+            "source": "코러스",
+            "target": "뷰티풀 마인드",
+            "value": 9.767271394539124,
+            "total": 5457,
+            "same": 533
+        },
+        {
+            "source": "코러스",
+            "target": "피아니스트",
+            "value": 9.759288330716902,
+            "total": 7644,
+            "same": 746
+        },
+        {
+            "source": "코러스",
+            "target": "인크레더블",
+            "value": 9.698275862068966,
+            "total": 5568,
+            "same": 540
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "코러스",
+            "value": 9.584783689706613,
+            "total": 8044,
+            "same": 771
+        },
+        {
+            "source": "아마데우스",
+            "target": "코러스",
+            "value": 9.583736689254598,
+            "total": 5165,
+            "same": 495
+        },
+        {
+            "source": "프리퀀시",
+            "target": "코러스",
+            "value": 9.574036511156187,
+            "total": 7395,
+            "same": 708
+        },
+        {
+            "source": "코러스",
+            "target": "에이트 빌로우",
+            "value": 9.53261600537996,
+            "total": 5948,
+            "same": 567
+        },
+        {
+            "source": "코러스",
+            "target": "가위손",
+            "value": 9.47867298578199,
+            "total": 5697,
+            "same": 540
+        },
+        {
+            "source": "코러스",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.473684210526317,
+            "total": 4845,
+            "same": 459
+        }
+    ],
+    "nodes": [
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "판타지",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

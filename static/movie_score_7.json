@@ -1,0 +1,424 @@
+{
+    "links": [
+        {
+            "source": "당갈",
+            "target": "허스토리",
+            "value": 1.964542405366555,
+            "total": 4174,
+            "same": 82
+        },
+        {
+            "source": "당갈",
+            "target": "히든 피겨스",
+            "value": 1.961154063737507,
+            "total": 5303,
+            "same": 104
+        },
+        {
+            "source": "원더",
+            "target": "당갈",
+            "value": 1.9487628640245238,
+            "total": 4567,
+            "same": 89
+        },
+        {
+            "source": "당갈",
+            "target": "덕구",
+            "value": 1.8410626893498019,
+            "total": 4291,
+            "same": 79
+        },
+        {
+            "source": "당갈",
+            "target": "어느 가족",
+            "value": 1.7607042817126852,
+            "total": 4998,
+            "same": 88
+        },
+        {
+            "source": "당갈",
+            "target": "온리 더 브레이브",
+            "value": 1.667245571378951,
+            "total": 2879,
+            "same": 48
+        },
+        {
+            "source": "당갈",
+            "target": "헌터 킬러",
+            "value": 1.6663399333464026,
+            "total": 5101,
+            "same": 85
+        },
+        {
+            "source": "그린 북",
+            "target": "당갈",
+            "value": 1.6443442514255404,
+            "total": 7541,
+            "same": 124
+        },
+        {
+            "source": "당갈",
+            "target": "아이 엠 샘",
+            "value": 1.6129032258064515,
+            "total": 4588,
+            "same": 74
+        },
+        {
+            "source": "당갈",
+            "target": "가타카",
+            "value": 1.5432098765432098,
+            "total": 5184,
+            "same": 80
+        },
+        {
+            "source": "당갈",
+            "target": "인크레더블",
+            "value": 1.5224358974358974,
+            "total": 4992,
+            "same": 76
+        },
+        {
+            "source": "당갈",
+            "target": "맨발의 꿈",
+            "value": 1.5198192647360855,
+            "total": 4869,
+            "same": 74
+        },
+        {
+            "source": "당갈",
+            "target": "핵소 고지",
+            "value": 1.4848544842605425,
+            "total": 5051,
+            "same": 75
+        },
+        {
+            "source": "당갈",
+            "target": "가위손",
+            "value": 1.4840851396211676,
+            "total": 5121,
+            "same": 76
+        },
+        {
+            "source": "당갈",
+            "target": "스파이더맨: 뉴 유니버스",
+            "value": 1.4808605755797708,
+            "total": 7158,
+            "same": 106
+        },
+        {
+            "source": "당갈",
+            "target": "쉰들러 리스트",
+            "value": 1.4650564244704019,
+            "total": 5051,
+            "same": 74
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "덕구",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154667",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "방수인"
+            ],
+            "actor": [
+                "이순재",
+                "정지훈"
+            ]
+        },
+        {
+            "id": "헌터 킬러",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "허스토리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=167787",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "김희애",
+                "김해숙"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "스파이더맨: 뉴 유니버스",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=171725",
+            "genre": [
+                "애니메이션",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "밥 퍼시케티",
+                "피터 램지",
+                "로드니 로스맨"
+            ],
+            "actor": [
+                "샤메익 무어",
+                "헤일리 스테인펠드",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

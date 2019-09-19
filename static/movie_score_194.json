@@ -1,0 +1,423 @@
+{
+    "links": [
+        {
+            "source": "플립",
+            "target": "첫 키스만 50번째",
+            "value": 2.5280455048190866,
+            "total": 6329,
+            "same": 160
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "플립",
+            "value": 2.4307243558580454,
+            "total": 6171,
+            "same": 150
+        },
+        {
+            "source": "플립",
+            "target": "히든 피겨스",
+            "value": 2.3841859061415422,
+            "total": 6627,
+            "same": 158
+        },
+        {
+            "source": "업",
+            "target": "플립",
+            "value": 2.359455880582641,
+            "total": 8307,
+            "same": 196
+        },
+        {
+            "source": "플립",
+            "target": "뷰티풀 마인드",
+            "value": 2.3451398997250528,
+            "total": 6183,
+            "same": 145
+        },
+        {
+            "source": "플립",
+            "target": "도가니",
+            "value": 2.3187066974595845,
+            "total": 10825,
+            "same": 251
+        },
+        {
+            "source": "플립",
+            "target": "엽문",
+            "value": 2.3072819418511603,
+            "total": 7498,
+            "same": 173
+        },
+        {
+            "source": "플립",
+            "target": "스쿨 오브 락",
+            "value": 2.292117662039985,
+            "total": 7853,
+            "same": 180
+        },
+        {
+            "source": "플립",
+            "target": "토이 스토리 3",
+            "value": 2.286924298570672,
+            "total": 9445,
+            "same": 216
+        },
+        {
+            "source": "라따뚜이",
+            "target": "플립",
+            "value": 2.2533966640892524,
+            "total": 9053,
+            "same": 204
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "플립",
+            "value": 2.253366309425666,
+            "total": 7278,
+            "same": 164
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "플립",
+            "value": 2.247191011235955,
+            "total": 6942,
+            "same": 156
+        },
+        {
+            "source": "플립",
+            "target": "말아톤",
+            "value": 2.2371064969859344,
+            "total": 7465,
+            "same": 167
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "플립",
+            "value": 2.216935222234238,
+            "total": 9247,
+            "same": 205
+        },
+        {
+            "source": "피아니스트",
+            "target": "플립",
+            "value": 2.213373931373697,
+            "total": 8539,
+            "same": 189
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "플립",
+            "value": 2.2052862007459058,
+            "total": 6167,
+            "same": 136
+        }
+    ],
+    "nodes": [
+        {
+            "id": "토이 스토리 3",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "플립",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=76309",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "로브 라이너"
+            ],
+            "actor": [
+                "매들린 캐롤",
+                "캘런 맥오리피"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

@@ -1,0 +1,459 @@
+{
+    "links": [
+        {
+            "source": "다이 하드",
+            "target": "로보캅",
+            "value": 4.674610449129239,
+            "total": 1091,
+            "same": 51
+        },
+        {
+            "source": "로보캅",
+            "target": "터미네이터",
+            "value": 4.322949777495232,
+            "total": 1573,
+            "same": 68
+        },
+        {
+            "source": "로보캅",
+            "target": "프레데터",
+            "value": 3.7166085946573753,
+            "total": 861,
+            "same": 32
+        },
+        {
+            "source": "로보캅",
+            "target": "분노의 역류",
+            "value": 3.6418816388467374,
+            "total": 659,
+            "same": 24
+        },
+        {
+            "source": "로보캅",
+            "target": "크림슨 타이드",
+            "value": 3.532008830022075,
+            "total": 906,
+            "same": 32
+        },
+        {
+            "source": "로보캅",
+            "target": "사랑과 영혼",
+            "value": 3.4709193245778613,
+            "total": 1066,
+            "same": 37
+        },
+        {
+            "source": "록키",
+            "target": "로보캅",
+            "value": 3.4482758620689653,
+            "total": 1421,
+            "same": 49
+        },
+        {
+            "source": "로보캅",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 3.341483292583537,
+            "total": 1227,
+            "same": 41
+        },
+        {
+            "source": "로보캅",
+            "target": "도망자",
+            "value": 3.1372549019607843,
+            "total": 765,
+            "same": 24
+        },
+        {
+            "source": "로보캅",
+            "target": "혹성탈출",
+            "value": 3.070175438596491,
+            "total": 912,
+            "same": 28
+        },
+        {
+            "source": "로보캅",
+            "target": "미녀와 야수",
+            "value": 3.0235162374020157,
+            "total": 893,
+            "same": 27
+        },
+        {
+            "source": "로보캅",
+            "target": "알라딘",
+            "value": 2.937720329024677,
+            "total": 851,
+            "same": 25
+        },
+        {
+            "source": "로보캅",
+            "target": "미세스 다웃파이어",
+            "value": 2.9328287606433303,
+            "total": 1057,
+            "same": 31
+        },
+        {
+            "source": "로보캅",
+            "target": "에이리언 2",
+            "value": 2.9054410987849977,
+            "total": 1893,
+            "same": 55
+        },
+        {
+            "source": "로보캅",
+            "target": "쥬만지",
+            "value": 2.8381642512077296,
+            "total": 1656,
+            "same": 47
+        },
+        {
+            "source": "로보캅",
+            "target": "석양에 돌아오다",
+            "value": 2.8315946348733236,
+            "total": 671,
+            "same": 19
+        }
+    ],
+    "nodes": [
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "알라딘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
+            "genre": [
+                "모험",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "가이 리치"
+            ],
+            "actor": [
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
+            ]
+        },
+        {
+            "id": "미세스 다웃파이어",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=16210",
+            "genre": [
+                "코미디",
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "샐리 필드"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "미녀와 야수",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ]
+        },
+        {
+            "id": "로보캅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10217",
+            "genre": [
+                "SF",
+                "액션",
+                "범죄"
+            ],
+            "director": [
+                "폴 버호벤"
+            ],
+            "actor": [
+                "피터 웰러",
+                "낸시 알렌",
+                "댄 오헐리히"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "혹성탈출",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "프레데터",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10061",
+            "genre": [
+                "액션",
+                "공포",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ]
+        },
+        {
+            "id": "도망자",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "드라마",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "서부",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

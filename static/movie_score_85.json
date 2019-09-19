@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "오세암",
+            "target": "말아톤",
+            "value": 7.141636767469674,
+            "total": 5853,
+            "same": 418
+        },
+        {
+            "source": "집으로...",
+            "target": "오세암",
+            "value": 6.97321879737241,
+            "total": 3958,
+            "same": 276
+        },
+        {
+            "source": "오세암",
+            "target": "에이트 빌로우",
+            "value": 6.952288218111002,
+            "total": 5135,
+            "same": 357
+        },
+        {
+            "source": "오세암",
+            "target": "나 홀로 집에",
+            "value": 6.7891682785299805,
+            "total": 5170,
+            "same": 351
+        },
+        {
+            "source": "오세암",
+            "target": "코러스",
+            "value": 6.7201387383481475,
+            "total": 4613,
+            "same": 310
+        },
+        {
+            "source": "오세암",
+            "target": "스쿨 오브 락",
+            "value": 6.71785028790787,
+            "total": 6252,
+            "same": 420
+        },
+        {
+            "source": "오세암",
+            "target": "굿바이 마이 프랜드",
+            "value": 6.678295539496635,
+            "total": 4013,
+            "same": 268
+        },
+        {
+            "source": "오세암",
+            "target": "인크레더블",
+            "value": 6.648489932885907,
+            "total": 4768,
+            "same": 317
+        },
+        {
+            "source": "오세암",
+            "target": "라따뚜이",
+            "value": 6.472491909385113,
+            "total": 7416,
+            "same": 480
+        },
+        {
+            "source": "오세암",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 6.451612903225806,
+            "total": 4092,
+            "same": 264
+        },
+        {
+            "source": "오세암",
+            "target": "가위손",
+            "value": 6.4298836497244345,
+            "total": 4899,
+            "same": 315
+        },
+        {
+            "source": "오세암",
+            "target": "피아니스트의 전설",
+            "value": 6.3756743501716535,
+            "total": 4078,
+            "same": 260
+        },
+        {
+            "source": "오세암",
+            "target": "공공의 적",
+            "value": 6.346623270951994,
+            "total": 3687,
+            "same": 234
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "오세암",
+            "value": 6.316746194046807,
+            "total": 4401,
+            "same": 278
+        },
+        {
+            "source": "오세암",
+            "target": "신데렐라 맨",
+            "value": 6.291891891891892,
+            "total": 4625,
+            "same": 291
+        },
+        {
+            "source": "오세암",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 6.254129046465537,
+            "total": 4541,
+            "same": 284
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "집으로...",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34324",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "이정향"
+            ],
+            "actor": [
+                "김을분",
+                "유승호"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "오세암",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34181",
+            "genre": [
+                "애니메이션",
+                "드라마"
+            ],
+            "director": [
+                "성백엽"
+            ],
+            "actor": [
+                "김서영",
+                "박선영"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "애니메이션",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

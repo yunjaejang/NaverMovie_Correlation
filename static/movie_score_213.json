@@ -1,0 +1,446 @@
+{
+    "links": [
+        {
+            "source": "나비 효과",
+            "target": "테이큰",
+            "value": 13.306982872200262,
+            "total": 12903,
+            "same": 1717
+        },
+        {
+            "source": "나비 효과",
+            "target": "스쿨 오브 락",
+            "value": 13.166345536287732,
+            "total": 9342,
+            "same": 1230
+        },
+        {
+            "source": "나비 효과",
+            "target": "라디오 스타",
+            "value": 13.020791522838564,
+            "total": 12457,
+            "same": 1622
+        },
+        {
+            "source": "나비 효과",
+            "target": "말아톤",
+            "value": 13.011111111111113,
+            "total": 9000,
+            "same": 1171
+        },
+        {
+            "source": "나비 효과",
+            "target": "본 얼티메이텀",
+            "value": 12.921745274686453,
+            "total": 11322,
+            "same": 1463
+        },
+        {
+            "source": "프리퀀시",
+            "target": "나비 효과",
+            "value": 12.893275755706354,
+            "total": 9726,
+            "same": 1254
+        },
+        {
+            "source": "나비 효과",
+            "target": "태극기 휘날리며",
+            "value": 12.463238216358,
+            "total": 12581,
+            "same": 1568
+        },
+        {
+            "source": "나비 효과",
+            "target": "인생은 아름다워",
+            "value": 12.23337975518581,
+            "total": 13643,
+            "same": 1669
+        },
+        {
+            "source": "나비 효과",
+            "target": "트루먼 쇼",
+            "value": 12.221784518416387,
+            "total": 10154,
+            "same": 1241
+        },
+        {
+            "source": "피아니스트",
+            "target": "나비 효과",
+            "value": 12.154091180569381,
+            "total": 10046,
+            "same": 1221
+        },
+        {
+            "source": "인크레더블",
+            "target": "나비 효과",
+            "value": 12.046389824167603,
+            "total": 8019,
+            "same": 966
+        },
+        {
+            "source": "나비 효과",
+            "target": "살인의 추억",
+            "value": 11.906181673623534,
+            "total": 10062,
+            "same": 1198
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "나비 효과",
+            "value": 11.865637766681797,
+            "total": 11015,
+            "same": 1307
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "나비 효과",
+            "value": 11.81027063211246,
+            "total": 10457,
+            "same": 1235
+        },
+        {
+            "source": "나비 효과",
+            "target": "시간을 달리는 소녀",
+            "value": 11.785494775660725,
+            "total": 13016,
+            "same": 1534
+        },
+        {
+            "source": "라따뚜이",
+            "target": "나비 효과",
+            "value": 11.736288718385905,
+            "total": 10557,
+            "same": 1239
+        }
+    ],
+    "nodes": [
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "범죄",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "전쟁",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

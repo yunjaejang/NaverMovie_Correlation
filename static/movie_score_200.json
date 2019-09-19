@@ -1,0 +1,445 @@
+{
+    "links": [
+        {
+            "source": "맨 오브 오너",
+            "target": "아름다운 비행",
+            "value": 5.348615090735435,
+            "total": 1047,
+            "same": 56
+        },
+        {
+            "source": "뮬란",
+            "target": "아름다운 비행",
+            "value": 5.101214574898785,
+            "total": 1235,
+            "same": 63
+        },
+        {
+            "source": "쿨 러닝",
+            "target": "아름다운 비행",
+            "value": 5.05166475315729,
+            "total": 1742,
+            "same": 88
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "아름다운 비행",
+            "value": 5.006675567423231,
+            "total": 1498,
+            "same": 75
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "아름다운 비행",
+            "value": 4.962962962962963,
+            "total": 2700,
+            "same": 134
+        },
+        {
+            "source": "아름다운 비행",
+            "target": "사랑과 영혼",
+            "value": 4.808475957620212,
+            "total": 1227,
+            "same": 59
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "아름다운 비행",
+            "value": 4.786771105308964,
+            "total": 1149,
+            "same": 55
+        },
+        {
+            "source": "빽 투 더 퓨쳐 2",
+            "target": "아름다운 비행",
+            "value": 4.68975468975469,
+            "total": 1386,
+            "same": 65
+        },
+        {
+            "source": "아름다운 비행",
+            "target": "리멤버 타이탄",
+            "value": 4.659146640510055,
+            "total": 2039,
+            "same": 95
+        },
+        {
+            "source": "칼리토",
+            "target": "아름다운 비행",
+            "value": 4.617330803289057,
+            "total": 1581,
+            "same": 73
+        },
+        {
+            "source": "다이 하드",
+            "target": "아름다운 비행",
+            "value": 4.577742699289661,
+            "total": 1267,
+            "same": 58
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "아름다운 비행",
+            "value": 4.57217504898759,
+            "total": 1531,
+            "same": 70
+        },
+        {
+            "source": "브레이브하트",
+            "target": "아름다운 비행",
+            "value": 4.532462229481421,
+            "total": 2449,
+            "same": 111
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "아름다운 비행",
+            "value": 4.507819687212511,
+            "total": 2174,
+            "same": 98
+        },
+        {
+            "source": "토이 스토리 2",
+            "target": "아름다운 비행",
+            "value": 4.403948367501898,
+            "total": 1317,
+            "same": 58
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "아름다운 비행",
+            "value": 4.362139917695473,
+            "total": 1215,
+            "same": 53
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "모던 타임즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "천국의 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "토이 스토리 2",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "서부",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        },
+        {
+            "title": "SF",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 9
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 9
+        }
+    ]
+}

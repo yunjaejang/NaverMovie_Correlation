@@ -1,0 +1,441 @@
+{
+    "links": [
+        {
+            "source": "가버나움",
+            "target": "어느 가족",
+            "value": 3.2520325203252036,
+            "total": 5781,
+            "same": 188
+        },
+        {
+            "source": "그린 북",
+            "target": "어느 가족",
+            "value": 3.0264378478664193,
+            "total": 8624,
+            "same": 261
+        },
+        {
+            "source": "어느 가족",
+            "target": "러빙 빈센트",
+            "value": 2.398871119473189,
+            "total": 8504,
+            "same": 204
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "어느 가족",
+            "value": 2.2632717590281244,
+            "total": 6009,
+            "same": 136
+        },
+        {
+            "source": "어느 가족",
+            "target": "첫 키스만 50번째",
+            "value": 2.1788250484183345,
+            "total": 6196,
+            "same": 135
+        },
+        {
+            "source": "어느 가족",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.139364303178484,
+            "total": 4908,
+            "same": 105
+        },
+        {
+            "source": "어느 가족",
+            "target": "뷰티풀 마인드",
+            "value": 2.118503806686528,
+            "total": 6042,
+            "same": 128
+        },
+        {
+            "source": "어느 가족",
+            "target": "엽문",
+            "value": 2.078804347826087,
+            "total": 7360,
+            "same": 153
+        },
+        {
+            "source": "어느 가족",
+            "target": "이웃집 토토로",
+            "value": 2.0526315789473686,
+            "total": 5700,
+            "same": 117
+        },
+        {
+            "source": "어느 가족",
+            "target": "말아톤",
+            "value": 2.04806116876024,
+            "total": 7324,
+            "same": 150
+        },
+        {
+            "source": "어느 가족",
+            "target": "에이트 빌로우",
+            "value": 2.0423715896966925,
+            "total": 6561,
+            "same": 134
+        },
+        {
+            "source": "반지의 제왕: 왕의 귀환",
+            "target": "어느 가족",
+            "value": 2.030399274047187,
+            "total": 8816,
+            "same": 179
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "어느 가족",
+            "value": 2.024439175633777,
+            "total": 5483,
+            "same": 111
+        },
+        {
+            "source": "라따뚜이",
+            "target": "어느 가족",
+            "value": 2.0181634712411705,
+            "total": 8919,
+            "same": 180
+        },
+        {
+            "source": "코러스",
+            "target": "어느 가족",
+            "value": 2.0149875104079933,
+            "total": 6005,
+            "same": 121
+        },
+        {
+            "source": "어느 가족",
+            "target": "가타카",
+            "value": 2.0138451856513533,
+            "total": 6356,
+            "same": 128
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "가버나움",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=174830",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "나딘 라바키"
+            ],
+            "actor": [
+                "자인 알 라피아",
+                "요르다노스 시프로우"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "이웃집 토토로",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "러빙 빈센트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=144379",
+            "genre": [
+                "애니메이션",
+                "미스터리"
+            ],
+            "director": [
+                "도로타 코비엘라",
+                "휴 웰치맨"
+            ],
+            "actor": [
+                "더글러스 부스",
+                "시얼샤 로넌",
+                "제롬 플린"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "판타지",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "SF",
+            "group": 6
+        },
+        {
+            "title": "액션",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

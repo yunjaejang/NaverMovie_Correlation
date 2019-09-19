@@ -1,0 +1,422 @@
+{
+    "links": [
+        {
+            "source": "당갈",
+            "target": "허스토리",
+            "value": 1.964542405366555,
+            "total": 4174,
+            "same": 82
+        },
+        {
+            "source": "허스토리",
+            "target": "친정엄마",
+            "value": 1.7683465959328029,
+            "total": 4524,
+            "same": 80
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "허스토리",
+            "value": 1.6498993963782695,
+            "total": 4970,
+            "same": 82
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "허스토리",
+            "value": 1.6452503902966253,
+            "total": 8327,
+            "same": 137
+        },
+        {
+            "source": "허스토리",
+            "target": "피아니스트의 전설",
+            "value": 1.6396979503775622,
+            "total": 4635,
+            "same": 76
+        },
+        {
+            "source": "허스토리",
+            "target": "맨발의 꿈",
+            "value": 1.6390318277110731,
+            "total": 5247,
+            "same": 86
+        },
+        {
+            "source": "허스토리",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 1.6115169746454665,
+            "total": 4654,
+            "same": 75
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "허스토리",
+            "value": 1.5947857440022188,
+            "total": 7211,
+            "same": 115
+        },
+        {
+            "source": "허스토리",
+            "target": "첫 키스만 50번째",
+            "value": 1.5881809787626964,
+            "total": 5415,
+            "same": 86
+        },
+        {
+            "source": "허스토리",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 1.5829587649013093,
+            "total": 5117,
+            "same": 81
+        },
+        {
+            "source": "글래디에이터",
+            "target": "허스토리",
+            "value": 1.5770730880108532,
+            "total": 5897,
+            "same": 93
+        },
+        {
+            "source": "허스토리",
+            "target": "에이트 빌로우",
+            "value": 1.5584415584415585,
+            "total": 5775,
+            "same": 90
+        },
+        {
+            "source": "허스토리",
+            "target": "나 홀로 집에",
+            "value": 1.5506547208821502,
+            "total": 5804,
+            "same": 90
+        },
+        {
+            "source": "허스토리",
+            "target": "이웃집 토토로",
+            "value": 1.5475463245774792,
+            "total": 4911,
+            "same": 76
+        },
+        {
+            "source": "코러스",
+            "target": "허스토리",
+            "value": 1.5337423312883436,
+            "total": 5216,
+            "same": 80
+        },
+        {
+            "source": "허스토리",
+            "target": "말아톤",
+            "value": 1.528117359413203,
+            "total": 6544,
+            "same": 100
+        }
+    ],
+    "nodes": [
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "나 홀로 집에",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "허스토리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=167787",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "김희애",
+                "김해숙"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "이웃집 토토로",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

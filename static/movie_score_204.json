@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "첫 키스만 50번째",
+            "target": "스쿨 오브 락",
+            "value": 10.443170697609395,
+            "total": 7153,
+            "same": 747
+        },
+        {
+            "source": "나비 효과",
+            "target": "첫 키스만 50번째",
+            "value": 10.231990231990231,
+            "total": 8190,
+            "same": 838
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "첫 키스만 50번째",
+            "value": 9.516635279347144,
+            "total": 7965,
+            "same": 758
+        },
+        {
+            "source": "프리퀀시",
+            "target": "첫 키스만 50번째",
+            "value": 9.430979978925185,
+            "total": 7592,
+            "same": 716
+        },
+        {
+            "source": "가위손",
+            "target": "첫 키스만 50번째",
+            "value": 9.390388860587535,
+            "total": 5889,
+            "same": 553
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "첫 키스만 50번째",
+            "value": 9.35720097640358,
+            "total": 6145,
+            "same": 575
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "첫 키스만 50번째",
+            "value": 9.323843416370106,
+            "total": 5620,
+            "same": 524
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "첫 키스만 50번째",
+            "value": 9.297812279463656,
+            "total": 5668,
+            "same": 527
+        },
+        {
+            "source": "첫 키스만 50번째",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.295721317682695,
+            "total": 5282,
+            "same": 491
+        },
+        {
+            "source": "글래디에이터",
+            "target": "첫 키스만 50번째",
+            "value": 9.10105196047179,
+            "total": 6274,
+            "same": 571
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "첫 키스만 50번째",
+            "value": 9.02547065337763,
+            "total": 5418,
+            "same": 489
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "첫 키스만 50번째",
+            "value": 9.015495382688997,
+            "total": 6389,
+            "same": 576
+        },
+        {
+            "source": "말아톤",
+            "target": "첫 키스만 50번째",
+            "value": 9.012937927024277,
+            "total": 6879,
+            "same": 620
+        },
+        {
+            "source": "라따뚜이",
+            "target": "첫 키스만 50번째",
+            "value": 8.982322025800286,
+            "total": 8372,
+            "same": 752
+        },
+        {
+            "source": "코러스",
+            "target": "첫 키스만 50번째",
+            "value": 8.963684676705048,
+            "total": 5645,
+            "same": 506
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "첫 키스만 50번째",
+            "value": 8.847271553115919,
+            "total": 9291,
+            "same": 822
+        }
+    ],
+    "nodes": [
+        {
+            "id": "글래디에이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "액션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

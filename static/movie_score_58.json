@@ -1,0 +1,428 @@
+{
+    "links": [
+        {
+            "source": "그대를 사랑합니다",
+            "target": "울지마 톤즈",
+            "value": 10.209424083769633,
+            "total": 9168,
+            "same": 936
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "킹콩을 들다",
+            "value": 9.548989113530325,
+            "total": 9645,
+            "same": 921
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "울지마 톤즈",
+            "value": 9.4482421875,
+            "total": 8192,
+            "same": 774
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "도가니",
+            "value": 9.331593176097698,
+            "total": 10727,
+            "same": 1001
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "엽문",
+            "value": 8.982584784601283,
+            "total": 7637,
+            "same": 686
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "말아톤",
+            "value": 8.842464853501511,
+            "total": 7611,
+            "same": 673
+        },
+        {
+            "source": "테이큰",
+            "target": "울지마 톤즈",
+            "value": 8.82905982905983,
+            "total": 11700,
+            "same": 1033
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "토이 스토리 3",
+            "value": 8.79839645532229,
+            "total": 9479,
+            "same": 834
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "스쿨 오브 락",
+            "value": 8.780060120240481,
+            "total": 7984,
+            "same": 701
+        },
+        {
+            "source": "라따뚜이",
+            "target": "울지마 톤즈",
+            "value": 8.758643398090221,
+            "total": 9111,
+            "same": 798
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "울지마 톤즈",
+            "value": 8.749220212102308,
+            "total": 6412,
+            "same": 561
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "라디오 스타",
+            "value": 8.73093730491394,
+            "total": 11213,
+            "same": 979
+        },
+        {
+            "source": "코러스",
+            "target": "울지마 톤즈",
+            "value": 8.612590040714062,
+            "total": 6386,
+            "same": 550
+        },
+        {
+            "source": "해리 포터와 죽음의 성물 - 2부",
+            "target": "울지마 톤즈",
+            "value": 8.57190691444835,
+            "total": 11946,
+            "same": 1024
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "울지마 톤즈",
+            "value": 8.556866952789699,
+            "total": 7456,
+            "same": 638
+        },
+        {
+            "source": "라푼젤",
+            "target": "울지마 톤즈",
+            "value": 8.536585365853659,
+            "total": 8938,
+            "same": 763
+        }
+    ],
+    "nodes": [
+        {
+            "id": "토이 스토리 3",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "라푼젤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75470",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "네이슨 그레노",
+                "바이론 하워드"
+            ],
+            "actor": [
+                "맨디 무어",
+                "제커리 레비"
+            ]
+        },
+        {
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "genre": [
+                "모험",
+                "판타지",
+                "미스터리"
+            ],
+            "director": [
+                "데이빗 예이츠"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

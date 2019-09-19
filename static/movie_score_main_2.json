@@ -1,0 +1,4779 @@
+{
+    "links": [],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "movie_id": 1,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190115_228/1547528180168jgEP7_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "가버나움",
+            "movie_id": 2,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=174830",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "나딘 라바키"
+            ],
+            "actor": [
+                "자인 알 라피아",
+                "요르다노스 시프로우"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190109_149/1546998123676c6LjJ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "주전장",
+            "movie_id": 3,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=179518",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "미키 데자키"
+            ],
+            "actor": [
+                "전체 관람가"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190712_279/1562912698606Qv0GH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "베일리 어게인",
+            "movie_id": 4,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=144906",
+            "genre": [
+                "모험",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "라세 할스트롬"
+            ],
+            "actor": [
+                "조시 게드",
+                "데니스 퀘이드",
+                "K.J. 아파"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181031_264/1540949415228uy0j3_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아일라",
+            "movie_id": 5,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=169240",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "잔 울카이"
+            ],
+            "actor": [
+                "김설",
+                "이스마일 하지오글루"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180524_108/1527129319423XRTcI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "원더",
+            "movie_id": 6,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171229_112/1514526663263n37r0_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "당갈",
+            "movie_id": 7,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180329_2/1522287706725roSen_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "쇼생크 탈출",
+            "movie_id": 8,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "프랭크 다라본트"
+            ],
+            "actor": [
+                "팀 로빈스",
+                "모건 프리먼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160119_278/14531650465287bcuk_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "보헤미안 랩소디",
+            "movie_id": 9,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=156464",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "브라이언 싱어"
+            ],
+            "actor": [
+                "라미 말렉",
+                "루시 보인턴",
+                "귈림 리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181213_264/1544692854634ss65r_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "터미네이터 2",
+            "movie_id": 10,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10200",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190808_222/1565227513796UPGNm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "덕구",
+            "movie_id": 11,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154667",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "방수인"
+            ],
+            "actor": [
+                "이순재",
+                "정지훈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180312_10/1520835949152TqOUm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "알라딘",
+            "movie_id": 12,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
+            "genre": [
+                "모험",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "가이 리치"
+            ],
+            "actor": [
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190524_104/1558663170174Q2mmw_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "월-E",
+            "movie_id": 13,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=69105",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "가족",
+                "코미디",
+                "멜로/로맨스",
+                "모험"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "벤 버트",
+                "엘리사 나이트",
+                "제프 갈린"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_250/1324545484806T0DN9_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "나 홀로 집에",
+            "movie_id": 14,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_256/1324527530062tFbqt_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인생은 아름다워",
+            "movie_id": 15,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160321_156/14585243498978uRh9_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "movie_id": 16,
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_4/1324498435937yqCYm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "빽 투 더 퓨쳐",
+            "movie_id": 17,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드",
+                "리 톰슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150924_194/1443056454769VJKkL_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "매트릭스",
+            "movie_id": 18,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160907_158/1473230958410gjEYe_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "사운드 오브 뮤직",
+            "movie_id": 19,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10102",
+            "genre": [
+                "멜로/로맨스",
+                "뮤지컬",
+                "드라마"
+            ],
+            "director": [
+                "로버트 와이즈"
+            ],
+            "actor": [
+                "줄리 앤드류스",
+                "크리스토퍼 플러머",
+                "엘레노 파커"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161124_209/1479966118269WuVYF_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "포레스트 검프",
+            "movie_id": 20,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160901_187/1472711688297YP2jH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "헬프",
+            "movie_id": 21,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_214/1324649693153G81OH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "글래디에이터",
+            "movie_id": 22,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130419_151/1366338731242XqgJS_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "어벤져스: 엔드게임",
+            "movie_id": 23,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=136900",
+            "genre": [
+                "액션",
+                "SF"
+            ],
+            "director": [
+                "안소니 루소",
+                "조 루소"
+            ],
+            "actor": [
+                "로버트 다우니 주니어",
+                "크리스 에반스",
+                "크리스 헴스워스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190417_250/1555465284425i6WQE_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "살인의 추억",
+            "movie_id": 24,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_166/1324548172003mpyIa_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "토이 스토리 3",
+            "movie_id": 25,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_166/1324619308419RAp5L_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "센과 치히로의 행방불명",
+            "movie_id": 26,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=32686",
+            "genre": [
+                "애니메이션",
+                "판타지",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히이라기 루미",
+                "이리노 미유"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150113_96/1421113909808LPjqA_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "위대한 쇼맨",
+            "movie_id": 27,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=106360",
+            "genre": [
+                "드라마",
+                "뮤지컬"
+            ],
+            "director": [
+                "마이클 그레이시"
+            ],
+            "actor": [
+                "휴 잭맨",
+                "잭 에프론",
+                "미셸 윌리엄스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171218_47/1513561221134wvRja_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "클래식",
+            "movie_id": 28,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=35939",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "손예진",
+                "조승우",
+                "조인성"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_233/1324486884038nu8Xk_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "죽은 시인의 사회",
+            "movie_id": 29,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10048",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160811_237/1470893687476y2lJU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아이 캔 스피크",
+            "movie_id": 30,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=161850",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김현석"
+            ],
+            "actor": [
+                "나문희",
+                "이제훈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170908_108/1504837489518BdEBl_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "레옹",
+            "movie_id": 31,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=17170",
+            "genre": [
+                "범죄",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "뤽 베송"
+            ],
+            "actor": [
+                "장 르노",
+                "나탈리 포트만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180614_21/1528939162378wtwMm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "헌터 킬러",
+            "movie_id": 32,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181212_219/1544577062842KarfK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "반지의 제왕: 왕의 귀환",
+            "movie_id": 33,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=31796",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션",
+                "전쟁"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "숀 애스틴",
+                "앤디 서키스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170112_240/1484183668820LGsTJ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "동주",
+            "movie_id": 34,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=134899",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "강하늘",
+                "박정민",
+                "김인우"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160205_299/1454651273096sYmsK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "movie_id": 35,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_51/1324565484058LDGWr_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "캐스트 어웨이",
+            "movie_id": 36,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "genre": [
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스",
+                "헬렌 헌트"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_155/1324482759519Uvkyl_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "여인의 향기",
+            "movie_id": 37,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_152/1324529496355rYAnm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "주토피아",
+            "movie_id": 38,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=130850",
+            "genre": [
+                "애니메이션",
+                "액션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "바이론 하워드",
+                "리치 무어"
+            ],
+            "actor": [
+                "지니퍼 굿윈",
+                "제이슨 베이트먼",
+                "샤키라"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160217_153/1455686083975zjajH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "히든 피겨스",
+            "movie_id": 39,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170323_41/14902311518230x8pp_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "세 얼간이",
+            "movie_id": 40,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=73372",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "라지쿠마르 히라니"
+            ],
+            "actor": [
+                "아미르 칸",
+                "마드하반",
+                "셔먼 조쉬"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161005_215/1475647328961ETC6k_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "클레멘타인",
+            "movie_id": 41,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=37886",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "김두영"
+            ],
+            "actor": [
+                "이동준",
+                "김혜리",
+                "스티븐 시걸"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_33/1324533894503h3QAH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "지금, 만나러 갑니다",
+            "movie_id": 42,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "genre": [
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "도이 노부히로"
+            ],
+            "actor": [
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180403_286/1522736958040KRAkQ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "타이타닉",
+            "movie_id": 43,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=18847",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "케이트 윈슬렛"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181129_107/1543452551390CN9TW_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "쉰들러 리스트",
+            "movie_id": 44,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190122_81/1548118455965SCCSW_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "언터처블: 1%의 우정",
+            "movie_id": 45,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "올리비에르 나카체",
+                "에릭 토레다노"
+            ],
+            "actor": [
+                "프랑수아 클루제",
+                "오마 사이"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20120206_287/1328516303779LrC9h_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "서유기 2 - 선리기연",
+            "movie_id": 46,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=18543",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "주인"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_77/1324614581048LAc6L_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "에이리언 2",
+            "movie_id": 47,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_189/1324569548247L26km_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "모노노케 히메",
+            "movie_id": 48,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19303",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "마츠다 요지",
+                "미와 아키히로",
+                "이시다 유리코"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_63/1324483671210VVU36_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "패왕별희",
+            "movie_id": 49,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14448",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "장국영",
+                "공리",
+                "장풍의"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170309_211/1489024538678ITB9w_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "movie_id": 50,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160810_49/14708058043034cuPp_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "movie_id": 51,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_56/13246314342663riGK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아마데우스",
+            "movie_id": 52,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150915_185/1442285641128msR7J_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "집으로...",
+            "movie_id": 53,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34324",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "이정향"
+            ],
+            "actor": [
+                "김을분",
+                "유승호"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190805_26/1564994340344jQru8_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "movie_id": 54,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170112_295/1484183596684X2ucM_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "다시 태어나도 우리",
+            "movie_id": 55,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170831_207/1504142664133FKxXK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "드래곤 길들이기",
+            "movie_id": 56,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190102_130/1546395842249fT9Ei_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "다크 나이트",
+            "movie_id": 57,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170608_209/1496886337035SDPLy_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "울지마 톤즈",
+            "movie_id": 58,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_289/1324622149942dtKyL_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "알라딘",
+            "movie_id": 59,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
+            "genre": [
+                "모험",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "가이 리치"
+            ],
+            "actor": [
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190524_104/1558663170174Q2mmw_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "폴란드로 간 아이들",
+            "movie_id": 60,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=178434",
+            "genre": [
+                "다큐멘터리",
+                "드라마"
+            ],
+            "director": [
+                "추상미"
+            ],
+            "actor": [
+                "이송",
+                "추상미"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181004_63/1538615669479nezAh_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "트루먼 쇼",
+            "movie_id": 61,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181030_24/1540878641446PBOcp_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "미세스 다웃파이어",
+            "movie_id": 62,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=16210",
+            "genre": [
+                "코미디",
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "샐리 필드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_82/1324538552665F1zbw_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "더 록",
+            "movie_id": 63,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_286/1324471145026nKaBX_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아이언 자이언트",
+            "movie_id": 64,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=25915",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "제니퍼 애니스톤",
+                "엘리 마리엔탈",
+                "해리 코닉 주니어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190826_143/1566796598455I2Amf_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "라푼젤",
+            "movie_id": 65,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=75470",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "네이슨 그레노",
+                "바이론 하워드"
+            ],
+            "actor": [
+                "맨디 무어",
+                "제커리 레비"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170418_162/1492497182954jDK7m_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "프리퀀시",
+            "movie_id": 66,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_144/1324507551715hYCMY_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아이 엠 샘",
+            "movie_id": 67,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_30/1324551355578IOWKU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "movie_id": 68,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "genre": [
+                "모험",
+                "판타지",
+                "미스터리"
+            ],
+            "director": [
+                "데이빗 예이츠"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_74/1324640419980SJD8k_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "소원",
+            "movie_id": 69,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=103535",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "설경구",
+                "엄지원",
+                "이레"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130902_68/1378096688321WUTwq_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "지상의 별처럼",
+            "movie_id": 70,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51172",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "아미르 칸",
+                "아몰 굽테"
+            ],
+            "actor": [
+                "다쉴 사페리",
+                "아미르 칸"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20120719_80/13426857031456QQI0_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "주먹왕 랄프",
+            "movie_id": 71,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=87307",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "리치 무어"
+            ],
+            "actor": [
+                "존 C. 라일리",
+                "사라 실버맨",
+                "잭 맥브레이어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20121123_34/1353646026595Ju6dI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "번 더 스테이지: 더 무비",
+            "movie_id": 72,
+            "group": 12,
+            "href": "/movie/bi/mi/basic.nhn?code=176354",
+            "genre": [
+                "한국"
+            ],
+            "director": [
+                "박준수"
+            ],
+            "actor": [
+                "RM",
+                "진",
+                "슈가"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181109_286/1541743345207CtoXg_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "코러스",
+            "movie_id": 73,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171208_286/1512694590425x9EjV_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "모던 타임즈",
+            "movie_id": 74,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150210_110/1423530446210OeFV1_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "업",
+            "movie_id": 75,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_221/1324590426566npnJd_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "빌리 엘리어트",
+            "movie_id": 76,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170105_296/1483590193115rpMx5_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "언더독",
+            "movie_id": 77,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=144318",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "오성윤",
+                "이춘백"
+            ],
+            "actor": [
+                "디오",
+                "박소담",
+                "박철민"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181224_250/1545613244716iYHTg_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "피아니스트",
+            "movie_id": 78,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150608_292/1433754164299kVDXs_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "movie_id": 79,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_101/13244782467487AIcS_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "미스 슬로운",
+            "movie_id": 80,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142632",
+            "genre": [
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "존 매든"
+            ],
+            "actor": [
+                "제시카 차스테인"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170412_230/1491961688364Vftv5_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "러브 유어셀프 인 서울",
+            "movie_id": 81,
+            "group": 13,
+            "href": "/movie/bi/mi/basic.nhn?code=180220",
+            "genre": [
+                "공연실황"
+            ],
+            "director": [
+                "RM",
+                "진",
+                "슈가"
+            ],
+            "actor": [
+                "전체 관람가"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181214_60/15447506226141Uiod_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "블라인드 사이드",
+            "movie_id": 82,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_159/13246089113705W9ps_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "바이센테니얼 맨",
+            "movie_id": 83,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=28788",
+            "genre": [
+                "SF",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_282/1324470047868yqNUI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아기공룡 둘리 - 얼음별 대모험",
+            "movie_id": 84,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17441",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "코미디",
+                "모험",
+                "뮤지컬"
+            ],
+            "director": [
+                "김수정",
+                "임경원"
+            ],
+            "actor": [
+                "박영남",
+                "이인성"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_146/1324474085699H3JT7_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "오세암",
+            "movie_id": 85,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=34181",
+            "genre": [
+                "애니메이션",
+                "드라마"
+            ],
+            "director": [
+                "성백엽"
+            ],
+            "actor": [
+                "김서영",
+                "박선영"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_125/1324507783843b9gEF_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "우리들의 일그러진 영웅",
+            "movie_id": 86,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12297",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박종원"
+            ],
+            "actor": [
+                "홍경인",
+                "고정일",
+                "최민식"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_284/1324452236681SMIDe_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "쥬라기 공원",
+            "movie_id": 87,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130531_210/13699689765823Nlai_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "라따뚜이",
+            "movie_id": 88,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_98/1324525988764xxfgr_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "천공의 성 라퓨타",
+            "movie_id": 89,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18782",
+            "genre": [
+                "애니메이션",
+                "판타지",
+                "모험"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "타나카 마유미",
+                "요코자와 케이코",
+                "하츠이 코토에"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_264/1324541030764uwdKQ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "로망",
+            "movie_id": 90,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=182348",
+            "genre": [
+                "멜로/로맨스"
+            ],
+            "director": [
+                "이창근"
+            ],
+            "actor": [
+                "이순재",
+                "정영숙",
+                "조한철"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190306_13/1551862037635qnE0r_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "일급 살인",
+            "movie_id": 91,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17869",
+            "genre": [
+                "드라마",
+                "범죄"
+            ],
+            "director": [
+                "마크 로코"
+            ],
+            "actor": [
+                "크리스찬 슬레이터",
+                "케빈 베이컨",
+                "게리 올드만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_237/1324564654860kKxJt_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "내 이름은 칸",
+            "movie_id": 92,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_154/1324634519508BXcx5_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "자백",
+            "movie_id": 93,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=146534",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "최승호"
+            ],
+            "actor": [
+                "최승호",
+                "김기춘",
+                "원세훈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161004_45/1475545337972XDyUi_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "시네마 천국",
+            "movie_id": 94,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130911_232/1378878991812QfLTe_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "토이 스토리",
+            "movie_id": 95,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_26/1324486740607KI01H_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "퀸 락 몬트리올",
+            "movie_id": 96,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=54900",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "솔 스위머"
+            ],
+            "actor": [
+                "존 디콘",
+                "브라이언 메이",
+                "프레디 머큐리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111224_221/1324655339062piKsV_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "에이 아이",
+            "movie_id": 97,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31268",
+            "genre": [
+                "SF",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "할리 조엘 오스먼트",
+                "주드 로",
+                "프란시스 오코너"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_264/13245805774065e9Mn_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "록키",
+            "movie_id": 98,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171115_176/1510728216956HOOe1_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "천국의 아이들",
+            "movie_id": 99,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170117_167/1484617736745cCu57_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "영웅: 샐러멘더의 비밀",
+            "movie_id": 100,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=51708",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "알렉산드르 야킴추크",
+                "엘레나 코발레바"
+            ],
+            "actor": [
+                "김보성",
+                "표도르 예멜리야넨코"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130123_23/1358932669644LPxFO_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뽀로로 극장판 보물섬 대모험",
+            "movie_id": 101,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=183136",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "김현호",
+                "윤창섭"
+            ],
+            "actor": [
+                "이선",
+                "이미자",
+                "김현지"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190329_266/15538347866861YXl3_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "다이 하드",
+            "movie_id": 102,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_215/1324578397636Vn9Lq_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "레드슈즈",
+            "movie_id": 103,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=164907",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "홍성호"
+            ],
+            "actor": [
+                "클로이 모레츠",
+                "샘 클라플린",
+                "지나 거손"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190725_193/1564022721149J72b7_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뷰티풀 투모로우",
+            "movie_id": 104,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=169561",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장재혁"
+            ],
+            "actor": [
+                "박효신",
+                "정재일"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171030_54/1509334385029hwGdz_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "라이온 킹",
+            "movie_id": 105,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "로저 알러스",
+                "롭 민코프"
+            ],
+            "actor": [
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190722_115/1563760451352h64Fo_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "천녀유혼",
+            "movie_id": 106,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190325_20/155347869332414163_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "세상에서 가장 아름다운 이별",
+            "movie_id": 107,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=79762",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "배종옥",
+                "김갑수",
+                "김지영"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_2/13246354120826wuuA_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "바람계곡의 나우시카",
+            "movie_id": 108,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18052",
+            "genre": [
+                "애니메이션",
+                "SF"
+            ],
+            "director": [
+                "미야자키 하야오",
+                "코마츠바라 카즈오"
+            ],
+            "actor": [
+                "시마모토 스미",
+                "츠지무라 마히토",
+                "쿄다 히사코"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_106/1324528452873OMdC0_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "반지의 제왕: 반지 원정대",
+            "movie_id": 109,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=31794",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "리브 타일러"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170112_293/1484183486221oM8s1_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "빌리 엘리어트 뮤지컬 라이브",
+            "movie_id": 110,
+            "group": 13,
+            "href": "/movie/bi/mi/basic.nhn?code=125724",
+            "genre": [
+                "공연실황"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "엘리엇 한나",
+                "루시에 헨쉘",
+                "데카 웜슬리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20141028_45/1414463799545BKScI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "몬스터 주식회사 3D",
+            "movie_id": 111,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=32112",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "판타지",
+                "코미디"
+            ],
+            "director": [
+                "피트 닥터",
+                "데이빗 실버맨",
+                "리 언크리치"
+            ],
+            "actor": [
+                "존 굿맨",
+                "빌리 크리스탈",
+                "매리 깁스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130122_180/1358819064231daPKK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "엽기적인 그녀",
+            "movie_id": 112,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_278/1324577048430YYLpv_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "타잔",
+            "movie_id": 113,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=25266",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험"
+            ],
+            "director": [
+                "케빈 리마",
+                "크리스 벅"
+            ],
+            "actor": [
+                "토니 골드윈",
+                "미니 드라이버"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_38/1324542328491At0b3_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "폴리스 스토리",
+            "movie_id": 114,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150312_242/1426141162841F2pco_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "허스토리",
+            "movie_id": 115,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=167787",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "김희애",
+                "김해숙"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180618_223/1529289387860nUBT1_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "맨발의 꿈",
+            "movie_id": 116,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_86/1324613577990hG440_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "동방불패",
+            "movie_id": 117,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20131210_287/1386661099766jo0ls_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "말할 수 없는 비밀",
+            "movie_id": 118,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
+            "genre": [
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
+            ],
+            "director": [
+                "주걸륜"
+            ],
+            "actor": [
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150401_175/14278553671933quzs_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "프리 윌리",
+            "movie_id": 119,
+            "group": 14,
+            "href": "/movie/bi/mi/basic.nhn?code=16466",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "사이먼 윈서"
+            ],
+            "actor": [
+                "케이코",
+                "제이슨 제임스 리처",
+                "로리 페티"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_252/1324474358863cX2Ok_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "바람",
+            "movie_id": 120,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_242/1324597990008Nj67F_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "메리 포핀스",
+            "movie_id": 121,
+            "group": 14,
+            "href": "/movie/bi/mi/basic.nhn?code=11608",
+            "genre": [
+                "가족",
+                "코미디",
+                "뮤지컬",
+                "판타지"
+            ],
+            "director": [
+                "로버트 스티븐슨"
+            ],
+            "actor": [
+                "줄리 앤드류스",
+                "딕 반 다이크",
+                "데이비드 톰린슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_46/1324482040732kfaGN_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "교회오빠",
+            "movie_id": 122,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=183132",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이호경"
+            ],
+            "actor": [
+                "이관희",
+                "오은주",
+                "이소연"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190327_111/15536621391952t7K8_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "movie_id": 123,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_149/1324594571372cfQMs_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "movie_id": 124,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_32/1324577751718PR2XX_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "브레이브하트",
+            "movie_id": 125,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_36/1324634876338S6xxQ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "도가니",
+            "movie_id": 126,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_256/1324646334244okQ2O_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "movie_id": 127,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_149/1324592649161HV1ry_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "에이트 빌로우",
+            "movie_id": 128,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_294/1324453111090xBIEs_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "오페라의 유령 : 25주년 특별 공연",
+            "movie_id": 129,
+            "group": 13,
+            "href": "/movie/bi/mi/basic.nhn?code=89752",
+            "genre": [
+                "공연실황"
+            ],
+            "director": [
+                "캐머런 맥킨토시",
+                "로렌스 코너",
+                "질리안 린"
+            ],
+            "actor": [
+                "시에라 보게스",
+                "라민 카림루",
+                "하들리 프레이저"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111224_80/1324654980579w1EP6_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "온리 더 브레이브",
+            "movie_id": 130,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180219_45/1519027643063p4Gju_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "코코",
+            "movie_id": 131,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=151728",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "안소니 곤잘레스 ",
+                "가엘 가르시아 베르날",
+                "벤자민 브랫"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171222_56/1513906341368blx3Q_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인생",
+            "movie_id": 132,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16531",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장예모"
+            ],
+            "actor": [
+                "공리",
+                "갈우"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_92/13244550096878VBm9_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "이웃집 토토로",
+            "movie_id": 133,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190507_131/1557194421303SpmS0_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "또 하나의 약속",
+            "movie_id": 134,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=100654",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태윤"
+            ],
+            "actor": [
+                "박철민",
+                "윤유선",
+                "김규리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20140106_7/1388972549520fQhce_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "로미오와 줄리엣",
+            "movie_id": 135,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10185",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "프랑코 제페렐리"
+            ],
+            "actor": [
+                "레너드 위팅",
+                "올리비아 핫세",
+                "존 맥에너리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_211/1324586655256bklaD_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "터미네이터",
+            "movie_id": 136,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_137/1324507399293UsKfI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "트루맛쇼",
+            "movie_id": 137,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_40/1324638783572CfeUU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "쥬만지",
+            "movie_id": 138,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_209/1324569135466HoEsQ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "movie_id": 139,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161117_246/1479344102925C9Ens_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "토이 스토리 2",
+            "movie_id": 140,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_164/1324480061997pYUFr_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "본 얼티메이텀",
+            "movie_id": 141,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160628_2/1467080136011unJpU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "우리들",
+            "movie_id": 142,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=146504",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤가은"
+            ],
+            "actor": [
+                "최수인",
+                "설혜인",
+                "이서연"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160519_125/1463633078640zLLTy_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "신데렐라 맨",
+            "movie_id": 143,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_83/1324618952362vuCxq_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "명탐정 코난: 베이커가의 망령",
+            "movie_id": 144,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=38613",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "코다마 켄지"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_64/1324527093603Kc0Uk_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "하이 스쿨 뮤지컬: 졸업반",
+            "movie_id": 145,
+            "group": 15,
+            "href": "/movie/bi/mi/basic.nhn?code=45774",
+            "genre": [
+                "뮤지컬",
+                "코미디",
+                "드라마",
+                "가족",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "잭 에프론",
+                "바네사 허진스",
+                "애슐리 티스데일"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_250/1324572904017YpxxU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "늑대와 춤을",
+            "movie_id": 146,
+            "group": 16,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_284/1324531837148xPI9q_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "취권 2",
+            "movie_id": 147,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=16216",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "유가량"
+            ],
+            "actor": [
+                "성룡"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_287/1324538393763PHLew_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "드래곤 길들이기 3",
+            "movie_id": 148,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=109193",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "딘 데블로이스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "아메리카 페레라",
+                "케이트 블란쳇"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190131_168/1548898773611USlT7_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "패밀리 맨",
+            "movie_id": 149,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_128/1324551257240i2tXP_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "트와이스랜드",
+            "movie_id": 150,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=180361",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "나연",
+                "정연",
+                "모모"
+            ],
+            "actor": [
+                "전체 관람가"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181126_28/1543198228641MuW4K_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "movie_id": 151,
+            "group": 15,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_95/1324577323974nbaUv_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "가위손",
+            "movie_id": 152,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20140516_73/1400226339590GKGTd_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "친정엄마",
+            "movie_id": 153,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_55/1324607938361EdETl_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "보디가드",
+            "movie_id": 154,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=17111",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "원규"
+            ],
+            "actor": [
+                "이연걸",
+                "종려시"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_28/13245398841535psgo_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "마이너리티 리포트",
+            "movie_id": 155,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_144/1324533525558LSVPi_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "위대한 독재자",
+            "movie_id": 156,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=10341",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150330_89/1427701328897Bu28M_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인크레더블",
+            "movie_id": 157,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_118/1324470152897UVkHB_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "미녀와 야수",
+            "movie_id": 158,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170418_8/1492495678811alblS_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "해바라기",
+            "movie_id": 159,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_49/1324559296530Ns2Xc_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "가타카",
+            "movie_id": 160,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_69/1324541836762R8tql_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "프린스 앤 프린세스",
+            "movie_id": 161,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31170",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "미셸 오슬로"
+            ],
+            "actor": [
+                "이베스 바사크"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_172/1324479317370KDLWx_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "집으로 가는 길",
+            "movie_id": 162,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29953",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "장이머우"
+            ],
+            "actor": [
+                "장쯔이",
+                "순홍레이",
+                "이빈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_73/1324465452839k4iaY_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "로보캅",
+            "movie_id": 163,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10217",
+            "genre": [
+                "SF",
+                "액션",
+                "범죄"
+            ],
+            "director": [
+                "폴 버호벤"
+            ],
+            "actor": [
+                "피터 웰러",
+                "낸시 알렌",
+                "댄 오헐리히"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_219/13244984250214YhOo_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "광해, 왕이 된 남자",
+            "movie_id": 164,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=83893",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이병헌",
+                "류승룡",
+                "한효주"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20121018_114/13505269047497LGt6_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "쿨 러닝",
+            "movie_id": 165,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_39/1324540209868FJEQw_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "엽문",
+            "movie_id": 166,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180426_254/1524722492325paL1r_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "극장판 헬로카봇 : 백악기 시대",
+            "movie_id": 167,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=175727",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "최신규",
+                "김진철"
+            ],
+            "actor": [
+                "이지현",
+                "김용준",
+                "양정화"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180712_119/1531377839011rdxSS_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "석양에 돌아오다",
+            "movie_id": 168,
+            "group": 16,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130110_146/1357786939221cJBAy_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "피아니스트의 전설",
+            "movie_id": 169,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_253/1324487550535FPC7h_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "movie_id": 170,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_114/1324470706744EdNKe_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "movie_id": 171,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160725_78/1469413892794fLdOz_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "고 녀석 맛나겠다",
+            "movie_id": 172,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=79749",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험"
+            ],
+            "director": [
+                "후지모리 마사야"
+            ],
+            "actor": [
+                "야마구치 캇페이",
+                "카토 세이시로"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_33/1324639304668v3hRK_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "8월의 크리스마스",
+            "movie_id": 173,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18817",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "허진호"
+            ],
+            "actor": [
+                "한석규",
+                "심은하"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20131024_116/13826089621478XXIl_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "리멤버 타이탄",
+            "movie_id": 174,
+            "group": 14,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_277/1324551255205hKU3b_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "킹콩을 들다",
+            "movie_id": 175,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_299/1324587041674vE43S_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아저씨",
+            "movie_id": 176,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_67/1324619531349Xc7vj_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인크레더블 2",
+            "movie_id": 177,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=136990",
+            "genre": [
+                "애니메이션",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "사무엘 L. 잭슨",
+                "홀리 헌터"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180711_9/1531285562987n5VUG_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "movie_id": 178,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150924_127/14430563852692a3lU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "투게더",
+            "movie_id": 179,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_39/1324556331971lrAkB_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "1987",
+            "movie_id": 180,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=158191",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장준환"
+            ],
+            "actor": [
+                "김윤석",
+                "하정우",
+                "유해진"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171215_265/1513327177055W7qpm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "땐뽀걸즈",
+            "movie_id": 181,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=167107",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이승문"
+            ],
+            "actor": [
+                "이규호",
+                "김현빈",
+                "박혜영"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170830_7/1504069030981tJm5V_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "로마의 휴일",
+            "movie_id": 182,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=10101",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "윌리엄 와일러"
+            ],
+            "actor": [
+                "그레고리 펙",
+                "오드리 헵번"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_184/1324464709015ggkNw_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "님아, 그 강을 건너지 마오",
+            "movie_id": 183,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=130013",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "진모영"
+            ],
+            "actor": [
+                "조병만",
+                "강계열"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20141103_255/1414988497460e1QB6_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "니모를 찾아서 3D",
+            "movie_id": 184,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=32116",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "앨버트 브룩스",
+                "엘런 드제너러스",
+                "알렉산더 굴드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130424_214/13667923570140Q9HA_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "똥파리",
+            "movie_id": 185,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_38/1324584197213BqKNm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "movie_id": 186,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_107/13246162456260T0Ib_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "타인의 삶",
+            "movie_id": 187,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130115_55/13582135898186wXUP_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "해리 포터와 마법사의 돌",
+            "movie_id": 188,
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=30688",
+            "genre": [
+                "판타지",
+                "가족",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "루퍼트 그린트",
+                "엠마 왓슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181019_236/1539926790655oHv5z_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "페이스 오프",
+            "movie_id": 189,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_276/1324478294709bFeIq_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "그랜 토리노",
+            "movie_id": 190,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_31/1324546734764xpTdg_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "오아시스",
+            "movie_id": 191,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_263/1324557403000CgQL1_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "크루즈 패밀리",
+            "movie_id": 192,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=79435",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "커크 드 미코",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "라이언 레이놀즈",
+                "엠마 스톤"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20130516_238/13686843036851Mn0N_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "시월애",
+            "movie_id": 193,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=30306",
+            "genre": [
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "이현승"
+            ],
+            "actor": [
+                "이정재",
+                "전지현"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_156/1324529006470bBotp_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "플립",
+            "movie_id": 194,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=76309",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "로브 라이너"
+            ],
+            "actor": [
+                "매들린 캐롤",
+                "캘런 맥오리피"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170726_166/1501060646351o5Y6g_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "잉여들의 히치하이킹",
+            "movie_id": 195,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=115298",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "이호재"
+            ],
+            "actor": [
+                "이호재",
+                "이현학",
+                "하승엽"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20131104_167/1383542156475kKEVI_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인셉션",
+            "movie_id": 196,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_295/13246175218167Mp6y_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "보루토 - 나루토 더 무비",
+            "movie_id": 197,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=140711",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "야마시타 히로유키"
+            ],
+            "actor": [
+                "산페이 유코",
+                "키쿠치 코코로",
+                "타케우치 준코"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20151116_278/1447635254591CT92R_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "말아톤",
+            "movie_id": 198,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_15/13245369494900fsvk_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "슈퍼소닉",
+            "movie_id": 199,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=151106",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "맷 화이트크로스"
+            ],
+            "actor": [
+                "노엘 갤러거",
+                "리암 갤러거"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161024_90/1477270787960CSQaf_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "아름다운 비행",
+            "movie_id": 200,
+            "group": 14,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_42/1324560152872Xczmx_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "러빙 빈센트",
+            "movie_id": 201,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=144379",
+            "genre": [
+                "애니메이션",
+                "미스터리"
+            ],
+            "director": [
+                "도로타 코비엘라",
+                "휴 웰치맨"
+            ],
+            "actor": [
+                "더글러스 부스",
+                "시얼샤 로넌",
+                "제롬 플린"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181206_87/1544080398551iRbue_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "movie_id": 202,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_100/13245711831524mp33_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "대부 3",
+            "movie_id": 203,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_54/1324560197045qloSq_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "movie_id": 204,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170517_295/1494999263512wVxpQ_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "콘택트",
+            "movie_id": 205,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18610",
+            "genre": [
+                "SF"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "조디 포스터",
+                "매튜 맥커너히"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_204/1324533923120b3vWi_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "어메이징 메리",
+            "movie_id": 206,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170908_92/1504836964637RBNUm_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "스파이더맨: 뉴 유니버스",
+            "movie_id": 207,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=171725",
+            "genre": [
+                "애니메이션",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "밥 퍼시케티",
+                "피터 램지",
+                "로드니 로스맨"
+            ],
+            "actor": [
+                "샤메익 무어",
+                "헤일리 스테인펠드",
+                "니콜라스 케이지"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181207_3/1544172927548CbuaX_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "스쿨 오브 락",
+            "movie_id": 208,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171122_109/1511338670020Ake63_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "혹성탈출",
+            "movie_id": 210,
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_79/1324581512877myiIU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "스피릿",
+            "movie_id": 211,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=35100",
+            "genre": [
+                "애니메이션",
+                "서부",
+                "가족"
+            ],
+            "director": [
+                "켈리 애스버리",
+                "로나 쿡"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "제임스 크롬웰",
+                "다니엘 스터디"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111212_185/1323676168812p6eT5_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "핵소 고지",
+            "movie_id": 212,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170118_51/1484706629500KiUn8_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "나비 효과",
+            "movie_id": 213,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_281/1324555551608HYiey_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "어느 가족",
+            "movie_id": 214,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180702_47/1530497117620iDJX8_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "마지막 황제",
+            "movie_id": 215,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20150119_108/1421656620095Y7itj_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "movie_id": 216,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_181/13246145803593zL6u_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "칼리토",
+            "movie_id": 217,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_2/132457122756564rvt_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "테이큰",
+            "movie_id": 218,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20180420_42/1524201859401TdYU5_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "movie_id": 219,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181109_63/1541748837768AtSVU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "맨 오브 오너",
+            "movie_id": 220,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_51/1324473062178IaKGD_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뮬란",
+            "movie_id": 221,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170418_224/14924959729190qmlM_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "미이라",
+            "movie_id": 222,
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=24542",
+            "genre": [
+                "모험",
+                "판타지",
+                "액션",
+                "공포",
+                "스릴러",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 소머즈"
+            ],
+            "actor": [
+                "브렌든 프레이저",
+                "레이첼 와이즈",
+                "존 한나"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20120214_238/1329194902744paLmH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "인어 공주",
+            "movie_id": 223,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10669",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "존 머스커",
+                "론 클레멘츠"
+            ],
+            "actor": [
+                "린 어벌조노이스",
+                "버디 해킷",
+                "크리스토퍼 다니엘 반즈"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170418_98/1492495549376jQsy2_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "랜드 오브 마인",
+            "movie_id": 224,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170314_187/1489452375998UtOzU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "분노의 역류",
+            "movie_id": 225,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_103/13245275578755fiWz_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "천장지구",
+            "movie_id": 226,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=11003",
+            "genre": [
+                "액션",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "진목승"
+            ],
+            "actor": [
+                "유덕화",
+                "오천련"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161005_171/1475633777858D8K7p_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "시스터 액트",
+            "movie_id": 227,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=12393",
+            "genre": [
+                "코미디",
+                "범죄",
+                "뮤지컬",
+                "액션"
+            ],
+            "director": [
+                "에밀 아돌리노"
+            ],
+            "actor": [
+                "우피 골드버그"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_25/1324491158070GlUGb_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "백발마녀전",
+            "movie_id": 228,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=12993",
+            "genre": [
+                "액션",
+                "공포",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "우인태"
+            ],
+            "actor": [
+                "장국영",
+                "임청하"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170407_257/1491541969947Obqa8_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "과속스캔들",
+            "movie_id": 229,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_14/1324584883775HhKfa_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "특전 유보트",
+            "movie_id": 230,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10647",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "볼프강 페터젠"
+            ],
+            "actor": [
+                "주겐 프로크노",
+                "클라우스 웨네먼",
+                "허버트 그로네메이어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_141/1324536869683R5pd4_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "공공의 적",
+            "movie_id": 231,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_118/1324496857220IiVKH_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "라디오 스타",
+            "movie_id": 232,
+            "group": 11,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_33/13245504982319tN93_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "대부 2",
+            "movie_id": 233,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_88/1324622907332GllPU_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "크림슨 타이드",
+            "movie_id": 234,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_154/1324539862554f7Wxr_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "동급생",
+            "movie_id": 235,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=148338",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "나카무라 쇼코"
+            ],
+            "actor": [
+                "노지마 켄지",
+                "카미야 히로시",
+                "이시카와 히데오"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160512_180/1463033758820hrdUp_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "영웅본색",
+            "movie_id": 236,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20160127_166/1453871206249b5Jsn_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "사랑과 영혼",
+            "movie_id": 237,
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171206_274/1512521901491RlovP_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "movie_id": 238,
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_268/1324578798861g8uPt_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "파수꾼",
+            "movie_id": 239,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75378",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤성현"
+            ],
+            "actor": [
+                "이제훈",
+                "서준영",
+                "박정민"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_299/1324632673906KHPrP_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "헤드윅",
+            "movie_id": 240,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31827",
+            "genre": [
+                "드라마",
+                "코미디",
+                "뮤지컬"
+            ],
+            "director": [
+                "존 카메론 미첼"
+            ],
+            "actor": [
+                "존 카메론 미첼"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170614_281/1497402789581fSdC4_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "movie_id": 241,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_269/1324530075031lrSi2_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "태극기 휘날리며",
+            "movie_id": 242,
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111223_228/13245675882111bIDX_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "내 어깨 위 고양이, 밥",
+            "movie_id": 243,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154379",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "로저 스포티스우드"
+            ],
+            "actor": [
+                "루크 트레더웨이"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20161221_130/1482309164295fbt3H_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "프레데터",
+            "movie_id": 244,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10061",
+            "genre": [
+                "액션",
+                "공포",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111222_199/1324517166511TxWp3_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뚜르: 내 생애 최고의 49일",
+            "movie_id": 246,
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=142304",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "임정하",
+                "전일우",
+                "박형준"
+            ],
+            "actor": [
+                "이윤혁",
+                "이장훈",
+                "윤학병"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20170126_204/1485395631968tEJPT_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "벤허",
+            "movie_id": 247,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10058",
+            "genre": [
+                "드라마",
+                "액션",
+                "모험",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "윌리엄 와일러"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "잭 호킨스",
+                "하야 하라릿"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20190319_197/1552961388729ud2LG_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "도망자",
+            "movie_id": 248,
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20111221_149/1324450443453bvgYF_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "뽀로로 극장판 공룡섬 대모험",
+            "movie_id": 249,
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=169349",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "김현호",
+                "윤제완"
+            ],
+            "actor": [
+                "이선",
+                "이미자",
+                "함수정"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20171102_209/1509602233507BiJrs_JPEG/movie_image.jpg?type=m203_290_2"
+        },
+        {
+            "id": "바울",
+            "movie_id": 250,
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=173692",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "앤드류 하얏트"
+            ],
+            "actor": [
+                "제임스 폴크너",
+                "제임스 카비젤"
+            ],
+            "src": "https://movie-phinf.pstatic.net/20181126_296/1543195305541TXc6u_JPEG/movie_image.jpg?type=m203_290_2"
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "SF",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "전쟁",
+            "group": 6
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 7
+        },
+        {
+            "title": "액션",
+            "group": 8
+        },
+        {
+            "title": "범죄",
+            "group": 9
+        },
+        {
+            "title": "판타지",
+            "group": 10
+        },
+        {
+            "title": "코미디",
+            "group": 11
+        },
+        {
+            "title": "한국",
+            "group": 12
+        },
+        {
+            "title": "공연실황",
+            "group": 13
+        },
+        {
+            "title": "가족",
+            "group": 14
+        },
+        {
+            "title": "뮤지컬",
+            "group": 15
+        },
+        {
+            "title": "서부",
+            "group": 16
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 301,
+            "genre_n": 16
+        }
+    ]
+}

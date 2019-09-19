@@ -1,0 +1,431 @@
+{
+    "links": [
+        {
+            "source": "폴리스 스토리",
+            "target": "취권 2",
+            "value": 10.790464240903388,
+            "total": 797,
+            "same": 86
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "다이 하드",
+            "value": 6.350550381033022,
+            "total": 1181,
+            "same": 75
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "도망자",
+            "value": 5.861664712778429,
+            "total": 853,
+            "same": 50
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "분노의 역류",
+            "value": 5.702917771883289,
+            "total": 754,
+            "same": 43
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "보디가드",
+            "value": 5.526315789473684,
+            "total": 760,
+            "same": 42
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "동방불패",
+            "value": 5.075807514831905,
+            "total": 1517,
+            "same": 77
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "사랑과 영혼",
+            "value": 5.0043140638481445,
+            "total": 1159,
+            "same": 58
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "터미네이터",
+            "value": 4.901374775851764,
+            "total": 1673,
+            "same": 82
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "혹성탈출",
+            "value": 4.7713717693836974,
+            "total": 1006,
+            "same": 48
+        },
+        {
+            "source": "록키",
+            "target": "폴리스 스토리",
+            "value": 4.692663582286848,
+            "total": 1513,
+            "same": 71
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "천녀유혼",
+            "value": 4.592085979482169,
+            "total": 2047,
+            "same": 94
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "크림슨 타이드",
+            "value": 4.572564612326044,
+            "total": 1006,
+            "same": 46
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 4.53857791225416,
+            "total": 1322,
+            "same": 60
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "영웅본색",
+            "value": 4.424040066777963,
+            "total": 2396,
+            "same": 106
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "에이리언 2",
+            "value": 4.405063291139241,
+            "total": 1975,
+            "same": 87
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "페이스 오프",
+            "value": 4.341391218549581,
+            "total": 2027,
+            "same": 88
+        }
+    ],
+    "nodes": [
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "폴리스 스토리",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "취권 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=16216",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "유가량"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "보디가드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17111",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "원규"
+            ],
+            "actor": [
+                "이연걸",
+                "종려시"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "혹성탈출",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "도망자",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13042",
+            "genre": [
+                "액션",
+                "모험",
+                "범죄",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "앤드루 데이비스"
+            ],
+            "actor": [
+                "해리슨 포드",
+                "토미 리 존스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "판타지",
+            "group": 4
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

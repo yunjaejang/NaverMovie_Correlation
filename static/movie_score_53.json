@@ -1,0 +1,447 @@
+{
+    "links": [
+        {
+            "source": "집으로...",
+            "target": "나 홀로 집에",
+            "value": 9.439252336448597,
+            "total": 5350,
+            "same": 505
+        },
+        {
+            "source": "집으로...",
+            "target": "말아톤",
+            "value": 8.742179782680276,
+            "total": 6074,
+            "same": 531
+        },
+        {
+            "source": "집으로...",
+            "target": "엽기적인 그녀",
+            "value": 8.7385876653624,
+            "total": 5367,
+            "same": 469
+        },
+        {
+            "source": "집으로...",
+            "target": "가위손",
+            "value": 8.592679585045996,
+            "total": 5109,
+            "same": 439
+        },
+        {
+            "source": "집으로...",
+            "target": "아이 엠 샘",
+            "value": 8.57699805068226,
+            "total": 4617,
+            "same": 396
+        },
+        {
+            "source": "집으로...",
+            "target": "공공의 적",
+            "value": 8.43527013251784,
+            "total": 3924,
+            "same": 331
+        },
+        {
+            "source": "집으로...",
+            "target": "쥬라기 공원",
+            "value": 8.198009429020429,
+            "total": 3818,
+            "same": 313
+        },
+        {
+            "source": "집으로...",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 8.143884892086332,
+            "total": 3475,
+            "same": 283
+        },
+        {
+            "source": "집으로...",
+            "target": "스쿨 오브 락",
+            "value": 8.000616617851087,
+            "total": 6487,
+            "same": 519
+        },
+        {
+            "source": "집으로...",
+            "target": "인크레더블",
+            "value": 7.862261146496816,
+            "total": 5024,
+            "same": 395
+        },
+        {
+            "source": "집으로...",
+            "target": "해리 포터와 마법사의 돌",
+            "value": 7.849550286181521,
+            "total": 4892,
+            "same": 384
+        },
+        {
+            "source": "집으로...",
+            "target": "공동경비구역 JSA",
+            "value": 7.828342372082056,
+            "total": 4241,
+            "same": 332
+        },
+        {
+            "source": "집으로...",
+            "target": "굿바이 마이 프랜드",
+            "value": 7.801915440317683,
+            "total": 4281,
+            "same": 334
+        },
+        {
+            "source": "집으로...",
+            "target": "반지의 제왕: 두 개의 탑",
+            "value": 7.778284671532846,
+            "total": 4384,
+            "same": 341
+        },
+        {
+            "source": "집으로...",
+            "target": "에이트 빌로우",
+            "value": 7.729289940828403,
+            "total": 5408,
+            "same": 418
+        },
+        {
+            "source": "집으로...",
+            "target": "반지의 제왕: 반지 원정대",
+            "value": 7.689357622243528,
+            "total": 5215,
+            "same": 401
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "집으로...",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34324",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "이정향"
+            ],
+            "actor": [
+                "김을분",
+                "유승호"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 반지 원정대",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31794",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "리브 타일러"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "해리 포터와 마법사의 돌",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=30688",
+            "genre": [
+                "판타지",
+                "가족",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "루퍼트 그린트",
+                "엠마 왓슨"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "SF",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

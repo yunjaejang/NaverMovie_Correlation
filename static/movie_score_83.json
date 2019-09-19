@@ -1,0 +1,443 @@
+{
+    "links": [
+        {
+            "source": "바이센테니얼 맨",
+            "target": "에이 아이",
+            "value": 8.509819021948402,
+            "total": 5194,
+            "same": 442
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "가위손",
+            "value": 8.155422715627669,
+            "total": 4684,
+            "same": 382
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "뷰티풀 마인드",
+            "value": 7.952508960573476,
+            "total": 4464,
+            "same": 355
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "가타카",
+            "value": 7.790844183116338,
+            "total": 4762,
+            "same": 371
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "마이너리티 리포트",
+            "value": 7.744994731296101,
+            "total": 3796,
+            "same": 294
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "브레이브하트",
+            "value": 7.672991071428571,
+            "total": 3584,
+            "same": 275
+        },
+        {
+            "source": "매트릭스",
+            "target": "바이센테니얼 맨",
+            "value": 7.592862345229425,
+            "total": 5492,
+            "same": 417
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "페이스 오프",
+            "value": 7.533189255943193,
+            "total": 3239,
+            "same": 244
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "바이센테니얼 맨",
+            "value": 7.471537001897534,
+            "total": 4216,
+            "same": 315
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "공공의 적",
+            "value": 7.431662870159453,
+            "total": 3512,
+            "same": 261
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "굿바이 마이 프랜드",
+            "value": 7.406444906444906,
+            "total": 3848,
+            "same": 285
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "캐스트 어웨이",
+            "value": 7.320194522651651,
+            "total": 3907,
+            "same": 286
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "라이언 일병 구하기",
+            "value": 7.318937511943435,
+            "total": 5233,
+            "same": 383
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "더 록",
+            "value": 7.249411148913897,
+            "total": 3821,
+            "same": 277
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 7.234042553191489,
+            "total": 3055,
+            "same": 221
+        },
+        {
+            "source": "바이센테니얼 맨",
+            "target": "리멤버 타이탄",
+            "value": 7.214241099312929,
+            "total": 3202,
+            "same": 231
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "캐스트 어웨이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "genre": [
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스",
+                "헬렌 헌트"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "바이센테니얼 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=28788",
+            "genre": [
+                "SF",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스"
+            ]
+        },
+        {
+            "id": "에이 아이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31268",
+            "genre": [
+                "SF",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "할리 조엘 오스먼트",
+                "주드 로",
+                "프란시스 오코너"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

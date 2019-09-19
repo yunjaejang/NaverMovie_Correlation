@@ -1,0 +1,435 @@
+{
+    "links": [
+        {
+            "source": "핵소 고지",
+            "target": "히든 피겨스",
+            "value": 3.252284342573951,
+            "total": 6457,
+            "same": 210
+        },
+        {
+            "source": "핵소 고지",
+            "target": "라이언 일병 구하기",
+            "value": 3.074433656957929,
+            "total": 6798,
+            "same": 209
+        },
+        {
+            "source": "핵소 고지",
+            "target": "뷰티풀 마인드",
+            "value": 2.916804772953265,
+            "total": 6034,
+            "same": 176
+        },
+        {
+            "source": "핵소 고지",
+            "target": "그랜 토리노",
+            "value": 2.8055808310585384,
+            "total": 6594,
+            "same": 185
+        },
+        {
+            "source": "글래디에이터",
+            "target": "핵소 고지",
+            "value": 2.756141402037148,
+            "total": 6676,
+            "same": 184
+        },
+        {
+            "source": "핵소 고지",
+            "target": "캐스트 어웨이",
+            "value": 2.7414903403863846,
+            "total": 5435,
+            "same": 149
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "핵소 고지",
+            "value": 2.706492778011499,
+            "total": 7131,
+            "same": 193
+        },
+        {
+            "source": "핵소 고지",
+            "target": "살인의 추억",
+            "value": 2.697863196848514,
+            "total": 8377,
+            "same": 226
+        },
+        {
+            "source": "핵소 고지",
+            "target": "공동경비구역 JSA",
+            "value": 2.697639565380292,
+            "total": 5338,
+            "same": 144
+        },
+        {
+            "source": "에이 아이",
+            "target": "핵소 고지",
+            "value": 2.6888791465731403,
+            "total": 6843,
+            "same": 184
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "핵소 고지",
+            "value": 2.6596740962727106,
+            "total": 5339,
+            "same": 142
+        },
+        {
+            "source": "매트릭스",
+            "target": "핵소 고지",
+            "value": 2.6578540289692025,
+            "total": 7111,
+            "same": 189
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "핵소 고지",
+            "value": 2.6008492569002124,
+            "total": 9420,
+            "same": 245
+        },
+        {
+            "source": "피아니스트",
+            "target": "핵소 고지",
+            "value": 2.5977121067683506,
+            "total": 8392,
+            "same": 218
+        },
+        {
+            "source": "핵소 고지",
+            "target": "본 얼티메이텀",
+            "value": 2.562025316455696,
+            "total": 9875,
+            "same": 253
+        },
+        {
+            "source": "핵소 고지",
+            "target": "타인의 삶",
+            "value": 2.526459542505975,
+            "total": 5858,
+            "same": 148
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "캐스트 어웨이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "genre": [
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스",
+                "헬렌 헌트"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "에이 아이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31268",
+            "genre": [
+                "SF",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "할리 조엘 오스먼트",
+                "주드 로",
+                "프란시스 오코너"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

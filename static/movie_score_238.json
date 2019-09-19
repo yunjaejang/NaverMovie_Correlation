@@ -1,0 +1,440 @@
+{
+    "links": [
+        {
+            "source": "마이너리티 리포트",
+            "target": "캐치 미 이프 유 캔",
+            "value": 11.509477049554691,
+            "total": 4379,
+            "same": 504
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "캐치 미 이프 유 캔",
+            "value": 10.103982734942123,
+            "total": 5097,
+            "same": 515
+        },
+        {
+            "source": "글래디에이터",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.782608695652174,
+            "total": 5704,
+            "same": 558
+        },
+        {
+            "source": "캐치 미 이프 유 캔",
+            "target": "라이언 일병 구하기",
+            "value": 9.780746831106542,
+            "total": 5838,
+            "same": 571
+        },
+        {
+            "source": "페이스 오프",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.66914593485509,
+            "total": 3899,
+            "same": 377
+        },
+        {
+            "source": "캐스트 어웨이",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.606506924598813,
+            "total": 4549,
+            "same": 437
+        },
+        {
+            "source": "트루먼 쇼",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.55585464333782,
+            "total": 7430,
+            "same": 710
+        },
+        {
+            "source": "가위손",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.452643377545302,
+            "total": 5353,
+            "same": 506
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.449494083347625,
+            "total": 5831,
+            "same": 551
+        },
+        {
+            "source": "나비 효과",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.40536338904003,
+            "total": 7719,
+            "same": 726
+        },
+        {
+            "source": "반지의 제왕: 반지 원정대",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.374423325336778,
+            "total": 5419,
+            "same": 508
+        },
+        {
+            "source": "살인의 추억",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.342985930883758,
+            "total": 7321,
+            "same": 684
+        },
+        {
+            "source": "첫 키스만 50번째",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.295721317682695,
+            "total": 5282,
+            "same": 491
+        },
+        {
+            "source": "스쿨 오브 락",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.290515309932786,
+            "total": 6695,
+            "same": 622
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.255079006772009,
+            "total": 4873,
+            "same": 451
+        },
+        {
+            "source": "엽기적인 그녀",
+            "target": "캐치 미 이프 유 캔",
+            "value": 9.163558870538093,
+            "total": 5631,
+            "same": 516
+        }
+    ],
+    "nodes": [
+        {
+            "id": "라이언 일병 구하기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "살인의 추억",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=35901",
+            "genre": [
+                "범죄",
+                "미스터리",
+                "스릴러",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "봉준호"
+            ],
+            "actor": [
+                "송강호",
+                "김상경"
+            ]
+        },
+        {
+            "id": "캐스트 어웨이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "genre": [
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스",
+                "헬렌 헌트"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 반지 원정대",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31794",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "리브 타일러"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "첫 키스만 50번째",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=38227",
+            "genre": [
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "피터 시걸"
+            ],
+            "actor": [
+                "아담 샌들러",
+                "드류 베리모어"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "전쟁",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "드라마",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        },
+        {
+            "title": "SF",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

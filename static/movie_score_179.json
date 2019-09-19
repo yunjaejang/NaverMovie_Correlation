@@ -1,0 +1,437 @@
+{
+    "links": [
+        {
+            "source": "집으로 가는 길",
+            "target": "투게더",
+            "value": 5.335628227194492,
+            "total": 581,
+            "same": 31
+        },
+        {
+            "source": "투게더",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 3.6168132942326494,
+            "total": 1023,
+            "same": 37
+        },
+        {
+            "source": "투게더",
+            "target": "맨 오브 오너",
+            "value": 3.4682080924855487,
+            "total": 865,
+            "same": 30
+        },
+        {
+            "source": "투게더",
+            "target": "칼리토",
+            "value": 3.4334763948497855,
+            "total": 1398,
+            "same": 48
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "투게더",
+            "value": 3.4267912772585665,
+            "total": 963,
+            "same": 33
+        },
+        {
+            "source": "투게더",
+            "target": "석양에 돌아오다",
+            "value": 3.421461897356143,
+            "total": 643,
+            "same": 22
+        },
+        {
+            "source": "투게더",
+            "target": "인생",
+            "value": 3.34855403348554,
+            "total": 657,
+            "same": 22
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "투게더",
+            "value": 3.3308099924299777,
+            "total": 1321,
+            "same": 44
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "투게더",
+            "value": 3.251625812906453,
+            "total": 1999,
+            "same": 65
+        },
+        {
+            "source": "투게더",
+            "target": "대부 3",
+            "value": 3.2229965156794425,
+            "total": 1148,
+            "same": 37
+        },
+        {
+            "source": "투게더",
+            "target": "터미네이터",
+            "value": 3.1928480204342273,
+            "total": 1566,
+            "same": 50
+        },
+        {
+            "source": "투게더",
+            "target": "아름다운 비행",
+            "value": 3.10077519379845,
+            "total": 774,
+            "same": 24
+        },
+        {
+            "source": "투게더",
+            "target": "공공의 적",
+            "value": 3.0937215650591448,
+            "total": 2198,
+            "same": 68
+        },
+        {
+            "source": "투게더",
+            "target": "서유기 - 월광보합",
+            "value": 3.052631578947368,
+            "total": 1900,
+            "same": 58
+        },
+        {
+            "source": "동방불패",
+            "target": "투게더",
+            "value": 3.045325779036827,
+            "total": 1412,
+            "same": 43
+        },
+        {
+            "source": "투게더",
+            "target": "피아니스트의 전설",
+            "value": 3.0337941628264207,
+            "total": 2604,
+            "same": 79
+        }
+    ],
+    "nodes": [
+        {
+            "id": "천국의 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "인생",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16531",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장예모"
+            ],
+            "actor": [
+                "공리",
+                "갈우"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ]
+        },
+        {
+            "id": "집으로 가는 길",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29953",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "장이머우"
+            ],
+            "actor": [
+                "장쯔이",
+                "순홍레이",
+                "이빈"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "투게더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "서부",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

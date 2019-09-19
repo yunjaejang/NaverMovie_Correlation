@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "원더",
+            "target": "어메이징 메리",
+            "value": 1.9630484988452657,
+            "total": 3464,
+            "same": 68
+        },
+        {
+            "source": "히든 피겨스",
+            "target": "어메이징 메리",
+            "value": 1.9519162104260892,
+            "total": 4201,
+            "same": 82
+        },
+        {
+            "source": "미스 슬로운",
+            "target": "어메이징 메리",
+            "value": 1.923979352416706,
+            "total": 2131,
+            "same": 41
+        },
+        {
+            "source": "온리 더 브레이브",
+            "target": "어메이징 메리",
+            "value": 1.8068887634105024,
+            "total": 1771,
+            "same": 32
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "어메이징 메리",
+            "value": 1.598781880472021,
+            "total": 2627,
+            "same": 42
+        },
+        {
+            "source": "다시 태어나도 우리",
+            "target": "어메이징 메리",
+            "value": 1.5873015873015872,
+            "total": 1764,
+            "same": 28
+        },
+        {
+            "source": "핵소 고지",
+            "target": "어메이징 메리",
+            "value": 1.5478304998731287,
+            "total": 3941,
+            "same": 61
+        },
+        {
+            "source": "헌터 킬러",
+            "target": "어메이징 메리",
+            "value": 1.3979031452820767,
+            "total": 4006,
+            "same": 56
+        },
+        {
+            "source": "플립",
+            "target": "어메이징 메리",
+            "value": 1.3530135301353015,
+            "total": 4065,
+            "same": 55
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "어메이징 메리",
+            "value": 1.3172966781214204,
+            "total": 3492,
+            "same": 46
+        },
+        {
+            "source": "랜드 오브 마인",
+            "target": "어메이징 메리",
+            "value": 1.2919896640826873,
+            "total": 1161,
+            "same": 15
+        },
+        {
+            "source": "주먹왕 랄프",
+            "target": "어메이징 메리",
+            "value": 1.2742382271468145,
+            "total": 3610,
+            "same": 46
+        },
+        {
+            "source": "토이 스토리 2",
+            "target": "어메이징 메리",
+            "value": 1.2650602409638554,
+            "total": 1660,
+            "same": 21
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "어메이징 메리",
+            "value": 1.2576588197355691,
+            "total": 3101,
+            "same": 39
+        },
+        {
+            "source": "패밀리 맨",
+            "target": "어메이징 메리",
+            "value": 1.2568735271013356,
+            "total": 2546,
+            "same": 32
+        },
+        {
+            "source": "어메이징 메리",
+            "target": "캐치 미 이프 유 캔",
+            "value": 1.2492563950029745,
+            "total": 3362,
+            "same": 42
+        }
+    ],
+    "nodes": [
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "헌터 킬러",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "다시 태어나도 우리",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=154573",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "문창용",
+                "전진"
+            ],
+            "actor": [
+                "파드마 앙뚜",
+                "우르갼 릭젠"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "주먹왕 랄프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=87307",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "리치 무어"
+            ],
+            "actor": [
+                "존 C. 라일리",
+                "사라 실버맨",
+                "잭 맥브레이어"
+            ]
+        },
+        {
+            "id": "미스 슬로운",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142632",
+            "genre": [
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "존 매든"
+            ],
+            "actor": [
+                "제시카 차스테인"
+            ]
+        },
+        {
+            "id": "온리 더 브레이브",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151752",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조셉 코신스키"
+            ],
+            "actor": [
+                "조슈 브롤린",
+                "마일즈 텔러",
+                "제프 브리지스"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "토이 스토리 2",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ]
+        },
+        {
+            "id": "패밀리 맨",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31159",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "브렛 래트너"
+            ],
+            "actor": [
+                "니콜라스 케이지",
+                "티아 레오니"
+            ]
+        },
+        {
+            "id": "플립",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=76309",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "로브 라이너"
+            ],
+            "actor": [
+                "매들린 캐롤",
+                "캘런 맥오리피"
+            ]
+        },
+        {
+            "id": "어메이징 메리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=143469",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "마크 웹"
+            ],
+            "actor": [
+                "크리스 에반스",
+                "맥케나 그레이스",
+                "린제이 던칸"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "랜드 오브 마인",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

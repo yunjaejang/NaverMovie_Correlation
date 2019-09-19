@@ -1,0 +1,434 @@
+{
+    "links": [
+        {
+            "source": "모던 타임즈",
+            "target": "위대한 독재자",
+            "value": 7.505518763796909,
+            "total": 1359,
+            "same": 102
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "터미네이터",
+            "value": 6.751985878199471,
+            "total": 2266,
+            "same": 153
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "페이스 오프",
+            "value": 6.679462571976967,
+            "total": 2605,
+            "same": 174
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 6.639954207212365,
+            "total": 1747,
+            "same": 116
+        },
+        {
+            "source": "빽 투 더 퓨쳐",
+            "target": "모던 타임즈",
+            "value": 6.615214994487322,
+            "total": 3628,
+            "same": 240
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "토이 스토리",
+            "value": 6.609325486645541,
+            "total": 2209,
+            "same": 146
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "대부 2",
+            "value": 6.578947368421052,
+            "total": 2204,
+            "same": 145
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 6.507027589796981,
+            "total": 1921,
+            "same": 125
+        },
+        {
+            "source": "아마데우스",
+            "target": "모던 타임즈",
+            "value": 6.499718626899269,
+            "total": 3554,
+            "same": 231
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "리멤버 타이탄",
+            "value": 6.47678501755755,
+            "total": 2563,
+            "same": 166
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "다이 하드",
+            "value": 6.3711911357340725,
+            "total": 1805,
+            "same": 115
+        },
+        {
+            "source": "록키",
+            "target": "모던 타임즈",
+            "value": 6.188001889466226,
+            "total": 2117,
+            "same": 131
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "굿바이 마이 프랜드",
+            "value": 6.1609907120743035,
+            "total": 3230,
+            "same": 199
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "여인의 향기",
+            "value": 6.160164271047227,
+            "total": 3409,
+            "same": 210
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "모던 타임즈",
+            "value": 6.14877024595081,
+            "total": 3334,
+            "same": 205
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "라이온 킹",
+            "value": 6.134969325153374,
+            "total": 2934,
+            "same": 180
+        }
+    ],
+    "nodes": [
+        {
+            "id": "빽 투 더 퓨쳐",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10002",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드",
+                "리 톰슨"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "모던 타임즈",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "라이온 킹",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16521",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "로저 알러스",
+                "롭 민코프"
+            ],
+            "actor": [
+                "조나단 테일러 토마스",
+                "매튜 브로데릭",
+                "제임스 얼 존스"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "위대한 독재자",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10341",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "links": [
+        {
+            "source": "1987",
+            "target": "아저씨",
+            "value": 5.125034643017034,
+            "total": 46907,
+            "same": 2404
+        },
+        {
+            "source": "말할 수 없는 비밀",
+            "target": "1987",
+            "value": 4.9961868632550495,
+            "total": 51139,
+            "same": 2555
+        },
+        {
+            "source": "1987",
+            "target": "과속스캔들",
+            "value": 4.947944164044517,
+            "total": 47353,
+            "same": 2343
+        },
+        {
+            "source": "1987",
+            "target": "다크 나이트",
+            "value": 4.870475137181505,
+            "total": 47018,
+            "same": 2290
+        },
+        {
+            "source": "코코",
+            "target": "1987",
+            "value": 4.758481552767665,
+            "total": 43123,
+            "same": 2052
+        },
+        {
+            "source": "1987",
+            "target": "인셉션",
+            "value": 4.709979323103711,
+            "total": 45945,
+            "same": 2164
+        },
+        {
+            "source": "1987",
+            "target": "보헤미안 랩소디",
+            "value": 4.670444193981689,
+            "total": 64769,
+            "same": 3025
+        },
+        {
+            "source": "1987",
+            "target": "아이 캔 스피크",
+            "value": 4.613077806152333,
+            "total": 42683,
+            "same": 1969
+        },
+        {
+            "source": "1987",
+            "target": "세 얼간이",
+            "value": 4.437151016580708,
+            "total": 46922,
+            "same": 2082
+        },
+        {
+            "source": "해바라기",
+            "target": "1987",
+            "value": 4.429024876356389,
+            "total": 40641,
+            "same": 1800
+        },
+        {
+            "source": "1987",
+            "target": "타이타닉",
+            "value": 4.412841390632973,
+            "total": 45073,
+            "same": 1989
+        },
+        {
+            "source": "1987",
+            "target": "광해, 왕이 된 남자",
+            "value": 4.249275135177494,
+            "total": 51044,
+            "same": 2169
+        },
+        {
+            "source": "1987",
+            "target": "쇼생크 탈출",
+            "value": 4.188285009977697,
+            "total": 42595,
+            "same": 1784
+        },
+        {
+            "source": "1987",
+            "target": "지금, 만나러 갑니다",
+            "value": 4.116839835326407,
+            "total": 40808,
+            "same": 1680
+        },
+        {
+            "source": "1987",
+            "target": "어벤져스: 엔드게임",
+            "value": 4.015809238112964,
+            "total": 91339,
+            "same": 3668
+        },
+        {
+            "source": "테이큰",
+            "target": "1987",
+            "value": 4.004228888595216,
+            "total": 37835,
+            "same": 1515
+        }
+    ],
+    "nodes": [
+        {
+            "id": "쇼생크 탈출",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "프랭크 다라본트"
+            ],
+            "actor": [
+                "팀 로빈스",
+                "모건 프리먼"
+            ]
+        },
+        {
+            "id": "보헤미안 랩소디",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=156464",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "브라이언 싱어"
+            ],
+            "actor": [
+                "라미 말렉",
+                "루시 보인턴",
+                "귈림 리"
+            ]
+        },
+        {
+            "id": "어벤져스: 엔드게임",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=136900",
+            "genre": [
+                "액션",
+                "SF"
+            ],
+            "director": [
+                "안소니 루소",
+                "조 루소"
+            ],
+            "actor": [
+                "로버트 다우니 주니어",
+                "크리스 에반스",
+                "크리스 헴스워스"
+            ]
+        },
+        {
+            "id": "아이 캔 스피크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=161850",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김현석"
+            ],
+            "actor": [
+                "나문희",
+                "이제훈"
+            ]
+        },
+        {
+            "id": "세 얼간이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=73372",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "라지쿠마르 히라니"
+            ],
+            "actor": [
+                "아미르 칸",
+                "마드하반",
+                "셔먼 조쉬"
+            ]
+        },
+        {
+            "id": "지금, 만나러 갑니다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "genre": [
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "도이 노부히로"
+            ],
+            "actor": [
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
+            ]
+        },
+        {
+            "id": "타이타닉",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18847",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "케이트 윈슬렛"
+            ]
+        },
+        {
+            "id": "다크 나이트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ]
+        },
+        {
+            "id": "말할 수 없는 비밀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
+            "genre": [
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
+            ],
+            "director": [
+                "주걸륜"
+            ],
+            "actor": [
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ]
+        },
+        {
+            "id": "코코",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=151728",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "안소니 곤잘레스 ",
+                "가엘 가르시아 베르날",
+                "벤자민 브랫"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "광해, 왕이 된 남자",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=83893",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이병헌",
+                "류승룡",
+                "한효주"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "1987",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=158191",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장준환"
+            ],
+            "actor": [
+                "김윤석",
+                "하정우",
+                "유해진"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

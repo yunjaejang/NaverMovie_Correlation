@@ -1,0 +1,427 @@
+{
+    "links": [
+        {
+            "source": "집으로 가는 길",
+            "target": "투게더",
+            "value": 5.335628227194492,
+            "total": 581,
+            "same": 31
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "인생",
+            "value": 4.160475482912332,
+            "total": 673,
+            "same": 28
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "맨 오브 오너",
+            "value": 4.0862656072644725,
+            "total": 881,
+            "same": 36
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "석양에 돌아오다",
+            "value": 3.9334341906202726,
+            "total": 661,
+            "same": 26
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "오아시스",
+            "value": 3.820375335120643,
+            "total": 1492,
+            "same": 57
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "분노의 역류",
+            "value": 3.6585365853658534,
+            "total": 656,
+            "same": 24
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "집으로 가는 길",
+            "value": 3.443526170798898,
+            "total": 726,
+            "same": 25
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 3.4416826003824093,
+            "total": 1046,
+            "same": 36
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "아름다운 비행",
+            "value": 3.27455919395466,
+            "total": 794,
+            "same": 26
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "늑대와 춤을",
+            "value": 3.2454361054766734,
+            "total": 986,
+            "same": 32
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "취권 2",
+            "value": 3.234501347708895,
+            "total": 742,
+            "same": 24
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "크림슨 타이드",
+            "value": 3.2008830022075054,
+            "total": 906,
+            "same": 29
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "서유기 - 월광보합",
+            "value": 3.178738926524231,
+            "total": 1919,
+            "same": 61
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "바람과 함께 사라지다",
+            "value": 3.1680440771349865,
+            "total": 1452,
+            "same": 46
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "집으로 가는 길",
+            "value": 3.1226765799256504,
+            "total": 1345,
+            "same": 42
+        },
+        {
+            "source": "집으로 가는 길",
+            "target": "사랑은 비를 타고",
+            "value": 3.0959752321981426,
+            "total": 646,
+            "same": 20
+        }
+    ],
+    "nodes": [
+        {
+            "id": "천국의 아이들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "폴리스 스토리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "인생",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16531",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장예모"
+            ],
+            "actor": [
+                "공리",
+                "갈우"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "취권 2",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=16216",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "유가량"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "집으로 가는 길",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29953",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "장이머우"
+            ],
+            "actor": [
+                "장쯔이",
+                "순홍레이",
+                "이빈"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "투게더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=36718",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "류 페이치"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "서부",
+            "group": 3
+        },
+        {
+            "title": "뮤지컬",
+            "group": 4
+        },
+        {
+            "title": "가족",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

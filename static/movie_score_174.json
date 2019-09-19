@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "신데렐라 맨",
+            "target": "리멤버 타이탄",
+            "value": 9.81844242713808,
+            "total": 4186,
+            "same": 411
+        },
+        {
+            "source": "브레이브하트",
+            "target": "리멤버 타이탄",
+            "value": 9.794581720750223,
+            "total": 3359,
+            "same": 329
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "리멤버 타이탄",
+            "value": 9.648502005189902,
+            "total": 4239,
+            "same": 409
+        },
+        {
+            "source": "코러스",
+            "target": "리멤버 타이탄",
+            "value": 9.358669833729216,
+            "total": 4210,
+            "same": 394
+        },
+        {
+            "source": "리멤버 타이탄",
+            "target": "스쿨 오브 락",
+            "value": 9.12057712126417,
+            "total": 5822,
+            "same": 531
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "리멤버 타이탄",
+            "value": 9.08590308370044,
+            "total": 3632,
+            "same": 330
+        },
+        {
+            "source": "여인의 향기",
+            "target": "리멤버 타이탄",
+            "value": 9.004988185875558,
+            "total": 3809,
+            "same": 343
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "리멤버 타이탄",
+            "value": 8.905263157894737,
+            "total": 4750,
+            "same": 423
+        },
+        {
+            "source": "더 록",
+            "target": "리멤버 타이탄",
+            "value": 8.781163434903046,
+            "total": 3610,
+            "same": 317
+        },
+        {
+            "source": "프리퀀시",
+            "target": "리멤버 타이탄",
+            "value": 8.662809386049501,
+            "total": 6222,
+            "same": 539
+        },
+        {
+            "source": "리멤버 타이탄",
+            "target": "페이스 오프",
+            "value": 8.661417322834646,
+            "total": 3048,
+            "same": 264
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "리멤버 타이탄",
+            "value": 8.64864864864865,
+            "total": 4255,
+            "same": 368
+        },
+        {
+            "source": "칼리토",
+            "target": "리멤버 타이탄",
+            "value": 8.629441624365482,
+            "total": 2561,
+            "same": 221
+        },
+        {
+            "source": "글래디에이터",
+            "target": "리멤버 타이탄",
+            "value": 8.587825374052061,
+            "total": 4879,
+            "same": 419
+        },
+        {
+            "source": "가타카",
+            "target": "리멤버 타이탄",
+            "value": 8.506450907500547,
+            "total": 4573,
+            "same": 389
+        },
+        {
+            "source": "쿨 러닝",
+            "target": "리멤버 타이탄",
+            "value": 8.431085043988269,
+            "total": 2728,
+            "same": 230
+        }
+    ],
+    "nodes": [
+        {
+            "id": "글래디에이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "더 록",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17135",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "마이클 베이"
+            ],
+            "actor": [
+                "숀 코네리",
+                "니콜라스 케이지",
+                "에드 해리스"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "액션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        },
+        {
+            "title": "코미디",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

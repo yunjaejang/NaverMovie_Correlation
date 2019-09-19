@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "블라인드 사이드",
+            "target": "킹콩을 들다",
+            "value": 11.313906460645027,
+            "total": 9643,
+            "same": 1091
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "엽문",
+            "value": 11.211525867714473,
+            "total": 7635,
+            "same": 856
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "블라인드 사이드",
+            "value": 10.51688078876606,
+            "total": 10041,
+            "same": 1056
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "본 얼티메이텀",
+            "value": 10.384039900249377,
+            "total": 10025,
+            "same": 1041
+        },
+        {
+            "source": "프리퀀시",
+            "target": "블라인드 사이드",
+            "value": 10.315664085765336,
+            "total": 8395,
+            "same": 866
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "내 이름은 칸",
+            "value": 10.31400966183575,
+            "total": 8280,
+            "same": 854
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "테이큰",
+            "value": 10.312099187687046,
+            "total": 11695,
+            "same": 1206
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "똥파리",
+            "value": 10.182100821674439,
+            "total": 9006,
+            "same": 917
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "스쿨 오브 락",
+            "value": 10.029828486204325,
+            "total": 8046,
+            "same": 807
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "라따뚜이",
+            "value": 9.843034663178548,
+            "total": 9174,
+            "same": 903
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "도가니",
+            "value": 9.832887083371803,
+            "total": 10831,
+            "same": 1065
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "그랜 토리노",
+            "value": 9.819268535648213,
+            "total": 7027,
+            "same": 690
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "블라인드 사이드",
+            "value": 9.80224478888295,
+            "total": 9355,
+            "same": 917
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "라디오 스타",
+            "value": 9.730113636363637,
+            "total": 11264,
+            "same": 1096
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "토이 스토리 3",
+            "value": 9.633891213389122,
+            "total": 9560,
+            "same": 921
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "바람",
+            "value": 9.631031220435194,
+            "total": 10570,
+            "same": 1018
+        }
+    ],
+    "nodes": [
+        {
+            "id": "토이 스토리 3",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "바람",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

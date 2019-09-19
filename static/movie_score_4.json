@@ -1,0 +1,434 @@
+{
+    "links": [
+        {
+            "source": "베일리 어게인",
+            "target": "헌터 킬러",
+            "value": 1.6865643357968543,
+            "total": 5277,
+            "same": 89
+        },
+        {
+            "source": "그린 북",
+            "target": "베일리 어게인",
+            "value": 1.6191709844559583,
+            "total": 7720,
+            "same": 125
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "캐스트 어웨이",
+            "value": 1.4642937598558234,
+            "total": 4439,
+            "same": 65
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "인크레더블",
+            "value": 1.4302280633938926,
+            "total": 5174,
+            "same": 74
+        },
+        {
+            "source": "매트릭스",
+            "target": "베일리 어게인",
+            "value": 1.4020215194000651,
+            "total": 6134,
+            "same": 86
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "아마데우스",
+            "value": 1.394169835234474,
+            "total": 4734,
+            "same": 66
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "헬프",
+            "value": 1.3856812933025404,
+            "total": 5196,
+            "same": 72
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "리멤버 타이탄",
+            "value": 1.380991064175467,
+            "total": 3693,
+            "same": 51
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "블라인드 사이드",
+            "value": 1.3800941711316772,
+            "total": 6159,
+            "same": 85
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "코러스",
+            "value": 1.3753238987442695,
+            "total": 5017,
+            "same": 69
+        },
+        {
+            "source": "사운드 오브 뮤직",
+            "target": "베일리 어게인",
+            "value": 1.3705583756345179,
+            "total": 5910,
+            "same": 81
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "맨발의 꿈",
+            "value": 1.365255243371587,
+            "total": 5054,
+            "same": 69
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "원더",
+            "value": 1.3623978201634876,
+            "total": 4771,
+            "same": 65
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 1.3615118878276773,
+            "total": 4921,
+            "same": 67
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "여인의 향기",
+            "value": 1.3560804899387575,
+            "total": 4572,
+            "same": 62
+        },
+        {
+            "source": "베일리 어게인",
+            "target": "나 홀로 집에",
+            "value": 1.355206847360913,
+            "total": 5608,
+            "same": 76
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "베일리 어게인",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=144906",
+            "genre": [
+                "모험",
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "라세 할스트롬"
+            ],
+            "actor": [
+                "조시 게드",
+                "데니스 퀘이드",
+                "K.J. 아파"
+            ]
+        },
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "나 홀로 집에",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "사운드 오브 뮤직",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10102",
+            "genre": [
+                "멜로/로맨스",
+                "뮤지컬",
+                "드라마"
+            ],
+            "director": [
+                "로버트 와이즈"
+            ],
+            "actor": [
+                "줄리 앤드류스",
+                "크리스토퍼 플러머",
+                "엘레노 파커"
+            ]
+        },
+        {
+            "id": "헬프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ]
+        },
+        {
+            "id": "헌터 킬러",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=92125",
+            "genre": [
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "도노반 마시"
+            ],
+            "actor": [
+                "제라드 버틀러",
+                "게리 올드만"
+            ]
+        },
+        {
+            "id": "캐스트 어웨이",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31162",
+            "genre": [
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스",
+                "헬렌 헌트"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

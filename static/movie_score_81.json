@@ -1,0 +1,442 @@
+{
+    "links": [
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "번 더 스테이지: 더 무비",
+            "value": 5.24365916215446,
+            "total": 3509,
+            "same": 184
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 0.7434944237918215,
+            "total": 3766,
+            "same": 28
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 0.7420494699646644,
+            "total": 2830,
+            "same": 21
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "쉰들러 리스트",
+            "value": 0.725753243897075,
+            "total": 4547,
+            "same": 33
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "하이 스쿨 뮤지컬: 졸업반",
+            "value": 0.7098765432098766,
+            "total": 3240,
+            "same": 23
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 0.7050889025137952,
+            "total": 3262,
+            "same": 23
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "리멤버 타이탄",
+            "value": 0.7004669779853235,
+            "total": 2998,
+            "same": 21
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "이웃집 토토로",
+            "value": 0.6958250497017893,
+            "total": 4024,
+            "same": 28
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "바람과 함께 사라지다",
+            "value": 0.6661442006269592,
+            "total": 2552,
+            "same": 17
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "맨발의 꿈",
+            "value": 0.6637674525062943,
+            "total": 4369,
+            "same": 29
+        },
+        {
+            "source": "반지의 제왕: 두 개의 탑",
+            "target": "러브 유어셀프 인 서울",
+            "value": 0.6572029442691903,
+            "total": 3804,
+            "same": 25
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "엽기적인 그녀",
+            "value": 0.6519967400162999,
+            "total": 4908,
+            "same": 32
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "울지마 톤즈",
+            "value": 0.6394583411698326,
+            "total": 5317,
+            "same": 34
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "말아톤",
+            "value": 0.6345848757271285,
+            "total": 5673,
+            "same": 36
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "칼리토",
+            "value": 0.6341656757827983,
+            "total": 2523,
+            "same": 16
+        },
+        {
+            "source": "러브 유어셀프 인 서울",
+            "target": "친정엄마",
+            "value": 0.6308283049917718,
+            "total": 3646,
+            "same": 23
+        }
+    ],
+    "nodes": [
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "반지의 제왕: 두 개의 탑",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31795",
+            "genre": [
+                "판타지",
+                "모험",
+                "액션"
+            ],
+            "director": [
+                "피터 잭슨"
+            ],
+            "actor": [
+                "일라이저 우드",
+                "이안 맥켈런",
+                "비고 모텐슨"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "번 더 스테이지: 더 무비",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=176354",
+            "genre": [
+                "한국"
+            ],
+            "director": [
+                "박준수"
+            ],
+            "actor": [
+                "RM",
+                "진",
+                "슈가"
+            ]
+        },
+        {
+            "id": "러브 유어셀프 인 서울",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=180220",
+            "genre": [
+                "공연실황"
+            ],
+            "director": [
+                "RM",
+                "진",
+                "슈가"
+            ],
+            "actor": [
+                "전체 관람가"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "이웃집 토토로",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=18781",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "미야자키 하야오"
+            ],
+            "actor": [
+                "히다카 노리코",
+                "사카모토 치카",
+                "타카기 히토시"
+            ]
+        },
+        {
+            "id": "하이 스쿨 뮤지컬: 졸업반",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=45774",
+            "genre": [
+                "뮤지컬",
+                "코미디",
+                "드라마",
+                "가족",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "잭 에프론",
+                "바네사 허진스",
+                "애슐리 티스데일"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 10,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "판타지",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "한국",
+            "group": 4
+        },
+        {
+            "title": "공연실황",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "애니메이션",
+            "group": 7
+        },
+        {
+            "title": "뮤지컬",
+            "group": 8
+        },
+        {
+            "title": "가족",
+            "group": 9
+        },
+        {
+            "title": "범죄",
+            "group": 10
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 10
+        }
+    ]
+}

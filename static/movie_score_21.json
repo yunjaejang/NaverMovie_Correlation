@@ -1,0 +1,423 @@
+{
+    "links": [
+        {
+            "source": "헬프",
+            "target": "블라인드 사이드",
+            "value": 7.494836234877544,
+            "total": 6778,
+            "same": 508
+        },
+        {
+            "source": "헬프",
+            "target": "내 이름은 칸",
+            "value": 7.2715318869165015,
+            "total": 7605,
+            "same": 553
+        },
+        {
+            "source": "헬프",
+            "target": "언터처블: 1%의 우정",
+            "value": 7.230960733280526,
+            "total": 8837,
+            "same": 639
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "헬프",
+            "value": 7.14615029967727,
+            "total": 8676,
+            "same": 620
+        },
+        {
+            "source": "헬프",
+            "target": "그랜 토리노",
+            "value": 7.0509766555502615,
+            "total": 6297,
+            "same": 444
+        },
+        {
+            "source": "라푼젤",
+            "target": "헬프",
+            "value": 6.97702393840972,
+            "total": 8313,
+            "same": 580
+        },
+        {
+            "source": "헬프",
+            "target": "도가니",
+            "value": 6.922549691569568,
+            "total": 10213,
+            "same": 707
+        },
+        {
+            "source": "헬프",
+            "target": "업",
+            "value": 6.916869476111183,
+            "total": 7807,
+            "same": 540
+        },
+        {
+            "source": "프리퀀시",
+            "target": "헬프",
+            "value": 6.889433621468198,
+            "total": 7751,
+            "same": 534
+        },
+        {
+            "source": "헬프",
+            "target": "코러스",
+            "value": 6.834030683403068,
+            "total": 5736,
+            "same": 392
+        },
+        {
+            "source": "헬프",
+            "target": "굿바이 마이 프랜드",
+            "value": 6.793848549737201,
+            "total": 5137,
+            "same": 349
+        },
+        {
+            "source": "헬프",
+            "target": "아이 엠 샘",
+            "value": 6.787658802177858,
+            "total": 5510,
+            "same": 374
+        },
+        {
+            "source": "헬프",
+            "target": "킹콩을 들다",
+            "value": 6.738131699846861,
+            "total": 9142,
+            "same": 616
+        },
+        {
+            "source": "헬프",
+            "target": "스쿨 오브 락",
+            "value": 6.719956645440997,
+            "total": 7381,
+            "same": 496
+        },
+        {
+            "source": "헬프",
+            "target": "울지마 톤즈",
+            "value": 6.700644581022336,
+            "total": 6671,
+            "same": 447
+        },
+        {
+            "source": "헬프",
+            "target": "뷰티풀 마인드",
+            "value": 6.6897147796024194,
+            "total": 5785,
+            "same": 387
+        }
+    ],
+    "nodes": [
+        {
+            "id": "헬프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "언터처블: 1%의 우정",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "올리비에르 나카체",
+                "에릭 토레다노"
+            ],
+            "actor": [
+                "프랑수아 클루제",
+                "오마 사이"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "라푼젤",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=75470",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "네이슨 그레노",
+                "바이론 하워드"
+            ],
+            "actor": [
+                "맨디 무어",
+                "제커리 레비"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

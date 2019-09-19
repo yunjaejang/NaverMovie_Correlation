@@ -1,0 +1,443 @@
+{
+    "links": [
+        {
+            "source": "모던 타임즈",
+            "target": "위대한 독재자",
+            "value": 7.505518763796909,
+            "total": 1359,
+            "same": 102
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "석양에 돌아오다",
+            "value": 5.164992826398852,
+            "total": 697,
+            "same": 36
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "특전 유보트",
+            "value": 4.022988505747127,
+            "total": 696,
+            "same": 28
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "대부 3",
+            "value": 3.9834024896265556,
+            "total": 1205,
+            "same": 48
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "대부 2",
+            "value": 3.6608863198458574,
+            "total": 1557,
+            "same": 57
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 3.486238532110092,
+            "total": 1090,
+            "same": 38
+        },
+        {
+            "source": "혹성탈출",
+            "target": "위대한 독재자",
+            "value": 3.4736842105263155,
+            "total": 950,
+            "same": 33
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "마지막 황제",
+            "value": 3.3674963396778916,
+            "total": 1366,
+            "same": 46
+        },
+        {
+            "source": "사랑은 비를 타고",
+            "target": "위대한 독재자",
+            "value": 3.3381712626995643,
+            "total": 689,
+            "same": 23
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "토이 스토리 2",
+            "value": 3.1746031746031744,
+            "total": 1197,
+            "same": 38
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "사랑과 영혼",
+            "value": 3.1503150315031503,
+            "total": 1111,
+            "same": 35
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "위대한 독재자",
+            "value": 3.10077519379845,
+            "total": 1032,
+            "same": 32
+        },
+        {
+            "source": "빽 투 더 퓨쳐 2",
+            "target": "위대한 독재자",
+            "value": 3.0660377358490565,
+            "total": 1272,
+            "same": 39
+        },
+        {
+            "source": "록키",
+            "target": "위대한 독재자",
+            "value": 3.0653950953678475,
+            "total": 1468,
+            "same": 45
+        },
+        {
+            "source": "위대한 독재자",
+            "target": "칼리토",
+            "value": 3.063308373042886,
+            "total": 1469,
+            "same": 45
+        },
+        {
+            "source": "다이 하드",
+            "target": "위대한 독재자",
+            "value": 2.9539530842745436,
+            "total": 1151,
+            "same": 34
+        }
+    ],
+    "nodes": [
+        {
+            "id": "모던 타임즈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "토이 스토리 2",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=27578",
+            "genre": [
+                "애니메이션",
+                "모험"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조안 쿠삭"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "위대한 독재자",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10341",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "혹성탈출",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=11002",
+            "genre": [
+                "SF",
+                "액션",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "프랭클린 J. 샤프너"
+            ],
+            "actor": [
+                "찰톤 헤스톤",
+                "로디 맥도웰",
+                "킴 헌터"
+            ]
+        },
+        {
+            "id": "마지막 황제",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "특전 유보트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10647",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "볼프강 페터젠"
+            ],
+            "actor": [
+                "주겐 프로크노",
+                "클라우스 웨네먼",
+                "허버트 그로네메이어"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "코미디",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "서부",
+            "group": 5
+        },
+        {
+            "title": "뮤지컬",
+            "group": 6
+        },
+        {
+            "title": "SF",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 9
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 9
+        }
+    ]
+}

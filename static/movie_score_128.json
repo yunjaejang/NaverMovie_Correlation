@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "프리퀀시",
+            "target": "에이트 빌로우",
+            "value": 11.795797344334149,
+            "total": 7757,
+            "same": 915
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "스쿨 오브 락",
+            "value": 11.509917689920389,
+            "total": 7411,
+            "same": 853
+        },
+        {
+            "source": "라따뚜이",
+            "target": "에이트 빌로우",
+            "value": 10.892940626460963,
+            "total": 8556,
+            "same": 932
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "에이트 빌로우",
+            "value": 10.867724867724867,
+            "total": 9450,
+            "same": 1027
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "에이트 빌로우",
+            "value": 10.84994038494294,
+            "total": 5871,
+            "same": 637
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "엽문",
+            "value": 10.796410544026921,
+            "total": 7132,
+            "same": 770
+        },
+        {
+            "source": "나비 효과",
+            "target": "에이트 빌로우",
+            "value": 10.689451974071892,
+            "total": 8485,
+            "same": 907
+        },
+        {
+            "source": "테이큰",
+            "target": "에이트 빌로우",
+            "value": 10.560344827586206,
+            "total": 11136,
+            "same": 1176
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "킹콩을 들다",
+            "value": 10.475879342262877,
+            "total": 9183,
+            "same": 962
+        },
+        {
+            "source": "인크레더블",
+            "target": "에이트 빌로우",
+            "value": 10.38188130269466,
+            "total": 6049,
+            "same": 628
+        },
+        {
+            "source": "피아니스트",
+            "target": "에이트 빌로우",
+            "value": 10.251046025104603,
+            "total": 8126,
+            "same": 833
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "라디오 스타",
+            "value": 10.163781001403837,
+            "total": 10685,
+            "same": 1086
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "말아톤",
+            "value": 10.126050420168067,
+            "total": 7140,
+            "same": 723
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "뷰티풀 마인드",
+            "value": 10.068803490518544,
+            "total": 5959,
+            "same": 600
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "에이트 빌로우",
+            "value": 10.03186463026041,
+            "total": 9101,
+            "same": 913
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "똥파리",
+            "value": 9.785932721712538,
+            "total": 8502,
+            "same": 832
+        }
+    ],
+    "nodes": [
+        {
+            "id": "포레스트 검프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "범죄",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "애니메이션",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "도가니",
+            "target": "파수꾼",
+            "value": 7.663243557450107,
+            "total": 10322,
+            "same": 791
+        },
+        {
+            "source": "똥파리",
+            "target": "파수꾼",
+            "value": 7.554718757354671,
+            "total": 8498,
+            "same": 642
+        },
+        {
+            "source": "엽문",
+            "target": "파수꾼",
+            "value": 7.443546138834681,
+            "total": 7174,
+            "same": 534
+        },
+        {
+            "source": "그랜 토리노",
+            "target": "파수꾼",
+            "value": 7.403965303593556,
+            "total": 6456,
+            "same": 478
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "파수꾼",
+            "value": 7.353773051250141,
+            "total": 8839,
+            "same": 650
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "파수꾼",
+            "value": 7.215303633329054,
+            "total": 7789,
+            "same": 562
+        },
+        {
+            "source": "바람",
+            "target": "파수꾼",
+            "value": 7.033184744923229,
+            "total": 10095,
+            "same": 710
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "파수꾼",
+            "value": 7.000000000000001,
+            "total": 9300,
+            "same": 651
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "파수꾼",
+            "value": 6.911047587018665,
+            "total": 5947,
+            "same": 411
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "파수꾼",
+            "value": 6.902985074626866,
+            "total": 9648,
+            "same": 666
+        },
+        {
+            "source": "스쿨 오브 락",
+            "target": "파수꾼",
+            "value": 6.887417218543046,
+            "total": 7550,
+            "same": 520
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "파수꾼",
+            "value": 6.847464671654198,
+            "total": 9624,
+            "same": 659
+        },
+        {
+            "source": "말아톤",
+            "target": "파수꾼",
+            "value": 6.795710903773848,
+            "total": 7181,
+            "same": 488
+        },
+        {
+            "source": "나비 효과",
+            "target": "파수꾼",
+            "value": 6.754874651810584,
+            "total": 8616,
+            "same": 582
+        },
+        {
+            "source": "토이 스토리 3",
+            "target": "파수꾼",
+            "value": 6.723891273247497,
+            "total": 9087,
+            "same": 611
+        },
+        {
+            "source": "업",
+            "target": "파수꾼",
+            "value": 6.723319170207448,
+            "total": 8002,
+            "same": 538
+        }
+    ],
+    "nodes": [
+        {
+            "id": "토이 스토리 3",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "바람",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "파수꾼",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75378",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤성현"
+            ],
+            "actor": [
+                "이제훈",
+                "서준영",
+                "박정민"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

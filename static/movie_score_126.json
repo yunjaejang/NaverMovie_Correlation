@@ -1,0 +1,443 @@
+{
+    "links": [
+        {
+            "source": "도가니",
+            "target": "아저씨",
+            "value": 13.658201784488675,
+            "total": 23312,
+            "same": 3184
+        },
+        {
+            "source": "테이큰",
+            "target": "도가니",
+            "value": 13.548963054525478,
+            "total": 14562,
+            "same": 1973
+        },
+        {
+            "source": "도가니",
+            "target": "킹콩을 들다",
+            "value": 13.43754934470235,
+            "total": 12666,
+            "same": 1702
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "도가니",
+            "value": 12.928374208218289,
+            "total": 12314,
+            "same": 1592
+        },
+        {
+            "source": "도가니",
+            "target": "과속스캔들",
+            "value": 12.449278393641498,
+            "total": 23905,
+            "same": 2976
+        },
+        {
+            "source": "도가니",
+            "target": "라디오 스타",
+            "value": 12.43585237258348,
+            "total": 14225,
+            "same": 1769
+        },
+        {
+            "source": "도가니",
+            "target": "인셉션",
+            "value": 12.153593756928124,
+            "total": 22553,
+            "same": 2741
+        },
+        {
+            "source": "해리 포터와 죽음의 성물 - 2부",
+            "target": "도가니",
+            "value": 12.014960261804582,
+            "total": 14973,
+            "same": 1799
+        },
+        {
+            "source": "해바라기",
+            "target": "도가니",
+            "value": 11.899196077313416,
+            "total": 17539,
+            "same": 2087
+        },
+        {
+            "source": "본 얼티메이텀",
+            "target": "도가니",
+            "value": 11.88066062866276,
+            "total": 13139,
+            "same": 1561
+        },
+        {
+            "source": "도가니",
+            "target": "똥파리",
+            "value": 11.598617056305564,
+            "total": 12148,
+            "same": 1409
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "도가니",
+            "value": 11.498611769486015,
+            "total": 14767,
+            "same": 1698
+        },
+        {
+            "source": "드래곤 길들이기",
+            "target": "도가니",
+            "value": 11.454944389801014,
+            "total": 13217,
+            "same": 1514
+        },
+        {
+            "source": "다크 나이트",
+            "target": "도가니",
+            "value": 11.399377680598773,
+            "total": 23782,
+            "same": 2711
+        },
+        {
+            "source": "태극기 휘날리며",
+            "target": "도가니",
+            "value": 11.34678034241353,
+            "total": 14427,
+            "same": 1637
+        },
+        {
+            "source": "바람",
+            "target": "도가니",
+            "value": 11.3288963650991,
+            "total": 13673,
+            "same": 1549
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "드래곤 길들이기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70457",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "딘 데블로이스",
+                "크리스 샌더스"
+            ],
+            "actor": [
+                "제이 바루첼",
+                "제라드 버틀러",
+                "아메리카 페레라"
+            ]
+        },
+        {
+            "id": "다크 나이트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ]
+        },
+        {
+            "id": "해리 포터와 죽음의 성물 - 2부",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=47528",
+            "genre": [
+                "모험",
+                "판타지",
+                "미스터리"
+            ],
+            "director": [
+                "데이빗 예이츠"
+            ],
+            "actor": [
+                "다니엘 래드클리프",
+                "엠마 왓슨",
+                "루퍼트 그린트"
+            ]
+        },
+        {
+            "id": "바람",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70773",
+            "genre": [
+                "드라마",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "이성한"
+            ],
+            "actor": [
+                "정우"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        },
+        {
+            "id": "태극기 휘날리며",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=36666",
+            "genre": [
+                "전쟁",
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "강제규"
+            ],
+            "actor": [
+                "장동건",
+                "원빈",
+                "이은주"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "애니메이션",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "코미디",
+            "group": 5
+        },
+        {
+            "title": "전쟁",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

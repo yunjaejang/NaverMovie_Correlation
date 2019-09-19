@@ -1,0 +1,441 @@
+{
+    "links": [
+        {
+            "source": "시월애",
+            "target": "엽기적인 그녀",
+            "value": 7.027363184079602,
+            "total": 4824,
+            "same": 339
+        },
+        {
+            "source": "시월애",
+            "target": "8월의 크리스마스",
+            "value": 6.780133928571429,
+            "total": 3584,
+            "same": 243
+        },
+        {
+            "source": "시월애",
+            "target": "공공의 적",
+            "value": 6.133333333333333,
+            "total": 3375,
+            "same": 207
+        },
+        {
+            "source": "시월애",
+            "target": "공동경비구역 JSA",
+            "value": 5.777054515866558,
+            "total": 3687,
+            "same": 213
+        },
+        {
+            "source": "시월애",
+            "target": "페이스 오프",
+            "value": 5.750080308384195,
+            "total": 3113,
+            "same": 179
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "시월애",
+            "value": 5.647517039922103,
+            "total": 4108,
+            "same": 232
+        },
+        {
+            "source": "시월애",
+            "target": "리멤버 타이탄",
+            "value": 5.637015314434669,
+            "total": 3069,
+            "same": 173
+        },
+        {
+            "source": "시네마 천국",
+            "target": "시월애",
+            "value": 5.498804607693979,
+            "total": 4601,
+            "same": 253
+        },
+        {
+            "source": "시월애",
+            "target": "브레이브하트",
+            "value": 5.493241299971239,
+            "total": 3477,
+            "same": 191
+        },
+        {
+            "source": "시월애",
+            "target": "말아톤",
+            "value": 5.476529160739687,
+            "total": 5624,
+            "same": 308
+        },
+        {
+            "source": "시월애",
+            "target": "굿바이 마이 프랜드",
+            "value": 5.401069518716577,
+            "total": 3740,
+            "same": 202
+        },
+        {
+            "source": "시월애",
+            "target": "뷰티풀 마인드",
+            "value": 5.397403780460032,
+            "total": 4391,
+            "same": 237
+        },
+        {
+            "source": "시월애",
+            "target": "나비 효과",
+            "value": 5.366473661912159,
+            "total": 7081,
+            "same": 380
+        },
+        {
+            "source": "시월애",
+            "target": "캐치 미 이프 유 캔",
+            "value": 5.334335086401202,
+            "total": 3993,
+            "same": 213
+        },
+        {
+            "source": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "target": "시월애",
+            "value": 5.326049846363947,
+            "total": 2929,
+            "same": 156
+        },
+        {
+            "source": "천녀유혼",
+            "target": "시월애",
+            "value": 5.2664974619289335,
+            "total": 3152,
+            "same": 166
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "엽기적인 그녀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=31726",
+            "genre": [
+                "코미디",
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "곽재용"
+            ],
+            "actor": [
+                "전지현",
+                "차태현"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "8월의 크리스마스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=18817",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "허진호"
+            ],
+            "actor": [
+                "한석규",
+                "심은하"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "시월애",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=30306",
+            "genre": [
+                "드라마",
+                "멜로/로맨스",
+                "판타지"
+            ],
+            "director": [
+                "이현승"
+            ],
+            "actor": [
+                "이정재",
+                "전지현"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "캐치 미 이프 유 캔",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=34522",
+            "genre": [
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "톰 행크스"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "코미디",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

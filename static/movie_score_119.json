@@ -1,0 +1,457 @@
+{
+    "links": [
+        {
+            "source": "분노의 역류",
+            "target": "프리 윌리",
+            "value": 5.097451274362818,
+            "total": 667,
+            "same": 34
+        },
+        {
+            "source": "맨 오브 오너",
+            "target": "프리 윌리",
+            "value": 4.222222222222222,
+            "total": 900,
+            "same": 38
+        },
+        {
+            "source": "미세스 다웃파이어",
+            "target": "프리 윌리",
+            "value": 4.143126177024483,
+            "total": 1062,
+            "same": 44
+        },
+        {
+            "source": "프리 윌리",
+            "target": "크림슨 타이드",
+            "value": 4.139433551198257,
+            "total": 918,
+            "same": 38
+        },
+        {
+            "source": "뮬란",
+            "target": "프리 윌리",
+            "value": 4.040404040404041,
+            "total": 1089,
+            "same": 44
+        },
+        {
+            "source": "프리 윌리",
+            "target": "사랑과 영혼",
+            "value": 3.9888682745825603,
+            "total": 1078,
+            "same": 43
+        },
+        {
+            "source": "다이 하드",
+            "target": "프리 윌리",
+            "value": 3.849597135183527,
+            "total": 1117,
+            "same": 43
+        },
+        {
+            "source": "프리 윌리",
+            "target": "쥬만지",
+            "value": 3.799758745476477,
+            "total": 1658,
+            "same": 63
+        },
+        {
+            "source": "프리 윌리",
+            "target": "로미오와 줄리엣",
+            "value": 3.5487959442332064,
+            "total": 789,
+            "same": 28
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "프리 윌리",
+            "value": 3.48605577689243,
+            "total": 1004,
+            "same": 35
+        },
+        {
+            "source": "프리 윌리",
+            "target": "페이스 오프",
+            "value": 3.485392106611994,
+            "total": 1951,
+            "same": 68
+        },
+        {
+            "source": "프리 윌리",
+            "target": "쿨 러닝",
+            "value": 3.480422622747048,
+            "total": 1609,
+            "same": 56
+        },
+        {
+            "source": "프리 윌리",
+            "target": "아름다운 비행",
+            "value": 3.4440344403444034,
+            "total": 813,
+            "same": 28
+        },
+        {
+            "source": "인어 공주",
+            "target": "프리 윌리",
+            "value": 3.3783783783783785,
+            "total": 740,
+            "same": 25
+        },
+        {
+            "source": "보디가드",
+            "target": "프리 윌리",
+            "value": 3.3674963396778916,
+            "total": 683,
+            "same": 23
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "프리 윌리",
+            "value": 3.3585619678334915,
+            "total": 2114,
+            "same": 71
+        }
+    ],
+    "nodes": [
+        {
+            "id": "미세스 다웃파이어",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=16210",
+            "genre": [
+                "코미디",
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "샐리 필드"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "프리 윌리",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=16466",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "사이먼 윈서"
+            ],
+            "actor": [
+                "케이코",
+                "제이슨 제임스 리처",
+                "로리 페티"
+            ]
+        },
+        {
+            "id": "로미오와 줄리엣",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10185",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "프랑코 제페렐리"
+            ],
+            "actor": [
+                "레너드 위팅",
+                "올리비아 핫세",
+                "존 맥에너리"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "보디가드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17111",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "원규"
+            ],
+            "actor": [
+                "이연걸",
+                "종려시"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "아름다운 비행",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17903",
+            "genre": [
+                "가족",
+                "모험",
+                "드라마"
+            ],
+            "director": [
+                "캐롤 발라드"
+            ],
+            "actor": [
+                "제프 다니엘스",
+                "안나 파킨"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "뮬란",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=19128",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디"
+            ],
+            "director": [
+                "토니 밴크로프트",
+                "베리 쿡"
+            ],
+            "actor": [
+                "밍나 웬",
+                "레아 살롱가",
+                "B.D. 웡"
+            ]
+        },
+        {
+            "id": "인어 공주",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10669",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "뮤지컬",
+                "코미디",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "존 머스커",
+                "론 클레멘츠"
+            ],
+            "actor": [
+                "린 어벌조노이스",
+                "버디 해킷",
+                "크리스토퍼 다니엘 반즈"
+            ]
+        },
+        {
+            "id": "분노의 역류",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10980",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "커트 러셀",
+                "윌리엄 볼드윈",
+                "로버트 드 니로"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 9,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "코미디",
+            "group": 1
+        },
+        {
+            "title": "SF",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "가족",
+            "group": 4
+        },
+        {
+            "title": "드라마",
+            "group": 5
+        },
+        {
+            "title": "모험",
+            "group": 6
+        },
+        {
+            "title": "서부",
+            "group": 7
+        },
+        {
+            "title": "애니메이션",
+            "group": 8
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 9
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 9
+        }
+    ]
+}

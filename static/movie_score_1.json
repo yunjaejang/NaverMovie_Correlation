@@ -1,0 +1,434 @@
+{
+    "links": [
+        {
+            "source": "그린 북",
+            "target": "가버나움",
+            "value": 4.819129368485592,
+            "total": 8155,
+            "same": 393
+        },
+        {
+            "source": "그린 북",
+            "target": "스파이더맨: 뉴 유니버스",
+            "value": 3.305630777850406,
+            "total": 10709,
+            "same": 354
+        },
+        {
+            "source": "그린 북",
+            "target": "도가니",
+            "value": 3.156527055946194,
+            "total": 13084,
+            "same": 413
+        },
+        {
+            "source": "그린 북",
+            "target": "킹콩을 들다",
+            "value": 3.092352695361471,
+            "total": 11965,
+            "same": 370
+        },
+        {
+            "source": "그린 북",
+            "target": "라디오 스타",
+            "value": 3.078854105138807,
+            "total": 13544,
+            "same": 417
+        },
+        {
+            "source": "그린 북",
+            "target": "그랜 토리노",
+            "value": 3.0638203738524497,
+            "total": 9041,
+            "same": 277
+        },
+        {
+            "source": "그린 북",
+            "target": "본 얼티메이텀",
+            "value": 3.059148970791636,
+            "total": 12291,
+            "same": 376
+        },
+        {
+            "source": "그린 북",
+            "target": "어느 가족",
+            "value": 3.0264378478664193,
+            "total": 8624,
+            "same": 261
+        },
+        {
+            "source": "그린 북",
+            "target": "테이큰",
+            "value": 3.0191091851957093,
+            "total": 14077,
+            "same": 425
+        },
+        {
+            "source": "그린 북",
+            "target": "언터처블: 1%의 우정",
+            "value": 2.973088423750534,
+            "total": 11705,
+            "same": 348
+        },
+        {
+            "source": "그린 북",
+            "target": "나비 효과",
+            "value": 2.969416785206259,
+            "total": 11248,
+            "same": 334
+        },
+        {
+            "source": "그린 북",
+            "target": "엽문",
+            "value": 2.9690847872666053,
+            "total": 9801,
+            "same": 291
+        },
+        {
+            "source": "그린 북",
+            "target": "내 이름은 칸",
+            "value": 2.9341259948221303,
+            "total": 10429,
+            "same": 306
+        },
+        {
+            "source": "그린 북",
+            "target": "라따뚜이",
+            "value": 2.926141371408426,
+            "total": 11346,
+            "same": 332
+        },
+        {
+            "source": "그린 북",
+            "target": "업",
+            "value": 2.920670812134916,
+            "total": 10614,
+            "same": 310
+        },
+        {
+            "source": "그린 북",
+            "target": "트루먼 쇼",
+            "value": 2.9017246099096634,
+            "total": 10959,
+            "same": 318
+        }
+    ],
+    "nodes": [
+        {
+            "id": "그린 북",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=171539",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 패럴리"
+            ],
+            "actor": [
+                "비고 모텐슨",
+                "마허샬라 알리"
+            ]
+        },
+        {
+            "id": "가버나움",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=174830",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "나딘 라바키"
+            ],
+            "actor": [
+                "자인 알 라피아",
+                "요르다노스 시프로우"
+            ]
+        },
+        {
+            "id": "언터처블: 1%의 우정",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "올리비에르 나카체",
+                "에릭 토레다노"
+            ],
+            "actor": [
+                "프랑수아 클루제",
+                "오마 사이"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "스파이더맨: 뉴 유니버스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=171725",
+            "genre": [
+                "애니메이션",
+                "액션",
+                "가족"
+            ],
+            "director": [
+                "밥 퍼시케티",
+                "피터 램지",
+                "로드니 로스맨"
+            ],
+            "actor": [
+                "샤메익 무어",
+                "헤일리 스테인펠드",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "애니메이션",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

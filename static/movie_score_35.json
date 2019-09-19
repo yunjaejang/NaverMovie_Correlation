@@ -1,0 +1,428 @@
+{
+    "links": [
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "스쿨 오브 락",
+            "value": 9.723086496577475,
+            "total": 6428,
+            "same": 625
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.504206192947914,
+            "total": 5587,
+            "same": 531
+        },
+        {
+            "source": "코러스",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.473684210526317,
+            "total": 4845,
+            "same": 459
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "나 홀로 집에",
+            "value": 9.397590361445783,
+            "total": 5395,
+            "same": 507
+        },
+        {
+            "source": "아이 엠 샘",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.33448573898012,
+            "total": 4628,
+            "same": 432
+        },
+        {
+            "source": "가위손",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.320046893317702,
+            "total": 5118,
+            "same": 477
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "뷰티풀 마인드",
+            "value": 9.23202614379085,
+            "total": 4896,
+            "same": 452
+        },
+        {
+            "source": "프리퀀시",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.14277355178467,
+            "total": 6836,
+            "same": 625
+        },
+        {
+            "source": "시네마 천국",
+            "target": "굿바이 마이 프랜드",
+            "value": 9.1015854374633,
+            "total": 5109,
+            "same": 465
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "리멤버 타이탄",
+            "value": 9.08590308370044,
+            "total": 3632,
+            "same": 330
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "트루먼 쇼",
+            "value": 9.070765821908324,
+            "total": 7221,
+            "same": 655
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "굿바이 마이 프랜드",
+            "value": 8.948019801980198,
+            "total": 8080,
+            "same": 723
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "에이트 빌로우",
+            "value": 8.940827304767204,
+            "total": 5391,
+            "same": 482
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "쉰들러 리스트",
+            "value": 8.827586206896552,
+            "total": 5075,
+            "same": 448
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "굿바이 마이 프랜드",
+            "value": 8.810302534750614,
+            "total": 4892,
+            "same": 431
+        },
+        {
+            "source": "가타카",
+            "target": "굿바이 마이 프랜드",
+            "value": 8.800922367409685,
+            "total": 5204,
+            "same": 458
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10016",
+            "genre": [
+                "모험",
+                "범죄",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "트루먼 쇼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=19099",
+            "genre": [
+                "코미디",
+                "드라마",
+                "SF"
+            ],
+            "director": [
+                "피터 위어"
+            ],
+            "actor": [
+                "짐 캐리"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        },
+        {
+            "title": "판타지",
+            "group": 5
+        },
+        {
+            "title": "SF",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

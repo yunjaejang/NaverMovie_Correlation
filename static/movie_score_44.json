@@ -1,0 +1,431 @@
+{
+    "links": [
+        {
+            "source": "피아니스트",
+            "target": "쉰들러 리스트",
+            "value": 10.997937080969573,
+            "total": 7756,
+            "same": 853
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "라이언 일병 구하기",
+            "value": 10.714285714285714,
+            "total": 6328,
+            "same": 678
+        },
+        {
+            "source": "글래디에이터",
+            "target": "쉰들러 리스트",
+            "value": 10.557704706640877,
+            "total": 6204,
+            "same": 655
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "뷰티풀 마인드",
+            "value": 10.108175208370278,
+            "total": 5639,
+            "same": 570
+        },
+        {
+            "source": "포레스트 검프",
+            "target": "쉰들러 리스트",
+            "value": 10.080874814899191,
+            "total": 8779,
+            "same": 885
+        },
+        {
+            "source": "브레이브하트",
+            "target": "쉰들러 리스트",
+            "value": 9.926701570680628,
+            "total": 4775,
+            "same": 474
+        },
+        {
+            "source": "가위손",
+            "target": "쉰들러 리스트",
+            "value": 9.88936170212766,
+            "total": 5875,
+            "same": 581
+        },
+        {
+            "source": "시네마 천국",
+            "target": "쉰들러 리스트",
+            "value": 9.887295081967213,
+            "total": 5856,
+            "same": 579
+        },
+        {
+            "source": "아마데우스",
+            "target": "쉰들러 리스트",
+            "value": 9.826265645432468,
+            "total": 5353,
+            "same": 526
+        },
+        {
+            "source": "여인의 향기",
+            "target": "쉰들러 리스트",
+            "value": 9.802037286181049,
+            "total": 5203,
+            "same": 510
+        },
+        {
+            "source": "매트릭스",
+            "target": "쉰들러 리스트",
+            "value": 9.64398377647589,
+            "total": 6657,
+            "same": 642
+        },
+        {
+            "source": "나비 효과",
+            "target": "쉰들러 리스트",
+            "value": 9.533615990308904,
+            "total": 8255,
+            "same": 787
+        },
+        {
+            "source": "프리퀀시",
+            "target": "쉰들러 리스트",
+            "value": 9.514409790761942,
+            "total": 7599,
+            "same": 723
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "쉰들러 리스트",
+            "value": 9.436644748533855,
+            "total": 5627,
+            "same": 531
+        },
+        {
+            "source": "쉰들러 리스트",
+            "target": "인생은 아름다워",
+            "value": 9.425804219993083,
+            "total": 11564,
+            "same": 1090
+        },
+        {
+            "source": "굿 윌 헌팅",
+            "target": "쉰들러 리스트",
+            "value": 9.371571853941388,
+            "total": 6381,
+            "same": 598
+        }
+    ],
+    "nodes": [
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "라이언 일병 구하기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18988",
+            "genre": [
+                "전쟁",
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 행크스",
+                "에드워드 번즈",
+                "톰 시즈모어"
+            ]
+        },
+        {
+            "id": "매트릭스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=24452",
+            "genre": [
+                "SF",
+                "액션"
+            ],
+            "director": [
+                "릴리 워쇼스키",
+                "라나 워쇼스키"
+            ],
+            "actor": [
+                "키아누 리브스",
+                "로렌스 피시번",
+                "캐리 앤 모스"
+            ]
+        },
+        {
+            "id": "포레스트 검프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17159",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "톰 행크스"
+            ]
+        },
+        {
+            "id": "글래디에이터",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "굿 윌 헌팅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=19079",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "구스 반 산트"
+            ],
+            "actor": [
+                "맷 데이먼"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "피아니스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=35187",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "로만 폴란스키"
+            ],
+            "actor": [
+                "애드리언 브로디",
+                "토마스 크레취만"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "전쟁",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        },
+        {
+            "title": "판타지",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

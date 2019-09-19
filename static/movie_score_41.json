@@ -1,0 +1,429 @@
+{
+    "links": [
+        {
+            "source": "다크 나이트",
+            "target": "클레멘타인",
+            "value": 8.840795583983176,
+            "total": 34239,
+            "same": 3027
+        },
+        {
+            "source": "클레멘타인",
+            "target": "아저씨",
+            "value": 8.811421564333887,
+            "total": 34251,
+            "same": 3018
+        },
+        {
+            "source": "영웅: 샐러멘더의 비밀",
+            "target": "클레멘타인",
+            "value": 8.571047275881627,
+            "total": 29973,
+            "same": 2569
+        },
+        {
+            "source": "말할 수 없는 비밀",
+            "target": "클레멘타인",
+            "value": 8.567704939397888,
+            "total": 38365,
+            "same": 3287
+        },
+        {
+            "source": "과속스캔들",
+            "target": "클레멘타인",
+            "value": 8.509841214950578,
+            "total": 34701,
+            "same": 2953
+        },
+        {
+            "source": "인셉션",
+            "target": "클레멘타인",
+            "value": 8.48196829789154,
+            "total": 33247,
+            "same": 2820
+        },
+        {
+            "source": "세 얼간이",
+            "target": "클레멘타인",
+            "value": 8.07286336656823,
+            "total": 34201,
+            "same": 2761
+        },
+        {
+            "source": "쇼생크 탈출",
+            "target": "클레멘타인",
+            "value": 7.944720766431885,
+            "total": 29957,
+            "same": 2380
+        },
+        {
+            "source": "해바라기",
+            "target": "클레멘타인",
+            "value": 7.805518121852614,
+            "total": 28198,
+            "same": 2201
+        },
+        {
+            "source": "클레멘타인",
+            "target": "라디오 스타",
+            "value": 7.6579656517717085,
+            "total": 24863,
+            "same": 1904
+        },
+        {
+            "source": "테이큰",
+            "target": "클레멘타인",
+            "value": 7.562628013234598,
+            "total": 25388,
+            "same": 1920
+        },
+        {
+            "source": "클레멘타인",
+            "target": "지금, 만나러 갑니다",
+            "value": 7.4198214726740295,
+            "total": 28343,
+            "same": 2103
+        },
+        {
+            "source": "클레멘타인",
+            "target": "인생은 아름다워",
+            "value": 7.078664576083216,
+            "total": 26149,
+            "same": 1851
+        },
+        {
+            "source": "클레멘타인",
+            "target": "본 얼티메이텀",
+            "value": 7.056400773304194,
+            "total": 23794,
+            "same": 1679
+        },
+        {
+            "source": "클레멘타인",
+            "target": "도가니",
+            "value": 6.9705966082394575,
+            "total": 24589,
+            "same": 1714
+        },
+        {
+            "source": "클레멘타인",
+            "target": "타이타닉",
+            "value": 6.911710831603371,
+            "total": 32756,
+            "same": 2264
+        }
+    ],
+    "nodes": [
+        {
+            "id": "쇼생크 탈출",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17421",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "프랭크 다라본트"
+            ],
+            "actor": [
+                "팀 로빈스",
+                "모건 프리먼"
+            ]
+        },
+        {
+            "id": "인생은 아름다워",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=22126",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "로베르토 베니니"
+            ],
+            "actor": [
+                "로베르토 베니니",
+                "니콜레타 브라스키"
+            ]
+        },
+        {
+            "id": "세 얼간이",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73372",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "라지쿠마르 히라니"
+            ],
+            "actor": [
+                "아미르 칸",
+                "마드하반",
+                "셔먼 조쉬"
+            ]
+        },
+        {
+            "id": "클레멘타인",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37886",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "김두영"
+            ],
+            "actor": [
+                "이동준",
+                "김혜리",
+                "스티븐 시걸"
+            ]
+        },
+        {
+            "id": "지금, 만나러 갑니다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=39636",
+            "genre": [
+                "멜로/로맨스",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "도이 노부히로"
+            ],
+            "actor": [
+                "다케우치 유코",
+                "나카무라 시도",
+                "다케이 아카시"
+            ]
+        },
+        {
+            "id": "타이타닉",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18847",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "케이트 윈슬렛"
+            ]
+        },
+        {
+            "id": "다크 나이트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=62586",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마",
+                "미스터리"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "크리스찬 베일",
+                "히스 레저",
+                "아론 에크하트"
+            ]
+        },
+        {
+            "id": "영웅: 샐러멘더의 비밀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51708",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "알렉산드르 야킴추크",
+                "엘레나 코발레바"
+            ],
+            "actor": [
+                "김보성",
+                "표도르 예멜리야넨코"
+            ]
+        },
+        {
+            "id": "말할 수 없는 비밀",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=68555",
+            "genre": [
+                "멜로/로맨스",
+                "판타지",
+                "드라마"
+            ],
+            "director": [
+                "주걸륜"
+            ],
+            "actor": [
+                "주걸륜",
+                "계륜미",
+                "황추생"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "해바라기",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=44529",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "강석범"
+            ],
+            "actor": [
+                "김래원",
+                "김해숙",
+                "허이재"
+            ]
+        },
+        {
+            "id": "아저씨",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=71509",
+            "genre": [
+                "액션",
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "이정범"
+            ],
+            "actor": [
+                "원빈",
+                "김새론"
+            ]
+        },
+        {
+            "id": "인셉션",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=52515",
+            "genre": [
+                "액션",
+                "모험",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "크리스토퍼 놀란"
+            ],
+            "actor": [
+                "레오나르도 디카프리오",
+                "와타나베 켄",
+                "조셉 고든 레빗"
+            ]
+        },
+        {
+            "id": "테이큰",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=47152",
+            "genre": [
+                "액션",
+                "범죄",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "피에르 모렐"
+            ],
+            "actor": [
+                "리암 니슨",
+                "매기 그레이스"
+            ]
+        },
+        {
+            "id": "과속스캔들",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51143",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "강형철"
+            ],
+            "actor": [
+                "차태현",
+                "박보영",
+                "왕석현"
+            ]
+        },
+        {
+            "id": "라디오 스타",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=58088",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "이준익"
+            ],
+            "actor": [
+                "박중훈",
+                "안성기"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "액션",
+            "group": 3
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

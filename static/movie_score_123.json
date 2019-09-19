@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.726835524206477,
+            "total": 3119,
+            "same": 241
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.959847036328871,
+            "total": 5230,
+            "same": 364
+        },
+        {
+            "source": "트루맛쇼",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.88348594884749,
+            "total": 3167,
+            "same": 218
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "에이트 빌로우",
+            "value": 6.7847237038617445,
+            "total": 4687,
+            "same": 318
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.70324427480916,
+            "total": 4192,
+            "same": 281
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "신데렐라 맨",
+            "value": 6.645798218155551,
+            "total": 4153,
+            "same": 276
+        },
+        {
+            "source": "친정엄마",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.605922551252847,
+            "total": 3512,
+            "same": 232
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "엽문",
+            "value": 6.589785831960461,
+            "total": 5463,
+            "same": 360
+        },
+        {
+            "source": "코러스",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.583373378183566,
+            "total": 4162,
+            "same": 274
+        },
+        {
+            "source": "인크레더블",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.484483557202409,
+            "total": 4318,
+            "same": 280
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "리멤버 타이탄",
+            "value": 6.4693737095664146,
+            "total": 2906,
+            "same": 188
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 6.4374140302613485,
+            "total": 3635,
+            "same": 234
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "피아니스트의 전설",
+            "value": 6.3812154696132595,
+            "total": 3620,
+            "same": 231
+        },
+        {
+            "source": "굿바이 마이 프랜드",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.363891225119148,
+            "total": 3567,
+            "same": 227
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "그랜 토리노",
+            "value": 6.3171193935565375,
+            "total": 4749,
+            "same": 300
+        },
+        {
+            "source": "하이 스쿨 뮤지컬: 졸업반",
+            "target": "더 코브: 슬픈 돌고래의 진실",
+            "value": 6.238064926798217,
+            "total": 3142,
+            "same": 196
+        }
+    ],
+    "nodes": [
+        {
+            "id": "굿바이 마이 프랜드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17541",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "피터 호튼"
+            ],
+            "actor": [
+                "조셉 마젤로",
+                "브래드 렌프로",
+                "다이아나 스카위드"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "트루맛쇼",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=84148",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "김재환"
+            ],
+            "actor": [
+                "박나림"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "하이 스쿨 뮤지컬: 졸업반",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=45774",
+            "genre": [
+                "뮤지컬",
+                "코미디",
+                "드라마",
+                "가족",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "잭 에프론",
+                "바네사 허진스",
+                "애슐리 티스데일"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "모험",
+            "group": 3
+        },
+        {
+            "title": "뮤지컬",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        },
+        {
+            "title": "가족",
+            "group": 7
+        },
+        {
+            "title": "범죄",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

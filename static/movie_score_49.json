@@ -1,0 +1,427 @@
+{
+    "links": [
+        {
+            "source": "패왕별희",
+            "target": "아마데우스",
+            "value": 7.674199623352165,
+            "total": 4248,
+            "same": 326
+        },
+        {
+            "source": "패왕별희",
+            "target": "시네마 천국",
+            "value": 7.4120603015075375,
+            "total": 4776,
+            "same": 354
+        },
+        {
+            "source": "패왕별희",
+            "target": "천녀유혼",
+            "value": 7.411835026897788,
+            "total": 3346,
+            "same": 248
+        },
+        {
+            "source": "패왕별희",
+            "target": "영웅본색",
+            "value": 7.181571815718158,
+            "total": 3690,
+            "same": 265
+        },
+        {
+            "source": "패왕별희",
+            "target": "여인의 향기",
+            "value": 7.120291616038882,
+            "total": 4115,
+            "same": 293
+        },
+        {
+            "source": "패왕별희",
+            "target": "가위손",
+            "value": 6.911581569115816,
+            "total": 4818,
+            "same": 333
+        },
+        {
+            "source": "패왕별희",
+            "target": "빌리 엘리어트",
+            "value": 6.78485445392865,
+            "total": 4569,
+            "same": 310
+        },
+        {
+            "source": "패왕별희",
+            "target": "브레이브하트",
+            "value": 6.7388362652232745,
+            "total": 3695,
+            "same": 249
+        },
+        {
+            "source": "패왕별희",
+            "target": "쉰들러 리스트",
+            "value": 6.724101702038244,
+            "total": 4759,
+            "same": 320
+        },
+        {
+            "source": "패왕별희",
+            "target": "뷰티풀 마인드",
+            "value": 6.631876494890193,
+            "total": 4599,
+            "same": 305
+        },
+        {
+            "source": "패왕별희",
+            "target": "글래디에이터",
+            "value": 6.602687140115163,
+            "total": 5210,
+            "same": 344
+        },
+        {
+            "source": "패왕별희",
+            "target": "칼리토",
+            "value": 6.484402383456011,
+            "total": 2853,
+            "same": 185
+        },
+        {
+            "source": "패왕별희",
+            "target": "아이 엠 샘",
+            "value": 6.482122260668974,
+            "total": 4335,
+            "same": 281
+        },
+        {
+            "source": "패왕별희",
+            "target": "피아니스트의 전설",
+            "value": 6.47571606475716,
+            "total": 4015,
+            "same": 260
+        },
+        {
+            "source": "패왕별희",
+            "target": "바람과 함께 사라지다",
+            "value": 6.453851492019432,
+            "total": 2882,
+            "same": 186
+        },
+        {
+            "source": "패왕별희",
+            "target": "말아톤",
+            "value": 6.447187928669409,
+            "total": 5832,
+            "same": 376
+        }
+    ],
+    "nodes": [
+        {
+            "id": "글래디에이터",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29217",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "리들리 스콧"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "호아킨 피닉스",
+                "코니 닐슨"
+            ]
+        },
+        {
+            "id": "여인의 향기",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "패왕별희",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=14448",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "장국영",
+                "공리",
+                "장풍의"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "아이 엠 샘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34227",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "제시 넬슨"
+            ],
+            "actor": [
+                "숀 펜",
+                "미셸 파이퍼"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "천녀유혼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10670",
+            "genre": [
+                "판타지",
+                "공포",
+                "멜로/로맨스",
+                "액션"
+            ],
+            "director": [
+                "정소동"
+            ],
+            "actor": [
+                "장국영",
+                "왕조현"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "영웅본색",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10110",
+            "genre": [
+                "액션",
+                "범죄",
+                "느와르",
+                "드라마"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "적룡",
+                "주윤발",
+                "장국영"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "액션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "범죄",
+            "group": 4
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 4
+        }
+    ]
+}

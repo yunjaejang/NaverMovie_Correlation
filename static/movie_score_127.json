@@ -1,0 +1,417 @@
+{
+    "links": [
+        {
+            "source": "맨발의 꿈",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.727771679473107,
+            "total": 4555,
+            "same": 352
+        },
+        {
+            "source": "더 코브: 슬픈 돌고래의 진실",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.726835524206477,
+            "total": 3119,
+            "same": 241
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "엽문",
+            "value": 7.601031814273431,
+            "total": 5815,
+            "same": 442
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.52764894755619,
+            "total": 5606,
+            "same": 422
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "스쿨 오브 락",
+            "value": 7.5211176088369065,
+            "total": 6156,
+            "same": 463
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "킹콩을 들다",
+            "value": 7.513281052365292,
+            "total": 7906,
+            "same": 594
+        },
+        {
+            "source": "코러스",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.505518763796909,
+            "total": 4530,
+            "same": 340
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "에이트 빌로우",
+            "value": 7.341622261693309,
+            "total": 5067,
+            "same": 372
+        },
+        {
+            "source": "브레이브하트",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.2707542051003795,
+            "total": 3686,
+            "same": 268
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "말아톤",
+            "value": 7.22538368684256,
+            "total": 5799,
+            "same": 419
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "리멤버 타이탄",
+            "value": 7.201458523245215,
+            "total": 3291,
+            "same": 237
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.1209465381244526,
+            "total": 4564,
+            "same": 325
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.110217510509961,
+            "total": 5471,
+            "same": 389
+        },
+        {
+            "source": "라따뚜이",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.086291643910432,
+            "total": 7324,
+            "same": 519
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "마이클 잭슨의 디스 이즈 잇",
+            "value": 7.067371202113606,
+            "total": 4542,
+            "same": 321
+        },
+        {
+            "source": "마이클 잭슨의 디스 이즈 잇",
+            "target": "뷰티풀 마인드",
+            "value": 7.035504247440645,
+            "total": 4591,
+            "same": 323
+        }
+    ],
+    "nodes": [
+        {
+            "id": "울지마 톤즈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "더 코브: 슬픈 돌고래의 진실",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=53951",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "루이 시호요스"
+            ],
+            "actor": [
+                "조 치숌",
+                "맨디-래 크루이크생크"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "마이클 잭슨의 디스 이즈 잇",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70251",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "마이클 잭슨"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "다큐멘터리",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "가족",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

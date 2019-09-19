@@ -1,0 +1,432 @@
+{
+    "links": [
+        {
+            "source": "늑대와 춤을",
+            "target": "뻐꾸기 둥지 위로 날아간 새",
+            "value": 8.592592592592592,
+            "total": 1350,
+            "same": 116
+        },
+        {
+            "source": "다이 하드",
+            "target": "늑대와 춤을",
+            "value": 7.632508833922262,
+            "total": 1415,
+            "same": 108
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "칼리토",
+            "value": 7.36231884057971,
+            "total": 1725,
+            "same": 127
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "마지막 황제",
+            "value": 7.296137339055794,
+            "total": 1631,
+            "same": 119
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "사랑과 영혼",
+            "value": 7.07070707070707,
+            "total": 1386,
+            "same": 98
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "대부 3",
+            "value": 7.065948855989233,
+            "total": 1486,
+            "same": 105
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "대부 2",
+            "value": 6.958904109589041,
+            "total": 1825,
+            "same": 127
+        },
+        {
+            "source": "록키",
+            "target": "늑대와 춤을",
+            "value": 6.809001731102135,
+            "total": 1733,
+            "same": 118
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "브레이브하트",
+            "value": 6.775067750677506,
+            "total": 2583,
+            "same": 175
+        },
+        {
+            "source": "동방불패",
+            "target": "늑대와 춤을",
+            "value": 6.5864833906071025,
+            "total": 1746,
+            "same": 115
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "맨 오브 오너",
+            "value": 6.377759607522486,
+            "total": 1223,
+            "same": 78
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "터미네이터",
+            "value": 6.309148264984227,
+            "total": 1902,
+            "same": 120
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "크림슨 타이드",
+            "value": 6.285253827558421,
+            "total": 1241,
+            "same": 78
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "바람과 함께 사라지다",
+            "value": 6.267645398080181,
+            "total": 1771,
+            "same": 111
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "석양에 돌아오다",
+            "value": 6.25,
+            "total": 1008,
+            "same": 63
+        },
+        {
+            "source": "늑대와 춤을",
+            "target": "여인의 향기",
+            "value": 6.231454005934718,
+            "total": 3033,
+            "same": 189
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "동방불패",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=11104",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "정소동",
+                "당계례"
+            ],
+            "actor": [
+                "이연걸",
+                "임청하"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "석양에 돌아오다",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13967",
+            "genre": [
+                "서부",
+                "액션",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "세르지오 레오네"
+            ],
+            "actor": [
+                "클린트 이스트우드"
+            ]
+        },
+        {
+            "id": "바람과 함께 사라지다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10020",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "빅터 플레밍"
+            ],
+            "actor": [
+                "클락 게이블",
+                "비비안 리",
+                "레슬리 하워드"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "마지막 황제",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "맨 오브 오너",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31148",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "조지 틸만 주니어"
+            ],
+            "actor": [
+                "로버트 드 니로",
+                "쿠바 구딩 쥬니어",
+                "샤를리즈 테론"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "크림슨 타이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=17486",
+            "genre": [
+                "액션",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "토니 스콧"
+            ],
+            "actor": [
+                "덴젤 워싱턴",
+                "진 핵크만"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "액션",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "서부",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

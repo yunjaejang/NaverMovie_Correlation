@@ -1,0 +1,435 @@
+{
+    "links": [
+        {
+            "source": "타인의 삶",
+            "target": "헤드윅",
+            "value": 7.754189944134078,
+            "total": 4475,
+            "same": 347
+        },
+        {
+            "source": "스쿨 오브 락",
+            "target": "헤드윅",
+            "value": 7.181528662420382,
+            "total": 6280,
+            "same": 451
+        },
+        {
+            "source": "코러스",
+            "target": "헤드윅",
+            "value": 7.116749086218017,
+            "total": 4651,
+            "same": 331
+        },
+        {
+            "source": "가위손",
+            "target": "헤드윅",
+            "value": 7.109486085720089,
+            "total": 4923,
+            "same": 350
+        },
+        {
+            "source": "말아톤",
+            "target": "헤드윅",
+            "value": 7.088479106750127,
+            "total": 5911,
+            "same": 419
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "헤드윅",
+            "value": 7.064868336544637,
+            "total": 4671,
+            "same": 330
+        },
+        {
+            "source": "나비 효과",
+            "target": "헤드윅",
+            "value": 7.0562593652091,
+            "total": 7341,
+            "same": 518
+        },
+        {
+            "source": "피아니스트의 전설",
+            "target": "헤드윅",
+            "value": 6.956944782291413,
+            "total": 4111,
+            "same": 286
+        },
+        {
+            "source": "신데렐라 맨",
+            "target": "헤드윅",
+            "value": 6.874328678839957,
+            "total": 4655,
+            "same": 320
+        },
+        {
+            "source": "뷰티풀 마인드",
+            "target": "헤드윅",
+            "value": 6.845238095238096,
+            "total": 4704,
+            "same": 322
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "헤드윅",
+            "value": 6.832178598922248,
+            "total": 5196,
+            "same": 355
+        },
+        {
+            "source": "인크레더블",
+            "target": "헤드윅",
+            "value": 6.744137787922806,
+            "total": 4819,
+            "same": 325
+        },
+        {
+            "source": "가타카",
+            "target": "헤드윅",
+            "value": 6.71462829736211,
+            "total": 5004,
+            "same": 336
+        },
+        {
+            "source": "아마데우스",
+            "target": "헤드윅",
+            "value": 6.703022040445353,
+            "total": 4401,
+            "same": 295
+        },
+        {
+            "source": "시네마 천국",
+            "target": "헤드윅",
+            "value": 6.617945594803086,
+            "total": 4926,
+            "same": 326
+        },
+        {
+            "source": "공공의 적",
+            "target": "헤드윅",
+            "value": 6.5310492505353315,
+            "total": 3736,
+            "same": 244
+        }
+    ],
+    "nodes": [
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "신데렐라 맨",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=41375",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "르네 젤위거"
+            ]
+        },
+        {
+            "id": "가위손",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10936",
+            "genre": [
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "팀 버튼"
+            ],
+            "actor": [
+                "조니 뎁",
+                "위노나 라이더",
+                "다이앤 위스트"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "가타카",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=19074",
+            "genre": [
+                "SF",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "앤드류 니콜"
+            ],
+            "actor": [
+                "에단 호크",
+                "우마 서먼"
+            ]
+        },
+        {
+            "id": "피아니스트의 전설",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=29059",
+            "genre": [
+                "드라마",
+                "판타지",
+                "뮤지컬"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "팀 로스",
+                "프루이트 테일러 빈스"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "나비 효과",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=38091",
+            "genre": [
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "에릭 브레스",
+                "J. 마키에 그러버"
+            ],
+            "actor": [
+                "애쉬튼 커쳐",
+                "에이미 스마트",
+                "에릭 스톨츠"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "헤드윅",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31827",
+            "genre": [
+                "드라마",
+                "코미디",
+                "뮤지컬"
+            ],
+            "director": [
+                "존 카메론 미첼"
+            ],
+            "actor": [
+                "존 카메론 미첼"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "판타지",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "SF",
+            "group": 5
+        },
+        {
+            "title": "코미디",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

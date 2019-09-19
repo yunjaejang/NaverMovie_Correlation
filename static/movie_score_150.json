@@ -1,0 +1,448 @@
+{
+    "links": [
+        {
+            "source": "퀸 락 몬트리올",
+            "target": "트와이스랜드",
+            "value": 0.603318250377074,
+            "total": 663,
+            "same": 4
+        },
+        {
+            "source": "천국의 아이들",
+            "target": "트와이스랜드",
+            "value": 0.5673758865248227,
+            "total": 1410,
+            "same": 8
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "랜드 오브 마인",
+            "value": 0.5625879043600562,
+            "total": 711,
+            "same": 4
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "알라딘",
+            "value": 0.5561735261401557,
+            "total": 899,
+            "same": 5
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "스피릿",
+            "value": 0.5208333333333333,
+            "total": 768,
+            "same": 4
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "백발마녀전",
+            "value": 0.46224961479198773,
+            "total": 649,
+            "same": 3
+        },
+        {
+            "source": "언더독",
+            "target": "트와이스랜드",
+            "value": 0.4509582863585118,
+            "total": 1774,
+            "same": 8
+        },
+        {
+            "source": "토이 스토리",
+            "target": "트와이스랜드",
+            "value": 0.4380475594493116,
+            "total": 1598,
+            "same": 7
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "사랑은 비를 타고",
+            "value": 0.43227665706051877,
+            "total": 694,
+            "same": 3
+        },
+        {
+            "source": "지상의 별처럼",
+            "target": "트와이스랜드",
+            "value": 0.4251700680272109,
+            "total": 1176,
+            "same": 5
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "미녀와 야수",
+            "value": 0.423728813559322,
+            "total": 944,
+            "same": 4
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "인생",
+            "value": 0.411522633744856,
+            "total": 729,
+            "same": 3
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "에이리언 2",
+            "value": 0.40650406504065045,
+            "total": 1968,
+            "same": 8
+        },
+        {
+            "source": "폴리스 스토리",
+            "target": "트와이스랜드",
+            "value": 0.38510911424903727,
+            "total": 779,
+            "same": 3
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "헤드윅",
+            "value": 0.3833049403747871,
+            "total": 2348,
+            "same": 9
+        },
+        {
+            "source": "트와이스랜드",
+            "target": "오아시스",
+            "value": 0.3811944091486658,
+            "total": 1574,
+            "same": 6
+        }
+    ],
+    "nodes": [
+        {
+            "id": "에이리언 2",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10038",
+            "genre": [
+                "SF",
+                "공포",
+                "스릴러",
+                "액션"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "시고니 위버",
+                "마이클 빈",
+                "폴 레이저"
+            ]
+        },
+        {
+            "id": "알라딘",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=163788",
+            "genre": [
+                "모험",
+                "가족",
+                "판타지",
+                "뮤지컬",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "가이 리치"
+            ],
+            "actor": [
+                "메나 마수드",
+                "윌 스미스",
+                "나오미 스콧"
+            ]
+        },
+        {
+            "id": "지상의 별처럼",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=51172",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "아미르 칸",
+                "아몰 굽테"
+            ],
+            "actor": [
+                "다쉴 사페리",
+                "아미르 칸"
+            ]
+        },
+        {
+            "id": "언더독",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=144318",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "오성윤",
+                "이춘백"
+            ],
+            "actor": [
+                "디오",
+                "박소담",
+                "박철민"
+            ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "퀸 락 몬트리올",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=54900",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "솔 스위머"
+            ],
+            "actor": [
+                "존 디콘",
+                "브라이언 메이",
+                "프레디 머큐리"
+            ]
+        },
+        {
+            "id": "천국의 아이들",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29571",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마지드 마지디"
+            ],
+            "actor": [
+                "레자 나지",
+                "아미르 파로크 하스미얀",
+                "바하레 세디키"
+            ]
+        },
+        {
+            "id": "폴리스 스토리",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10746",
+            "genre": [
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "성룡"
+            ],
+            "actor": [
+                "성룡"
+            ]
+        },
+        {
+            "id": "인생",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=16531",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "장예모"
+            ],
+            "actor": [
+                "공리",
+                "갈우"
+            ]
+        },
+        {
+            "id": "트와이스랜드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=180361",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "나연",
+                "정연",
+                "모모"
+            ],
+            "actor": [
+                "전체 관람가"
+            ]
+        },
+        {
+            "id": "사랑은 비를 타고",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=10105",
+            "genre": [
+                "뮤지컬",
+                "멜로/로맨스",
+                "코미디"
+            ],
+            "director": [
+                "진 켈리",
+                "스탠리 도넌"
+            ],
+            "actor": [
+                "진 켈리",
+                "도널드 오코너",
+                "데비 레이놀즈"
+            ]
+        },
+        {
+            "id": "미녀와 야수",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=13172",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지",
+                "멜로/로맨스",
+                "뮤지컬"
+            ],
+            "director": [
+                "게리 트러스데일",
+                "커크 와이즈"
+            ],
+            "actor": [
+                "페이지 오하라",
+                "로비 벤슨"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "스피릿",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=35100",
+            "genre": [
+                "애니메이션",
+                "서부",
+                "가족"
+            ],
+            "director": [
+                "켈리 애스버리",
+                "로나 쿡"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "제임스 크롬웰",
+                "다니엘 스터디"
+            ]
+        },
+        {
+            "id": "랜드 오브 마인",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=144100",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "마틴 잔드블리엣"
+            ],
+            "actor": [
+                "로랜드 몰러",
+                "미켈 폴스라르",
+                "루이스 호프만"
+            ]
+        },
+        {
+            "id": "백발마녀전",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=12993",
+            "genre": [
+                "액션",
+                "공포",
+                "스릴러",
+                "드라마"
+            ],
+            "director": [
+                "우인태"
+            ],
+            "actor": [
+                "장국영",
+                "임청하"
+            ]
+        },
+        {
+            "id": "헤드윅",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31827",
+            "genre": [
+                "드라마",
+                "코미디",
+                "뮤지컬"
+            ],
+            "director": [
+                "존 카메론 미첼"
+            ],
+            "actor": [
+                "존 카메론 미첼"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "SF",
+            "group": 1
+        },
+        {
+            "title": "모험",
+            "group": 2
+        },
+        {
+            "title": "드라마",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        },
+        {
+            "title": "뮤지컬",
+            "group": 7
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 7
+        }
+    ]
+}

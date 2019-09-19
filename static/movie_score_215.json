@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "늑대와 춤을",
+            "target": "마지막 황제",
+            "value": 7.296137339055794,
+            "total": 1631,
+            "same": 119
+        },
+        {
+            "source": "마지막 황제",
+            "target": "칼리토",
+            "value": 6.5375302663438255,
+            "total": 2065,
+            "same": 135
+        },
+        {
+            "source": "다이 하드",
+            "target": "마지막 황제",
+            "value": 6.427758816837315,
+            "total": 1758,
+            "same": 113
+        },
+        {
+            "source": "마지막 황제",
+            "target": "여인의 향기",
+            "value": 6.376638855780692,
+            "total": 3356,
+            "same": 214
+        },
+        {
+            "source": "마지막 황제",
+            "target": "대부 3",
+            "value": 6.3048245614035086,
+            "total": 1824,
+            "same": 115
+        },
+        {
+            "source": "패왕별희",
+            "target": "마지막 황제",
+            "value": 6.2997827661115124,
+            "total": 2762,
+            "same": 174
+        },
+        {
+            "source": "마지막 황제",
+            "target": "터미네이터",
+            "value": 6.278026905829597,
+            "total": 2230,
+            "same": 140
+        },
+        {
+            "source": "아마데우스",
+            "target": "마지막 황제",
+            "value": 6.196702671972712,
+            "total": 3518,
+            "same": 218
+        },
+        {
+            "source": "마지막 황제",
+            "target": "대부 2",
+            "value": 6.137517305029996,
+            "total": 2167,
+            "same": 133
+        },
+        {
+            "source": "마지막 황제",
+            "target": "쉰들러 리스트",
+            "value": 6.131131131131131,
+            "total": 3996,
+            "same": 245
+        },
+        {
+            "source": "마지막 황제",
+            "target": "브레이브하트",
+            "value": 6.04301809491294,
+            "total": 2929,
+            "same": 177
+        },
+        {
+            "source": "쥬라기 공원",
+            "target": "마지막 황제",
+            "value": 6.041742951299891,
+            "total": 2731,
+            "same": 165
+        },
+        {
+            "source": "마지막 황제",
+            "target": "페이스 오프",
+            "value": 5.978260869565218,
+            "total": 2576,
+            "same": 154
+        },
+        {
+            "source": "뻐꾸기 둥지 위로 날아간 새",
+            "target": "마지막 황제",
+            "value": 5.957943925233645,
+            "total": 1712,
+            "same": 102
+        },
+        {
+            "source": "모던 타임즈",
+            "target": "마지막 황제",
+            "value": 5.920078934385792,
+            "total": 2027,
+            "same": 120
+        },
+        {
+            "source": "마지막 황제",
+            "target": "서유기 - 월광보합",
+            "value": 5.85480093676815,
+            "total": 2562,
+            "same": 150
+        }
+    ],
+    "nodes": [
+        {
+            "id": "여인의 향기",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12482",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "마틴 브레스트"
+            ],
+            "actor": [
+                "알 파치노"
+            ]
+        },
+        {
+            "id": "쉰들러 리스트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14450",
+            "genre": [
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "리암 니슨"
+            ]
+        },
+        {
+            "id": "패왕별희",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=14448",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "천카이거"
+            ],
+            "actor": [
+                "장국영",
+                "공리",
+                "장풍의"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "모던 타임즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10249",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "찰리 채플린"
+            ],
+            "actor": [
+                "찰리 채플린",
+                "파울레트 고다드"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "대부 3",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10561",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "다이안 키튼",
+                "탈리아 샤이어"
+            ]
+        },
+        {
+            "id": "마지막 황제",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10314",
+            "genre": [
+                "드라마",
+                "서사"
+            ],
+            "director": [
+                "베르나르도 베르톨루치"
+            ],
+            "actor": [
+                "존 론",
+                "조안 첸",
+                "피터 오툴"
+            ]
+        },
+        {
+            "id": "서유기 - 월광보합",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=18542",
+            "genre": [
+                "코미디",
+                "액션",
+                "모험",
+                "판타지",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "유진위"
+            ],
+            "actor": [
+                "주성치",
+                "오맹달"
+            ]
+        },
+        {
+            "id": "칼리토",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=16217",
+            "genre": [
+                "범죄",
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "브라이언 드 팔마"
+            ],
+            "actor": [
+                "알 파치노",
+                "숀 펜",
+                "페네로프 앤 밀러"
+            ]
+        },
+        {
+            "id": "대부 2",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10072",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "프란시스 포드 코폴라"
+            ],
+            "actor": [
+                "알 파치노",
+                "로버트 듀발",
+                "다이안 키튼"
+            ]
+        },
+        {
+            "id": "뻐꾸기 둥지 위로 날아간 새",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10688",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포먼"
+            ],
+            "actor": [
+                "잭 니콜슨"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "코미디",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "액션",
+            "group": 4
+        },
+        {
+            "title": "서부",
+            "group": 5
+        },
+        {
+            "title": "범죄",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

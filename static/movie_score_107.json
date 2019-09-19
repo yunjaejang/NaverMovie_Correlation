@@ -1,0 +1,428 @@
+{
+    "links": [
+        {
+            "source": "그대를 사랑합니다",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 8.332401297394028,
+            "total": 8941,
+            "same": 745
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 7.833985114166772,
+            "total": 7927,
+            "same": 621
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "킹콩을 들다",
+            "value": 7.819804504887378,
+            "total": 9412,
+            "same": 736
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "도가니",
+            "value": 7.68351899457298,
+            "total": 10503,
+            "same": 807
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "에이트 빌로우",
+            "value": 7.054380664652568,
+            "total": 6620,
+            "same": 467
+        },
+        {
+            "source": "라따뚜이",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.952896100969124,
+            "total": 8874,
+            "same": 617
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "스쿨 오브 락",
+            "value": 6.933126374337084,
+            "total": 7731,
+            "same": 536
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "언터처블: 1%의 우정",
+            "value": 6.925327842202232,
+            "total": 9227,
+            "same": 639
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.915674441363562,
+            "total": 6131,
+            "same": 424
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "엽문",
+            "value": 6.853203568532036,
+            "total": 7398,
+            "same": 507
+        },
+        {
+            "source": "코러스",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.817436905932481,
+            "total": 6102,
+            "same": 416
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.7148616710690945,
+            "total": 7193,
+            "same": 483
+        },
+        {
+            "source": "프리퀀시",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.664207549489733,
+            "total": 8133,
+            "same": 542
+        },
+        {
+            "source": "업",
+            "target": "세상에서 가장 아름다운 이별",
+            "value": 6.65283203125,
+            "total": 8192,
+            "same": 545
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "똥파리",
+            "value": 6.63544997715852,
+            "total": 8756,
+            "same": 581
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "본 얼티메이텀",
+            "value": 6.634106634106635,
+            "total": 9828,
+            "same": 652
+        }
+    ],
+    "nodes": [
+        {
+            "id": "언터처블: 1%의 우정",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=87566",
+            "genre": [
+                "코미디",
+                "드라마"
+            ],
+            "director": [
+                "올리비에르 나카체",
+                "에릭 토레다노"
+            ],
+            "actor": [
+                "프랑수아 클루제",
+                "오마 사이"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "세상에서 가장 아름다운 이별",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=79762",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "배종옥",
+                "김갑수",
+                "김지영"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "본 얼티메이텀",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=59075",
+            "genre": [
+                "액션",
+                "미스터리",
+                "스릴러"
+            ],
+            "director": [
+                "폴 그린그래스"
+            ],
+            "actor": [
+                "맷 데이먼",
+                "줄리아 스타일스",
+                "데이빗 스트라탄"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "똥파리",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=68031",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "양익준"
+            ],
+            "actor": [
+                "양익준",
+                "김꽃비",
+                "이환"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "코미디",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "모험",
+            "group": 5
+        },
+        {
+            "title": "액션",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

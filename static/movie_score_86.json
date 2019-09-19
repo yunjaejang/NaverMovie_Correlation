@@ -1,0 +1,448 @@
+{
+    "links": [
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "공공의 적",
+            "value": 7.396449704142012,
+            "total": 2704,
+            "same": 200
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "터미네이터",
+            "value": 6.824644549763033,
+            "total": 2110,
+            "same": 144
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "value": 6.740576496674058,
+            "total": 2255,
+            "same": 152
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "사랑과 영혼",
+            "value": 6.188118811881188,
+            "total": 1616,
+            "same": 100
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "다이 하드",
+            "value": 6.170598911070781,
+            "total": 1653,
+            "same": 102
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "공동경비구역 JSA",
+            "value": 6.161449752883031,
+            "total": 3035,
+            "same": 187
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "쥬라기 공원",
+            "value": 5.985512771635531,
+            "total": 2623,
+            "same": 157
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "브레이브하트",
+            "value": 5.878186968838526,
+            "total": 2824,
+            "same": 166
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "늑대와 춤을",
+            "value": 5.829015544041451,
+            "total": 1544,
+            "same": 90
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "쿨 러닝",
+            "value": 5.805243445692884,
+            "total": 2136,
+            "same": 124
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "페이스 오프",
+            "value": 5.744336569579287,
+            "total": 2472,
+            "same": 142
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "쥬만지",
+            "value": 5.70515746234596,
+            "total": 2191,
+            "same": 125
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "오아시스",
+            "value": 5.609756097560976,
+            "total": 2050,
+            "same": 115
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "토이 스토리",
+            "value": 5.491329479768786,
+            "total": 2076,
+            "same": 114
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "빽 투 더 퓨쳐 2",
+            "value": 5.437219730941703,
+            "total": 1784,
+            "same": 97
+        },
+        {
+            "source": "우리들의 일그러진 영웅",
+            "target": "록키",
+            "value": 5.41497975708502,
+            "total": 1976,
+            "same": 107
+        }
+    ],
+    "nodes": [
+        {
+            "id": "나 홀로 집에 2 - 뉴욕을 헤매다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=12270",
+            "genre": [
+                "모험",
+                "액션",
+                "범죄",
+                "스릴러",
+                "코미디",
+                "가족"
+            ],
+            "director": [
+                "크리스 콜럼버스"
+            ],
+            "actor": [
+                "맥컬리 컬킨",
+                "조 페시",
+                "다니엘 스턴"
+            ]
+        },
+        {
+            "id": "우리들의 일그러진 영웅",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=12297",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박종원"
+            ],
+            "actor": [
+                "홍경인",
+                "고정일",
+                "최민식"
+            ]
+        },
+        {
+            "id": "쥬라기 공원",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=13500",
+            "genre": [
+                "SF",
+                "액션",
+                "모험"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "샘 닐",
+                "로라 던",
+                "제프 골드브럼"
+            ]
+        },
+        {
+            "id": "토이 스토리",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=17153",
+            "genre": [
+                "애니메이션",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "존 라세터"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌"
+            ]
+        },
+        {
+            "id": "록키",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=10021",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "존 G. 아빌드센"
+            ],
+            "actor": [
+                "실베스터 스탤론"
+            ]
+        },
+        {
+            "id": "다이 하드",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=10012",
+            "genre": [
+                "액션",
+                "스릴러",
+                "범죄"
+            ],
+            "director": [
+                "존 맥티어난"
+            ],
+            "actor": [
+                "브루스 윌리스"
+            ]
+        },
+        {
+            "id": "공동경비구역 JSA",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=15899",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "코미디",
+                "미스터리"
+            ],
+            "director": [
+                "박찬욱"
+            ],
+            "actor": [
+                "이영애",
+                "이병헌",
+                "송강호"
+            ]
+        },
+        {
+            "id": "브레이브하트",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=17162",
+            "genre": [
+                "액션",
+                "드라마",
+                "전쟁"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "멜 깁슨",
+                "소피 마르소",
+                "패트릭 맥구한"
+            ]
+        },
+        {
+            "id": "터미네이터",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10028",
+            "genre": [
+                "SF",
+                "액션",
+                "스릴러"
+            ],
+            "director": [
+                "제임스 카메론"
+            ],
+            "actor": [
+                "아놀드 슈왈제네거",
+                "마이클 빈",
+                "린다 해밀턴"
+            ]
+        },
+        {
+            "id": "쥬만지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=17440",
+            "genre": [
+                "모험",
+                "판타지",
+                "가족",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "조 존스톤"
+            ],
+            "actor": [
+                "로빈 윌리엄스",
+                "커스틴 던스트",
+                "데이빗 알란 그리어"
+            ]
+        },
+        {
+            "id": "늑대와 춤을",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=10244",
+            "genre": [
+                "서부",
+                "드라마",
+                "모험"
+            ],
+            "director": [
+                "케빈 코스트너"
+            ],
+            "actor": [
+                "케빈 코스트너"
+            ]
+        },
+        {
+            "id": "쿨 러닝",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=16218",
+            "genre": [
+                "드라마",
+                "코미디"
+            ],
+            "director": [
+                "존 터틀타웁"
+            ],
+            "actor": [
+                "리온",
+                "더그 E. 더그",
+                "롤 D. 루이스"
+            ]
+        },
+        {
+            "id": "빽 투 더 퓨쳐 2",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=10003",
+            "genre": [
+                "SF",
+                "코미디"
+            ],
+            "director": [
+                "로버트 저메키스"
+            ],
+            "actor": [
+                "마이클 J. 폭스",
+                "크리스토퍼 로이드"
+            ]
+        },
+        {
+            "id": "페이스 오프",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=18552",
+            "genre": [
+                "액션"
+            ],
+            "director": [
+                "오우삼"
+            ],
+            "actor": [
+                "존 트라볼타",
+                "니콜라스 케이지"
+            ]
+        },
+        {
+            "id": "오아시스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=34093",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "이창동"
+            ],
+            "actor": [
+                "설경구",
+                "문소리"
+            ]
+        },
+        {
+            "id": "공공의 적",
+            "group": 7,
+            "href": "/movie/bi/mi/basic.nhn?code=32610",
+            "genre": [
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "강우석"
+            ],
+            "actor": [
+                "설경구",
+                "이성재"
+            ]
+        },
+        {
+            "id": "사랑과 영혼",
+            "group": 8,
+            "href": "/movie/bi/mi/basic.nhn?code=10173",
+            "genre": [
+                "멜로/로맨스",
+                "드라마"
+            ],
+            "director": [
+                "제리 주커"
+            ],
+            "actor": [
+                "패트릭 스웨이지",
+                "데미 무어"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "모험",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "애니메이션",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        },
+        {
+            "title": "서부",
+            "group": 6
+        },
+        {
+            "title": "범죄",
+            "group": 7
+        },
+        {
+            "title": "멜로/로맨스",
+            "group": 8
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 8
+        }
+    ]
+}

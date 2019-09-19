@@ -1,0 +1,434 @@
+{
+    "links": [
+        {
+            "source": "엽문",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 8.760649413277607,
+            "total": 6221,
+            "same": 545
+        },
+        {
+            "source": "코러스",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 8.185840707964601,
+            "total": 4972,
+            "same": 407
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 8.165120931078377,
+            "total": 5499,
+            "same": 449
+        },
+        {
+            "source": "라따뚜이",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 8.074534161490684,
+            "total": 7728,
+            "same": 624
+        },
+        {
+            "source": "말아톤",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 8.064257028112449,
+            "total": 6225,
+            "same": 502
+        },
+        {
+            "source": "갓파 쿠와 여름방학을",
+            "target": "스쿨 오브 락",
+            "value": 7.950931394820536,
+            "total": 6603,
+            "same": 525
+        },
+        {
+            "source": "갓파 쿠와 여름방학을",
+            "target": "킹콩을 들다",
+            "value": 7.918064206995687,
+            "total": 8348,
+            "same": 661
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.866958773152759,
+            "total": 5021,
+            "same": 395
+        },
+        {
+            "source": "시간을 달리는 소녀",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.793846452489567,
+            "total": 10303,
+            "same": 803
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.595120534417658,
+            "total": 6886,
+            "same": 523
+        },
+        {
+            "source": "블라인드 사이드",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.5872284397630025,
+            "total": 6076,
+            "same": 461
+        },
+        {
+            "source": "갓파 쿠와 여름방학을",
+            "target": "명탐정 코난: 천공의 난파선",
+            "value": 7.512214983713355,
+            "total": 4912,
+            "same": 369
+        },
+        {
+            "source": "업",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.48337812986278,
+            "total": 7069,
+            "same": 529
+        },
+        {
+            "source": "갓파 쿠와 여름방학을",
+            "target": "월-E",
+            "value": 7.467863701285451,
+            "total": 9802,
+            "same": 732
+        },
+        {
+            "source": "인크레더블",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.42535866614967,
+            "total": 5158,
+            "same": 383
+        },
+        {
+            "source": "토이 스토리 3",
+            "target": "갓파 쿠와 여름방학을",
+            "value": 7.330227997058103,
+            "total": 8158,
+            "same": 598
+        }
+    ],
+    "nodes": [
+        {
+            "id": "월-E",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=69105",
+            "genre": [
+                "애니메이션",
+                "SF",
+                "가족",
+                "코미디",
+                "멜로/로맨스",
+                "모험"
+            ],
+            "director": [
+                "앤드류 스탠튼"
+            ],
+            "actor": [
+                "벤 버트",
+                "엘리사 나이트",
+                "제프 갈린"
+            ]
+        },
+        {
+            "id": "토이 스토리 3",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=66463",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "코미디",
+                "가족",
+                "판타지"
+            ],
+            "director": [
+                "리 언크리치"
+            ],
+            "actor": [
+                "톰 행크스",
+                "팀 알렌",
+                "조앤 쿠삭"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "업",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=52120",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "코미디",
+                "액션"
+            ],
+            "director": [
+                "피트 닥터",
+                "밥 피터슨"
+            ],
+            "actor": [
+                "에드워드 애스너",
+                "조던 나가이",
+                "크리스토퍼 플러머"
+            ]
+        },
+        {
+            "id": "블라인드 사이드",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=71081",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "존 리 행콕"
+            ],
+            "actor": [
+                "산드라 블록"
+            ]
+        },
+        {
+            "id": "라따뚜이",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=65021",
+            "genre": [
+                "코미디",
+                "가족",
+                "모험",
+                "애니메이션"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "패튼 오스왈트",
+                "루 로마노"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "인크레더블",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=36798",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "모험",
+                "액션",
+                "코미디"
+            ],
+            "director": [
+                "브래드 버드"
+            ],
+            "actor": [
+                "크레이그 T. 넬슨",
+                "홀리 헌터"
+            ]
+        },
+        {
+            "id": "엽문",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=48602",
+            "genre": [
+                "액션",
+                "드라마"
+            ],
+            "director": [
+                "엽위신"
+            ],
+            "actor": [
+                "견자단",
+                "임달화",
+                "슝다이린"
+            ]
+        },
+        {
+            "id": "갓파 쿠와 여름방학을",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=68502",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "하라 케이이치"
+            ],
+            "actor": [
+                "김연우",
+                "전진아",
+                "사문영"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        },
+        {
+            "id": "말아톤",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=39436",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "정윤철"
+            ],
+            "actor": [
+                "조승우",
+                "김미숙"
+            ]
+        },
+        {
+            "id": "스쿨 오브 락",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=37486",
+            "genre": [
+                "코미디"
+            ],
+            "director": [
+                "리처드 링클레이터"
+            ],
+            "actor": [
+                "잭 블랙"
+            ]
+        },
+        {
+            "id": "시간을 달리는 소녀",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63513",
+            "genre": [
+                "애니메이션",
+                "가족",
+                "드라마",
+                "판타지"
+            ],
+            "director": [
+                "호소다 마모루"
+            ],
+            "actor": [
+                "나카 리이사",
+                "이시다 타쿠야"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "애니메이션",
+            "group": 1
+        },
+        {
+            "title": "드라마",
+            "group": 2
+        },
+        {
+            "title": "코미디",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "액션",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}

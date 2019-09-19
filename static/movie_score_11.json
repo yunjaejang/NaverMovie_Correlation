@@ -1,0 +1,425 @@
+{
+    "links": [
+        {
+            "source": "하이 스쿨 뮤지컬: 졸업반",
+            "target": "덕구",
+            "value": 1.890359168241966,
+            "total": 4232,
+            "same": 80
+        },
+        {
+            "source": "명탐정 코난: 천공의 난파선",
+            "target": "덕구",
+            "value": 1.8600191754554172,
+            "total": 5215,
+            "same": 97
+        },
+        {
+            "source": "당갈",
+            "target": "덕구",
+            "value": 1.8410626893498019,
+            "total": 4291,
+            "same": 79
+        },
+        {
+            "source": "시네마 천국",
+            "target": "덕구",
+            "value": 1.7556431386599785,
+            "total": 5582,
+            "same": 98
+        },
+        {
+            "source": "그대를 사랑합니다",
+            "target": "덕구",
+            "value": 1.7435654133554739,
+            "total": 8431,
+            "same": 147
+        },
+        {
+            "source": "명탐정 코난: 베이커가의 망령",
+            "target": "덕구",
+            "value": 1.7345597897503284,
+            "total": 3805,
+            "same": 66
+        },
+        {
+            "source": "친정엄마",
+            "target": "덕구",
+            "value": 1.7248814144027595,
+            "total": 4638,
+            "same": 80
+        },
+        {
+            "source": "내 이름은 칸",
+            "target": "덕구",
+            "value": 1.7227235438884332,
+            "total": 7314,
+            "same": 126
+        },
+        {
+            "source": "세상에서 가장 아름다운 이별",
+            "target": "덕구",
+            "value": 1.7173950008501957,
+            "total": 5881,
+            "same": 101
+        },
+        {
+            "source": "킹콩을 들다",
+            "target": "덕구",
+            "value": 1.687289088863892,
+            "total": 8890,
+            "same": 150
+        },
+        {
+            "source": "맨발의 꿈",
+            "target": "덕구",
+            "value": 1.6800448011946985,
+            "total": 5357,
+            "same": 90
+        },
+        {
+            "source": "프리퀀시",
+            "target": "덕구",
+            "value": 1.6796560064498791,
+            "total": 7442,
+            "same": 125
+        },
+        {
+            "source": "코러스",
+            "target": "덕구",
+            "value": 1.6726179289607217,
+            "total": 5321,
+            "same": 89
+        },
+        {
+            "source": "울지마 톤즈",
+            "target": "덕구",
+            "value": 1.6679904686258933,
+            "total": 6295,
+            "same": 105
+        },
+        {
+            "source": "에이트 빌로우",
+            "target": "덕구",
+            "value": 1.6663832681516748,
+            "total": 5881,
+            "same": 98
+        },
+        {
+            "source": "도가니",
+            "target": "덕구",
+            "value": 1.623667695985656,
+            "total": 10039,
+            "same": 163
+        }
+    ],
+    "nodes": [
+        {
+            "id": "당갈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=157243",
+            "genre": [
+                "드라마",
+                "액션"
+            ],
+            "director": [
+                "니테쉬 티와리"
+            ],
+            "actor": [
+                "아미르 칸",
+                "파티마 사나 셰이크",
+                "산야 말호트라"
+            ]
+        },
+        {
+            "id": "덕구",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154667",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "방수인"
+            ],
+            "actor": [
+                "이순재",
+                "정지훈"
+            ]
+        },
+        {
+            "id": "그대를 사랑합니다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=73476",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "추창민"
+            ],
+            "actor": [
+                "이순재",
+                "윤소정",
+                "송재호"
+            ]
+        },
+        {
+            "id": "울지마 톤즈",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=76667",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "구수환"
+            ],
+            "actor": [
+                "이금희",
+                "이태석"
+            ]
+        },
+        {
+            "id": "프리퀀시",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=29657",
+            "genre": [
+                "범죄",
+                "드라마",
+                "SF",
+                "스릴러"
+            ],
+            "director": [
+                "그레고리 호블릿"
+            ],
+            "actor": [
+                "데니스 퀘이드",
+                "제임스 카비젤"
+            ]
+        },
+        {
+            "id": "코러스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=39584",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "크리스토퍼 파라티에"
+            ],
+            "actor": [
+                "제라르 쥐노",
+                "프랑수와 벨레앙",
+                "장 밥티스트 모니에"
+            ]
+        },
+        {
+            "id": "내 이름은 칸",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=70651",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "카란 조하르"
+            ],
+            "actor": [
+                "샤룩 칸",
+                "까졸"
+            ]
+        },
+        {
+            "id": "시네마 천국",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10001",
+            "genre": [
+                "드라마",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "쥬세페 토르나토레"
+            ],
+            "actor": [
+                "자끄 페렝",
+                "브리지트 포시",
+                "필립 느와레"
+            ]
+        },
+        {
+            "id": "세상에서 가장 아름다운 이별",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=79762",
+            "genre": [
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "민규동"
+            ],
+            "actor": [
+                "배종옥",
+                "김갑수",
+                "김지영"
+            ]
+        },
+        {
+            "id": "맨발의 꿈",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=51083",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "김태균"
+            ],
+            "actor": [
+                "박희순",
+                "고창석"
+            ]
+        },
+        {
+            "id": "도가니",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=75413",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "황동혁"
+            ],
+            "actor": [
+                "공유",
+                "정유미"
+            ]
+        },
+        {
+            "id": "에이트 빌로우",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=58323",
+            "genre": [
+                "모험",
+                "드라마",
+                "가족"
+            ],
+            "director": [
+                "프랭크 마샬"
+            ],
+            "actor": [
+                "폴 워커"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 베이커가의 망령",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=38613",
+            "genre": [
+                "애니메이션"
+            ],
+            "director": [
+                "코다마 켄지"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나"
+            ]
+        },
+        {
+            "id": "하이 스쿨 뮤지컬: 졸업반",
+            "group": 6,
+            "href": "/movie/bi/mi/basic.nhn?code=45774",
+            "genre": [
+                "뮤지컬",
+                "코미디",
+                "드라마",
+                "가족",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "케니 오테가"
+            ],
+            "actor": [
+                "잭 에프론",
+                "바네사 허진스",
+                "애슐리 티스데일"
+            ]
+        },
+        {
+            "id": "친정엄마",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=71932",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "유성엽"
+            ],
+            "actor": [
+                "김해숙",
+                "박진희"
+            ]
+        },
+        {
+            "id": "킹콩을 들다",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=50672",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "박건용"
+            ],
+            "actor": [
+                "이범수",
+                "조안"
+            ]
+        },
+        {
+            "id": "명탐정 코난: 천공의 난파선",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=75216",
+            "genre": [
+                "애니메이션",
+                "모험",
+                "가족"
+            ],
+            "director": [
+                "야마모토 야스이치로"
+            ],
+            "actor": [
+                "타카야마 미나미",
+                "야마자키 와카나",
+                "야마구치 캇페이"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "범죄",
+            "group": 3
+        },
+        {
+            "title": "모험",
+            "group": 4
+        },
+        {
+            "title": "애니메이션",
+            "group": 5
+        },
+        {
+            "title": "뮤지컬",
+            "group": 6
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 6
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "links": [
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "우리들",
+            "value": 2.789886660854403,
+            "total": 3441,
+            "same": 96
+        },
+        {
+            "source": "내 어깨 위 고양이, 밥",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.3829431438127093,
+            "total": 2392,
+            "same": 57
+        },
+        {
+            "source": "히든 피겨스",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.380038387715931,
+            "total": 5210,
+            "same": 124
+        },
+        {
+            "source": "원더",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.2991071428571432,
+            "total": 4480,
+            "same": 103
+        },
+        {
+            "source": "핵소 고지",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.1840242669362993,
+            "total": 4945,
+            "same": 108
+        },
+        {
+            "source": "어느 가족",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.139364303178484,
+            "total": 4908,
+            "same": 105
+        },
+        {
+            "source": "빌리 엘리어트",
+            "target": "나, 다니엘 블레이크",
+            "value": 2.0828950136755733,
+            "total": 4753,
+            "same": 99
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "타인의 삶",
+            "value": 1.9860323003055433,
+            "total": 4582,
+            "same": 91
+        },
+        {
+            "source": "아마데우스",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.927818874691773,
+            "total": 4461,
+            "same": 86
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "리멤버 타이탄",
+            "value": 1.927007299270073,
+            "total": 3425,
+            "same": 66
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "그랜 토리노",
+            "value": 1.908682634730539,
+            "total": 5344,
+            "same": 102
+        },
+        {
+            "source": "나, 다니엘 블레이크",
+            "target": "뷰티풀 마인드",
+            "value": 1.9013790221479314,
+            "total": 4786,
+            "same": 91
+        },
+        {
+            "source": "자백",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.891891891891892,
+            "total": 4810,
+            "same": 91
+        },
+        {
+            "source": "마이너리티 리포트",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.8664047151277015,
+            "total": 4072,
+            "same": 76
+        },
+        {
+            "source": "미스 슬로운",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.8647281921618204,
+            "total": 3164,
+            "same": 59
+        },
+        {
+            "source": "헬프",
+            "target": "나, 다니엘 블레이크",
+            "value": 1.8480909829406988,
+            "total": 4924,
+            "same": 91
+        }
+    ],
+    "nodes": [
+        {
+            "id": "원더",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=151196",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "스티븐 크보스키"
+            ],
+            "actor": [
+                "제이콥 트렘블레이",
+                "줄리아 로버츠",
+                "오웬 윌슨"
+            ]
+        },
+        {
+            "id": "헬프",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=82432",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "테이트 테일러"
+            ],
+            "actor": [
+                "엠마 스톤",
+                "비올라 데이비스",
+                "옥타비아 스펜서"
+            ]
+        },
+        {
+            "id": "히든 피겨스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=147092",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "데오도르 멜피"
+            ],
+            "actor": [
+                "타라지 P. 헨슨",
+                "옥타비아 스펜서",
+                "자넬 모네"
+            ]
+        },
+        {
+            "id": "아마데우스",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=10114",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "밀로스 포만"
+            ],
+            "actor": [
+                "톰 헐스",
+                "F. 머레이 아브라함",
+                "엘리자베스 베리지"
+            ]
+        },
+        {
+            "id": "빌리 엘리어트",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=31013",
+            "genre": [
+                "드라마",
+                "가족",
+                "코미디"
+            ],
+            "director": [
+                "스티븐 달드리"
+            ],
+            "actor": [
+                "제이미 벨",
+                "줄리 월터스",
+                "게리 루이스"
+            ]
+        },
+        {
+            "id": "미스 슬로운",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142632",
+            "genre": [
+                "드라마",
+                "스릴러"
+            ],
+            "director": [
+                "존 매든"
+            ],
+            "actor": [
+                "제시카 차스테인"
+            ]
+        },
+        {
+            "id": "자백",
+            "group": 2,
+            "href": "/movie/bi/mi/basic.nhn?code=146534",
+            "genre": [
+                "다큐멘터리"
+            ],
+            "director": [
+                "최승호"
+            ],
+            "actor": [
+                "최승호",
+                "김기춘",
+                "원세훈"
+            ]
+        },
+        {
+            "id": "나, 다니엘 블레이크",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=150376",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "켄 로치"
+            ],
+            "actor": [
+                "데이브 존스",
+                "헤일리 스콰이어"
+            ]
+        },
+        {
+            "id": "우리들",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=146504",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "윤가은"
+            ],
+            "actor": [
+                "최수인",
+                "설혜인",
+                "이서연"
+            ]
+        },
+        {
+            "id": "마이너리티 리포트",
+            "group": 3,
+            "href": "/movie/bi/mi/basic.nhn?code=31788",
+            "genre": [
+                "SF",
+                "드라마",
+                "미스터리",
+                "범죄",
+                "액션"
+            ],
+            "director": [
+                "스티븐 스필버그"
+            ],
+            "actor": [
+                "톰 크루즈"
+            ]
+        },
+        {
+            "id": "뷰티풀 마인드",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=34010",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "론 하워드"
+            ],
+            "actor": [
+                "러셀 크로우",
+                "에드 해리스",
+                "제니퍼 코넬리"
+            ]
+        },
+        {
+            "id": "리멤버 타이탄",
+            "group": 4,
+            "href": "/movie/bi/mi/basic.nhn?code=30897",
+            "genre": [
+                "가족",
+                "드라마"
+            ],
+            "director": [
+                "보아즈 야킨"
+            ],
+            "actor": [
+                "덴젤 워싱톤"
+            ]
+        },
+        {
+            "id": "타인의 삶",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=63403",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "플로리안 헨켈 폰 도너스마르크"
+            ],
+            "actor": [
+                "울리히 뮤흐",
+                "마르티나 게덱",
+                "세바스티안 코치"
+            ]
+        },
+        {
+            "id": "그랜 토리노",
+            "group": 5,
+            "href": "/movie/bi/mi/basic.nhn?code=51462",
+            "genre": [
+                "범죄",
+                "드라마"
+            ],
+            "director": [
+                "클린트 이스트우드"
+            ],
+            "actor": [
+                "클린트 이스트우드",
+                "크리스토퍼 칼리",
+                "비 방"
+            ]
+        },
+        {
+            "id": "핵소 고지",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=142305",
+            "genre": [
+                "드라마",
+                "전쟁",
+                "멜로/로맨스"
+            ],
+            "director": [
+                "멜 깁슨"
+            ],
+            "actor": [
+                "앤드류 가필드",
+                "샘 워싱턴",
+                "휴고 위빙"
+            ]
+        },
+        {
+            "id": "어느 가족",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=172174",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "고레에다 히로카즈"
+            ],
+            "actor": [
+                "릴리 프랭키",
+                "안도 사쿠라",
+                "마츠오카 마유"
+            ]
+        },
+        {
+            "id": "내 어깨 위 고양이, 밥",
+            "group": 1,
+            "href": "/movie/bi/mi/basic.nhn?code=154379",
+            "genre": [
+                "드라마"
+            ],
+            "director": [
+                "로저 스포티스우드"
+            ],
+            "actor": [
+                "루크 트레더웨이"
+            ]
+        }
+    ],
+    "genre_data": [
+        {
+            "title": "드라마",
+            "group": 1
+        },
+        {
+            "title": "다큐멘터리",
+            "group": 2
+        },
+        {
+            "title": "SF",
+            "group": 3
+        },
+        {
+            "title": "가족",
+            "group": 4
+        },
+        {
+            "title": "범죄",
+            "group": 5
+        }
+    ],
+    "data": [
+        {
+            "movie_n": 251,
+            "genre_n": 5
+        }
+    ]
+}
